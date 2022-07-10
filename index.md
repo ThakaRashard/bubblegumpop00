@@ -133,7 +133,7 @@ table {
 	
 body {
   color: white;
-	 background: url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/bd_type1_citycrop.jpg) no-repeat center center fixed; 
+	 background: url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/bd_type1_citycrop.jpg) background-size: cover; 
   font-family: -apple-system, Monaco, "Bitstream Vera Sans Mono",
     "Lucida Console", Terminal, monospace, BlinkMacSystemFont, "Segoe UI",
     Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
@@ -346,8 +346,8 @@ text-align: left;
 .twoPanelSpread {
   margin: 0px;
   padding: 0px;
-  background: url( https://i.giphy.com/media/ddZXIrimeaXY0xclfC/giphy.webp )
-    center repeat;
+  background: url( https://i.giphy.com/media/ddZXIrimeaXY0xclfC/giphy.webp );
+    background-size: cover;
 }
 
 .row {
