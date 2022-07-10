@@ -151,7 +151,18 @@ iframe {
 
 p
 {
-  background-image: url("https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-black.gif");
+	color: white;
+  font-size: 1.5rem;
+  background: rgba(0, 0, 0, 0.83);
+  font-family: "Lucida Console", Monaco, "Bitstream Vera Sans Mono", Terminal,
+    monospace, "Helvetica Neue", sans-serif;
+  letter-spacing: 1px;
+  word-spacing: 1.5px;
+  font-weight: 500;
+  font-style: normal;
+  font-variant: normal;
+  text-transform: none;
+  /* background-image: url("https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-black.gif"); */
 }
 	
 img {
@@ -571,6 +582,7 @@ Relative position for absolute caption
 3 # ANOTHER###############################################
 4 # UNiVERSE##############################################
 ```
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/m4-9mYrbXVI" title="##DEAR_KELELA##WE_WENT_HOME_THIS_MORNING_AND_I_MISSED_YOU##I_LOVE_YOU_FOREVER" frameborder="0" ></iframe>
 <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/Screenshot%202022-07-10%204.21.33%20AM.png">
 <img src="https://www.adbranch.com/wp-content/uploads/chrysler_dodge_charger_1970-610x307.jpg">
 <div class='twoPanelSpread'>
