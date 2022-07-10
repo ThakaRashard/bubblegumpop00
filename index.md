@@ -86,10 +86,8 @@ video {
   padding: 0;
   border: 0;
   font-size: 100%;
-  font-family: "Lucida Console", -apple-system, Monaco,
-    "Bitstream Vera Sans Mono", Terminal, monospace, BlinkMacSystemFont,
-    "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue",
-    sans-serif;
+  font-family: "Lucida Console", Monaco,
+    "Bitstream Vera Sans Mono", Terminal, monospace, "Helvetica Neue", sans-serif;
 }
 /* HTML5 display-role reset for older browsers */
 article,
@@ -133,10 +131,10 @@ table {
 	
 body {
   color: white;
-	 background: url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/bd_type1_citycrop.jpg) background-size: cover; 
-  font-family: -apple-system, Monaco, "Bitstream Vera Sans Mono",
-    "Lucida Console", Terminal, monospace, BlinkMacSystemFont, "Segoe UI",
-    Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+	background: url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/bd_type1_citycrop.jpg);
+background-size: cover; 
+  font-family: "Lucida Console", Monaco,
+    "Bitstream Vera Sans Mono", Terminal, monospace, "Helvetica Neue", sans-serif;
   line-height: 1.5;
    -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -169,9 +167,8 @@ h3 {
   background: transparent
     url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-gray.gif)
     center repeat;
-  font-family: "Helvetica Neue", "Bitstream Vera Sans Mono", sans-serif, -apple-system, Monaco, 
-    "Lucida Console", Terminal, monospace, BlinkMacSystemFont, "Segoe UI",
-    Roboto, Oxygen-Sans, Ubuntu, Cantarell;
+font-family: "Lucida Console", Monaco,
+    "Bitstream Vera Sans Mono", Terminal, monospace, "Helvetica Neue", sans-serif;
   font-weight: 900;
   padding: 0px;
   margin: 0px;
@@ -183,7 +180,8 @@ h3 {
 
 h2 {
 font-weight: 900;
-font-family: "Helvetica Neue", sans-serif, "Lucida Console", Terminal;
+font-family: "Lucida Console", Monaco,
+    "Bitstream Vera Sans Mono", Terminal, monospace, "Helvetica Neue", sans-serif;
 padding: 0px;
 margin: 0px;
 text-align: left;
@@ -193,9 +191,8 @@ text-align: left;
   color: #fff;
   text-shadow: 0 0 7px #fff, 0 0 10px #fff, 0 0 21px #fff, 0 0 42px #0fa,
     0 0 82px #0fa, 0 0 92px #0fa, 0 0 102px #0fa, 0 0 151px #0fa;
-  font-family: -apple-system, Monaco, "Bitstream Vera Sans Mono",
-    "Lucida Console", Terminal, monospace, BlinkMacSystemFont, "Segoe UI",
-    Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+font-family: "Lucida Console", Monaco,
+    "Bitstream Vera Sans Mono", Terminal, monospace, "Helvetica Neue", sans-serif;
   float: left;
   font-size: 75px;
   line-height: 60px;
@@ -208,9 +205,8 @@ text-align: left;
   color: #fff;
   text-shadow: 0 0 7px #fff, 0 0 10px #fff, 0 0 21px #fff, 0 0 42px #0fa,
     0 0 82px #0fa, 0 0 92px #0fa, 0 0 102px #0fa, 0 0 151px #0fa;
-  font-family: -apple-system, Monaco, "Bitstream Vera Sans Mono",
-    "Lucida Console", Terminal, monospace, BlinkMacSystemFont, "Segoe UI",
-    Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
+font-family: "Lucida Console", Monaco,
+    "Bitstream Vera Sans Mono", Terminal, monospace, "Helvetica Neue", sans-serif;
 }
 
 .storyBox {
@@ -406,8 +402,8 @@ a:hover {
   border-bottom: 0px dashed #c9ff23;
   font-size: 20px;
   color: white;
-  font-family: Monaco, "Bitstream Vera Sans Mono", "Lucida Console", Terminal,
-    monospace;
+font-family: "Lucida Console", Monaco,
+    "Bitstream Vera Sans Mono", Terminal, monospace, "Helvetica Neue", sans-serif;
 }
 
 .pdivAlbumReview {
