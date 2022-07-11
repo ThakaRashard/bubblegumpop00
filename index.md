@@ -582,6 +582,21 @@ Relative position for absolute caption
 3 # ANOTHER###############################################
 4 # UNiVERSE##############################################
 ```
+
+<div class="flex-container">
+   
+    <div class="item1">                        <img src="https://images.squarespace-cdn.com/content/v1/62447dd4d881f678fe92e43a/50b6a60b-8da2-4889-939a-0f401b9afc31/a14.jpg?format=300w" /></div>
+    <div class="item2">                        <img src="https://images.squarespace-cdn.com/content/v1/62447dd4d881f678fe92e43a/d22a4941-8fd8-4921-99b6-bb454507b92e/2419-066.jpg?format=300w" /></div>
+    <div class="item3">                        <img src="https://images.squarespace-cdn.com/content/v1/62447dd4d881f678fe92e43a/253150db-c0b8-41fc-9f85-b376b81efa40/4309-076.jpg?format=500w" /></div>
+</div>
+<img src="https://lastfm.freetls.fastly.net/i/u/ar0/a6e0c4b09a7e60ea536f0968ede717c8.jpg">
+<div class="flex-container">
+   
+    <div class="item1">                        <img src="https://images.squarespace-cdn.com/content/v1/62447dd4d881f678fe92e43a/87189750-9f2b-47fa-8648-6b95f41e3b59/shu.jpg?format=300w" /></div>
+    <div class="item2">                        <img src="https://images.squarespace-cdn.com/content/v1/62447dd4d881f678fe92e43a/7ab3c3b7-1132-4754-96b8-1f2f961e8905/0889-066.jpg?format=300w" /></div>
+    <div class="item3">                        <img src="https://images.squarespace-cdn.com/content/v1/62447dd4d881f678fe92e43a/409ca270-2fb6-4189-8a67-aa4a84430e72/4314-075.jpg?format=500w" /></div>
+</div>
+<img src="https://images.squarespace-cdn.com/content/v1/62447dd4d881f678fe92e43a/6c900e39-8ee1-4001-82da-dbc06951bb6c/1980-013.jpg?format=750w">
 <img src="https://i1.sndcdn.com/artworks-000338883327-fwjlot-t500x500.jpg">
 <div class="flex-container">
    
