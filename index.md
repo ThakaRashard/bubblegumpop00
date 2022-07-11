@@ -582,6 +582,48 @@ Relative position for absolute caption
 3 # ANOTHER###############################################
 4 # UNiVERSE##############################################
 ```
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://i.pinimg.com/736x/e0/20/7e/e0207e49ac30edb115538e725c52d984.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://m.media-amazon.com/images/I/91ypCer3xtL._SX466_.jpg" alt="Girl in a jacket" >
+      </div>
+    </div>
+  </div>
+</div>
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://m.media-amazon.com/images/I/81waprc9dJL._SS500_.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://images.genius.com/f38aa5d566b0eb090a622ab461fefeb7.468x468x1.jpg" alt="Girl in a jacket" >
+      </div>
+    </div>
+  </div>
+</div>
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://m.media-amazon.com/images/I/81waprc9dJL._SS500_.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://images.genius.com/f38aa5d566b0eb090a622ab461fefeb7.468x468x1.jpg" alt="Girl in a jacket" >
+      </div>
+    </div>
+  </div>
+</div>
 [##DURO_CiA_PERSONAL_SQUARESPACE](https://www.durocia.com/model-trains)
 <img src="https://i.discogs.com/ST1XMjKQ2Kc98_DBA2HdNPRENYTuuRr1Q8IcLzKA5pg/rs:fit/g:sm/q:90/h:561/w:579/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDUy/NDEtMTM3OTg3NjQ4/Ny00OTk2LmpwZWc.jpeg">
 <div class="flex-container">
