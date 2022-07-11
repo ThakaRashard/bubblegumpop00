@@ -582,9 +582,107 @@ Relative position for absolute caption
 3 # ANOTHER###############################################
 4 # UNiVERSE##############################################
 ```
-<img src"https://www.graffiti.org/trains/jek-train02.jpg">
 <div>
-<img src="https://m.media-amazon.com/images/I/51DA6cepmuL._SY355_.jpg">
+	
+GANG RAPE IN CONCERT LAW – PENAL CODE 264.1 PC
+California Penal Code 264.1 PC makes it a crime to act in concert with another person in the commission of a rape, commonly known as “gang rape.”
+
+This rape in concert statute applies when two or more people work together to engage in non-consensual sexual intercourse with a victim. PC 264.1 gang rape is a crime in itself, not a sentencing enhancement for other offenses.
+
+Gang Rape in Concert Law in California – Penal Code 264.1 PC
+PC 264.1 describes gang rape gang rape as two or more people working together to commit a rape.
+Rape is a crime in every state, but California has a specific law making it a crime for two or more people to cooperate (or act in concert) in committing an act of rape.
+
+PC 264.1 legally defines rape in concert as “when the defendant, voluntarily acting in concert with another person, by force or violence against the victim's will to commit a sex crime, either personally or by aiding and abetting the other person, that fact shall be charged in the indictment….”
+
+Simply put, rape in concert with another is charged under Penal Code 264.1 PC when forcible rape occurs while acting in concert with another or aiding and abetting the commission of a rape.
+
+The prosecution must prove that the alleged victim was forcibly raped to convict someone under this statute. Next, it must be proven that you were criminally liable for committing the rape or aided and abetted the rape.
+
+Rape, defined under Penal Code 261 PC, is a serious felony sex offense that carries significant legal penalties if you are convicted. In addition to the lengthy state prison sentence, you could be ordered by the judge to register as a sex offender and have a violent strike on your record for life.
+
+In this article by our Los Angeles criminal defense attorneys, we will examine this topic in more detail below.
+
+OVERVIEW OF CALIFORNIA'S “GANG RAPE” LAW
+Penal Code 264.1 makes it a felony offense for any two or more people to act in concert to commit an act of non-consensual sex against someone else. You violate this law if you:
+
+Commit an act of rape with someone else's assistance; OR
+Assist someone in committing an act of rape (i.e., aiding and abetting).
+This law does not differentiate between the person committing the rape and those assisting. All are charged with the same crime and are subject to the same penalties as though they all raped the victim, no matter what role they played in the act itself.
+
+Under California law, the person who “aids and abets” someone in the act of rape is also charged with an in-concert act of rape. “Aiding and abetting” a crime means the following:
+
+You knew of the perpetrator's intentions beforehand;
+You intended to help them commit the crime; and
+You assisted or facilitated the crime by words or deeds.
+One important note: You technically do not have to be physically present to aid and abet a crime. You simply have to have done something material that contributed to its commission.
+
+This means that under certain circumstances, you could be charged under California's gang rape law without being physically present when the alleged rape occurred if prosecutors can show that you had a hand in the planning, for example.
+
+This statute only applies to serious felony sexual-related crimes such as Penal Code 261 rape, Penal Code 262 spousal rape (repealed), and Penal Code 289 PC forcible sexual penetration with a foreign object.
+
+WHAT ARE SOME EXAMPLES OF RAPE IN CONCERT?
+Two or more people break into a home to burglarize it and find a couple occupying the home. One holds the husband at gunpoint while the other rapes the wife;
+A frat party gets out of hand, and a group of men takes turns raping a woman while the others hold her down;
+An angry ex-boyfriend brings an accomplice to the ex-girlfriend's house “just to talk.” Several friends are present. The accomplice distracts the friends with conversation in one room while the ex-boyfriend rapes the girl in the bedroom.
+WHAT ARE THE PENALTIES FOR PENAL CODE 264.1 PC?
+The penalties for gang rape are pretty straightforward. The crime is always charged as a felony offense, and the maximum penalties are based on the age of the victim:
+
+If the victim is an adult 18 or older…up to 9 years in prison;
+If the victim is a minor over the age of 14…up to 11 years in prison;
+If the victim is under age 14…up to 14 years in prison.
+These legal penalties above are in addition to the sentence for the underlying rape conviction.
+
+WHAT ARE THE SEXUAL-RELATED OFFENSES?
+Penal Code 264.1 PC gang rape is often charged in tandem with other crimes due to its violent and forceful nature. These may include but are not limited to the following below.
+
+Penal Code 261 PC rape - in certain instances, the person who raped the victim may also be charged with the separate crime of rape.
+
+Charges Related to Gang Rape
+Prosecutors could also file other related crimes to rape in concert, such as oral copulation by force or fear.
+Penal Code 240 PC assault - attempting to use force on someone else, commonly during gang rape events. Penal Code 242 PC battery - using force on someone else (e.g., hitting the victim while the rape occurs).
+
+Penal Code 220 PC assault with intent to commit a felony -a separate felony often charged with sex crimes such as rape or gang rape.
+
+Penal Code 287 PC oral copulation by force or fear is non-consensual contact between someone's mouth and another person's genitals.
+
+Penal Code 243.4 PC sexual battery – this is the crime of touching the intimate parts of someone's body for sexual gratification.
+
+Penal Code 288 PC lewd acts with a minor – this is the severe crime of lewd and lascivious acts with a minor child under 14 years old.
+
+Penal Code 261.5 PC statutory rape is the crime of having sexual intercourse with someone under 18, even if there was consent.
+
+Penal Code 286 PC sodomy – this is the crime of contact between the penis and anus of another person by use of force, fear, or threats,
+
+WHAT ARE THE COMMON DEFENSES?
+Suppose you're charged with gang rape, and you are the person accused of actually committing the act of rape. In that case, your defenses are relatively limited, except for establishing an alibi, mistaken identity, or false accusation, for example.
+
+If you are accused in the role of aiding and abetting a gang rape, however, your attorney may employ several types of defenses to have you acquitted or to have the charges dropped or reduced. These include, but are not limited to:
+
+You didn't intend to aid or abet. Perhaps you were unaware of the rapist's intentions, for example, in an adjoining room, unaware the rape was occurring;
+You withdrew your intention to aid or abet. In other words, you may have initially intended to participate in the crime, but you had a change of heart. This defense works best if you can provide evidence or witness testimony that you made your intentions clear to the other defendants and actively tried to prevent the crime.
+Other defenses to rape in concert charges include arguing that the alleged victim gave consent. Perhaps we can prove through direct or circumstantial evidence that the victim permitted the sexual activity.
+
+Perhaps we can show that the allegations are false and you were wrongfully arrested after the alleged victim had regrets about consenting to have sexual intercourse. Maybe the accuser had a motivation to lie.
+
+Common Defenses for Gang Rape Charges
+There are several common defense to challenge allegations that you committed PC 264.1 gang rape.
+Perhaps we could argue that you did not know that you had no idea that rape was about to occur even though you were present. Maybe you are the victim of misidentification by the alleged victim.
+
+Perhaps there was misconduct by the police, such as an illegal search or a coerced confession.  If we can show law enforcement acted unlawfully, then the prosecution may be forced to drop the case. Prosecutors have the burden to prove guilt beyond any reasonable doubt. The criminal charge should be dropped if they can't meet this high burden.
+
+Further, depending on the case, we might be able to negotiate with the prosecutor for reduced charges or get a case dismissal. Also, prefiling negotiation with law enforcement and the District Attorney's Office, it might be possible to persuade them from filing formal criminal charges in the first place, called a “DA reject.”
+
+Eisner Gorin LLP is based in Los Angeles County, and we serve people across the state of California. You can reach us for an initial case review by calling (877) 781-1570 or filling out the contact form.	
+</div>	
+
+<img src="https://images.squarespace-cdn.com/content/v1/62447dd4d881f678fe92e43a/ccffd19b-ea72-4639-a916-0df64dac9d59/3356412.jpg?format=750w">
+<img src="https://images.squarespace-cdn.com/content/v1/62447dd4d881f678fe92e43a/5195141b-4ea9-488a-b4f6-af819a8cbbc2/duro+cia+graffiti+sketch+26.jpg?format=750w">
+<img src="https://images.squarespace-cdn.com/content/v1/62447dd4d881f678fe92e43a/a3f800d8-f1ba-417e-8d90-0fea43fe2099/0492+Large2.jpg?format=1500w">
+<img src="https://images.squarespace-cdn.com/content/v1/62447dd4d881f678fe92e43a/da30794c-b30a-4b6e-8e7f-cb7f5fdb7798/duro+cia+graffiti+%2314.jpg">
+<img src="https://www.graffiti.org/trains/jek-train02.jpg">
+<div>
+<img src="https://m.media-amazon.com/images/I/91b3+jqIK4L._SS500_.jpg">
 </div>
 <div>
 Talking with Children About War
