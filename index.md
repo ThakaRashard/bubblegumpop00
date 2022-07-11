@@ -583,6 +583,55 @@ Relative position for absolute caption
 4 # UNiVERSE##############################################
 ```
 <div>
+<img src="https://m.media-amazon.com/images/I/51DA6cepmuL._SY355_.jpg">
+</div>
+<div>
+Talking with Children About War
+www.medicinenet.com
+
+In addition to the children whose lives have been directly impacted by the terrorist attacks and war, most children have seen terrifying images of destruction on television and the Internet. They are reading newspapers and they have heard stories on the radio that speak of grave losses of life. They will also take emotional cues from the adults in their lives who have been watching these events closely.
+
+As adults turn to address the needs of the children in their lives in the aftermath of the tragic and traumatic events, the following are some points to keep in mind:
+
+Adults need to consider the impact of their reactions upon their children. By creating a calm and relaxed environment in their homes through their own demeanor, they can help their children to feel safe. That may not be possible for all families, particularly those that have been directly impacted. If they have been visibly anxious or upset, adults need to take the time to explain to the children in their lives what they are feeling and why.
+
+Taking the time to listen and talk to children is very important. Many children will have seen images on television that will prompt questions. They will continue to hear about these events in the coming days as well and will be reminded by images through media and in their everyday lives, so it is important to keep those lines of communication open.
+In talking to children, adults can and should try to reinforce that they are doing everything in their power to make sure their children are safe, and explain that the events that took place, or that are taking place, occurred in buildings that are symbols to the outside world or that are part of our national defense system. Assure them that adults are working to make sure homes and schools are safe.
+
+Helping children to separate fact from fiction is also important. Adults should try to discuss known facts with children, and help avoid speculation or exaggeration.
+
+Incidents have occurred since the 9/11 tragedy where children of Middle Eastern descent have been threatened or taunted. This is an excellent opportunity to help children understand that most individuals who are from other countries are fine and good people who live in and love the United States as much as they do, and that one should make judgments on an individual basis.
+
+Adults can also talk with children about the senselessness of violence, hate and terrorism. They can explain that our country is committed to protecting the freedom, opportunity and safety of people throughout the world.
+
+Although you hear it suggested often, if you are home with a child, you should take extra efforts to limit their television, radio and Internet activity in order to avoid excessive exposure to imagery of the damage and destruction. Consider activities that you can do with your child instead. Confine your own viewing to times when children are less likely to be present.
+Adults need to make it a priority to watch the children in their lives, and understand their behavior. Children may manifest some behavioral and emotional changes, including misbehavior, sleeplessness, nightmares and general anxiety. These are signs to parents that reassurance and care are needed.
+
+If a family has strong faith, this is a time to talk about that faith with children and to help them relate what has taken place to those lessons and beliefs. It is also a time to pray for all of those families who have been touched by the destruction and loss of life.
+
+Children and adolescents may also be struggling to understand the immorality of the terrorist attacks or war. This is an opportunity for adults to help children understand the presence of good and evil in the world and discuss children's concerns about a moral and safe future.
+
+Children will have a range of reactions and will display a variety of emotions. Adults need to be tolerant of that behavior and need to explain to children that it is okay to be upset or disturbed.
+
+If your child wants to be unusually close to you, like sleeping in your bed or running all errands with you, it is okay to make changes to your normal routine and contact, but at the very beginning you should create a clear understanding that this is unusual and negotiate a quick return to your normal pattern.
+
+Adults need to consider how the events may have had some relevance to their daily activities. For example, if you travel often by plane, work in a tall building or in an area that is highly populated, you may find that your child does not want to be separated from you. It is important to take the time to talk about and help your children to feel secure about separations and understand your activities and routine.
+
+It may take some time for children to show signs of stress or anxiety, so the adults in their lives need to stay especially attuned for changes in behavior. Children within a single family may display very different reactions from one another. Adolescents in particular may display reckless behavior in the aftermath of the events.
+
+Finally, it may help to engage your children in activities where they can offer constructive assistance to the victims of the violence. With young children, you may want to send drawings and cards. If your child is a teenager, he or she may want to donate blood or volunteer with a community organization that is offering help to the victims of the terrorist attacks or war.
+If you think you need professional assistance in meeting the needs of a child in your life, there are resources available to you. There are excellent state and county mental health organizations around the country. Schools, community based organizations and religious institutions that are located in your community can help with guidance and counseling or direct you to the right services.
+
+For additional information, please visit the Posttraumatic Stress Center.
+
+This information has been provided with the kind permission of the US Department of Education (www.ed.gov).
+Last Editorial Review: 4/2/2003
+
+http://www.medicinenet.com/script/main/art.asp?articlekey=22905
+
+
+</div>
+<div>
 Perspectives on Acquaintance Rape
 David G. Curtis, Ph.D., B.C.E.T.S.
 Clinical Associate, Long Island Psychological Associates, P.C.
