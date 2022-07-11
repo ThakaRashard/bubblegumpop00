@@ -582,7 +582,8 @@ Relative position for absolute caption
 3 # ANOTHER###############################################
 4 # UNiVERSE##############################################
 ```
-
+[##DURO_CiA_PERSONAL_SQUARESPACE](https://www.durocia.com/model-trains)
+<img src="https://i.discogs.com/ST1XMjKQ2Kc98_DBA2HdNPRENYTuuRr1Q8IcLzKA5pg/rs:fit/g:sm/q:90/h:561/w:579/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTEyMDUy/NDEtMTM3OTg3NjQ4/Ny00OTk2LmpwZWc.jpeg">
 <div class="flex-container">
    
     <div class="item1">                        <img src="https://images.squarespace-cdn.com/content/v1/62447dd4d881f678fe92e43a/50b6a60b-8da2-4889-939a-0f401b9afc31/a14.jpg?format=300w" /></div>
