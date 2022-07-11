@@ -582,7 +582,13 @@ Relative position for absolute caption
 3 # ANOTHER###############################################
 4 # UNiVERSE##############################################
 ```
-
+<div class="flex-container">
+   
+    <div class="item1">                        <img src="https://images.squarespace-cdn.com/content/v1/62447dd4d881f678fe92e43a/120301a3-9f82-4a1e-b6f1-e2524b59ad31/0889-053.jpg?format=300w" /></div>
+    <div class="item2">                        <img src="https://images.squarespace-cdn.com/content/v1/62447dd4d881f678fe92e43a/847d4430-4aa6-4ddb-b30c-4437bed295af/0889-068.jpg?format=300w" /></div>
+    <div class="item3">                        <img src="https://images.squarespace-cdn.com/content/v1/62447dd4d881f678fe92e43a/37b41425-71e1-48e2-a9a2-2011bb7f6a79/0889-067.jpg?format=300w" /></div>
+</div>
+<img src="https://images.squarespace-cdn.com/content/v1/62447dd4d881f678fe92e43a/d5adc0e1-9b5a-4c8f-9a5b-64f49aaf7a7d/duro+cia+graffiti+sketch+29.jpg?format=750w">
 <img src="https://api.time.com/wp-content/uploads/2017/04/martha-cooper-2.jpg">
 [Preserving New York's History of Graffiti Art](https://time.com/4743207/martha-cooper-subway-graffiti/)
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1056978430&color=%239c7ca4&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/velvetboogie" title="VelvetBoogie" target="_blank" style="color: #cccccc; text-decoration: none;">VelvetBoogie</a> · <a href="https://soundcloud.com/velvetboogie/beating-down-yo-block-monaleo-c" title="Beating Down Yo Block - Monaleo &#x27;Chopped Nd Screwed&#x27;" target="_blank" style="color: #cccccc; text-decoration: none;">Beating Down Yo Block - Monaleo &#x27;Chopped Nd Screwed&#x27;</a></div>
