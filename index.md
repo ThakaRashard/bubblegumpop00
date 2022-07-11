@@ -586,6 +586,34 @@ Relative position for absolute caption
   <div class='row'>
     <div class='panelColumn'>
       <div class='leftColumn'>
+        <img src="https://www.cnet.com/a/img/resize/ecd3bef43089bec5c22acd15f8371441a1a4d206/hub/2013/12/19/d2c0c796-84b8-11e3-beb9-14feb5ca9861/MacPro2013_35781456_01.jpg?auto=webp&width=1200" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://www.cnet.com/a/img/resize/5c011b08402cbae781badbc096713aeabab525af/hub/2013/12/19/d2ea55a6-84b8-11e3-beb9-14feb5ca9861/MacPro2013_35781456_14.jpg?auto=webp&width=1200" alt="Girl in a jacket" >
+      </div>
+    </div>
+  </div>
+</div>
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://www.cnet.com/a/img/resize/f1364e8eca5f3230a4a2ac4d3ed87992415a4058/hub/2013/12/19/d2e3153e-84b8-11e3-beb9-14feb5ca9861/MacPro2013_35781456_07.jpg?auto=webp&width=1200" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://www.cnet.com/a/img/resize/60d12bfea2cd83942e02adcb6e326a2f0c7e5eeb/hub/2013/12/19/d2f63812-84b8-11e3-beb9-14feb5ca9861/MacPro2013_35781456_25.jpg?auto=webp&width=1200" >
+      </div>
+    </div>
+  </div>
+</div>
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
         <img src="https://i.pinimg.com/736x/e0/20/7e/e0207e49ac30edb115538e725c52d984.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
       </div>
     </div>
