@@ -1688,35 +1688,6 @@ Reissues have copyright 1966 info in middle of back panel and have full front fr
     </div>
   </div>
 </div>
-<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="mdBOwOG" data-user="thakarashard" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
-  <span>See the Pen <a href="https://codepen.io/thakarashard/pen/mdBOwOG">
-  NEON TEXT </a> by ThakaRashard (<a href="https://codepen.io/thakarashard">@thakarashard</a>)
-  on <a href="https://codepen.io">CodePen</a>.</span>
-</p>
-<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
-<h2> [Hook: Rell]
-Came up out the darkness, searching for light
-I know home is where my heart is
-And now nothing seems right
-I tried to make peace and cut my losses
-And carry on somehow
-But I've come much too far, man
-Too late to turn back now, here I go again
-Here I go again
-Here I go again
-Here I go again
-</h2>
-<h2> SHAKE THAT LOAD OFF
-</h2>
-<h2> SHAKE THAT LOAD OFF
-</h2>
-<h2> SHAKE THAT LOAD OFF
-</h2>
-<h2> SHAKE THAT LOAD OFF
-</h2>
-<h2> SHAKE THAT LOAD OFF
-</h2>
-
 <div class='twoPanelSpread'>
   <div class='row'>
     <div class='panelColumn'>
