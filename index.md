@@ -137,7 +137,6 @@ background: rgb(2,0,36);
 background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
 /*	background: url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/bd_type1_citycrop.jpg);
 background-size: cover;  */
-	
   font-family: "Lucida Console", Monaco,
     "Bitstream Vera Sans Mono", Terminal, monospace, "Helvetica Neue", sans-serif;
   line-height: 1.5;
@@ -177,31 +176,23 @@ img {
   width: 100%;
 }
 
-h2,
 h1,
-h3 {
+h2,
+h3,
+h4,
+h5,
+h6 {
+background: rgb(131,58,180);
+background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(0,0,0,1) 0%, rgba(30,24,121,0.5127610208816705) 100%);
   color: white;
-  background: transparent
-    url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-gray.gif)
-    center repeat;
-font-family: "Lucida Console", Monaco,
-    "Bitstream Vera Sans Mono", Terminal, monospace, "Helvetica Neue", sans-serif;
+   font-family: Monaco, "Helvetica Neue", "Bitstream Vera Sans Mono", sans-serif;
   font-weight: 900;
-  padding: 0px;
+  padding: 10px;
   margin: 0px;
   text-align: left;
   font-variant-caps: small-caps;
   text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 20px #fff, 0 0 40px #0ff,
     0 0 80px #0ff, 0 0 90px #0ff, 0 0 100px #0ff, 0 0 150px #0ff;
-}
-
-h2 {
-font-weight: 900;
-font-family: "Lucida Console", Monaco,
-    "Bitstream Vera Sans Mono", Terminal, monospace, "Helvetica Neue", sans-serif;
-padding: 0px;
-margin: 0px;
-text-align: left;
 
 }
 .firstcharacter {
