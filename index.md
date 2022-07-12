@@ -588,6 +588,13 @@ Relative position for absolute caption
 3 # ANOTHER###############################################
 4 # UNiVERSE##############################################
 ```
+<div class="pinupGallery">
+  <img class="pinupImage" src="https://i.discogs.com/nUD4ynsYGd4iqFecboTrAiOR5eTEOY3yanspvS2e4yI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDg3/MDItMTMxODAxMTI2/MC5qcGVn.jpeg" alt="">
+  <img class="pinupImage" src="https://i.discogs.com/nUD4ynsYGd4iqFecboTrAiOR5eTEOY3yanspvS2e4yI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDg3/MDItMTMxODAxMTI2/MC5qcGVn.jpeg" alt="">
+  <img class="pinupImage" src="https://i.discogs.com/nUD4ynsYGd4iqFecboTrAiOR5eTEOY3yanspvS2e4yI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDg3/MDItMTMxODAxMTI2/MC5qcGVn.jpeg" alt="">
+  <img class="pinupImage  featured-pinupImage" src="https://i.discogs.com/nUD4ynsYGd4iqFecboTrAiOR5eTEOY3yanspvS2e4yI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDg3/MDItMTMxODAxMTI2/MC5qcGVn.jpeg" alt="">
+</div>
+<img src="https://i.scdn.co/image/ab67616d0000b27306c81aa4494d8df3dddec586">
 <a href="https://www.youtube.com/watch?v=24Hg58lWfH8">Aster Aweke - Sebebu ##FULL_ALBUM</a>
 <a href="https://www.youtube.com/watch?v=pvy9usF7ohE">##Why Russia is Building an Arctic ##Silk_Road</a>
 <a href="https://www.youtube.com/watch?v=B4joiYkmQr8">##MiSSiNG_CRYPTO_QUEEN</a>
@@ -720,8 +727,9 @@ echo "An international research team develops a way to say “hello” with your
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/1056978430&color=%239c7ca4&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/velvetboogie" title="VelvetBoogie" target="_blank" style="color: #cccccc; text-decoration: none;">VelvetBoogie</a> · <a href="https://soundcloud.com/velvetboogie/beating-down-yo-block-monaleo-c" title="Beating Down Yo Block - Monaleo &#x27;Chopped Nd Screwed&#x27;" target="_blank" style="color: #cccccc; text-decoration: none;">Beating Down Yo Block - Monaleo &#x27;Chopped Nd Screwed&#x27;</a></div>
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/269925599&color=%236c6c5c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/tycho" title="Tycho" target="_blank" style="color: #cccccc; text-decoration: none;">Tycho</a> · <a href="https://soundcloud.com/tycho/edc-sunrise" title="EDC Sunrise 2016" target="_blank" style="color: #cccccc; text-decoration: none;">EDC Sunrise 2016</a></div>
 <div>
+<span class="firstcharacter">
+	## GANG RAPE IN CONCERT LAW – PENAL CODE 264.1 PC</span>
 
-## GANG RAPE IN CONCERT LAW – PENAL CODE 264.1 PC
 <p>California Penal Code 264.1 PC makes it a crime to act in concert with another person in the commission of a rape, commonly known as “gang rape.”
 
 This rape in concert statute applies when two or more people work together to engage in non-consensual sexual intercourse with a victim. PC 264.1 gang rape is a crime in itself, not a sentencing enhancement for other offenses.
@@ -867,12 +875,18 @@ http://www.medicinenet.com/script/main/art.asp?articlekey=22905
 
 </div>
 <div>
-Perspectives on Acquaintance Rape
+	<span class="firstcharacter">
+	
+	Perspectives on Acquaintance Rape
 David G. Curtis, Ph.D., B.C.E.T.S.
 Clinical Associate, Long Island Psychological Associates, P.C.
+	
+	</span>
 
 
-I. What is Acquaintance Rape?
+
+
+	<h3 class="neonText">I. What is Acquaintance Rape?</h3>
 
 Acquaintance rape, which is also referred to as "date rape" and "hidden rape," has been increasingly recognized as a real and relatively common problem within society. Much of the attention that has been focused on this issue has emerged as part of the growing willingness to acknowledge and address issues associated with domestic violence and the rights of women in general in the past three decades. Although the early and mid 1970's saw the emergence of education and mobilization to combat rape, it was not until the early 1980's that acquaintance rape began to assume a more distinct form in the public consciousness. The scholarly research done by psychologist Mary Koss and her colleagues is widely recognized as the primary impetus for raising awareness to a new level.
 
@@ -880,7 +894,7 @@ The publication of Koss' findings in the popular Ms. magazine in 1985 informed m
 
 For current purposes, the term acquaintance rape will be defined as being subjected to unwanted sexual intercourse, oral sex, anal sex, or other sexual contact through the use of force or threat of force. Unsuccessful attempts are also subsumed within the term "rape." Sexual coercion is defined as unwanted sexual intercourse, or any other sexual contact subsequent to the use of menacing verbal pressure or misuse of authority (Koss, 1988).
 
-II. Legal Perspectives on Acquaintance Rape
+	<h3 class="neonText">II. Legal Perspectives on Acquaintance Rape</a>
 
 The electronic media have developed an infatuation with trial coverage in recent years. Among the trials which have received the most coverage have been those involving acquaintance rape. The Mike Tyson/Desiree Washington and William Kennedy Smith/Patricia Bowman trials garnered wide scale television coverage and delivered the issue of acquaintance rape into living rooms across America. Another recent trial which received national attention involved a group of teenaged boys in New Jersey who sodomized and sexually assaulted a mildly retarded 17-year old female classmate. While the circumstances in this instance differed from the Tyson and Smith cases, the legal definition of consent was again the central issue of the trial. Although the Senate Judiciary Committee hearings on the Supreme Court nomination of Judge Clarence Thomas were obviously not a rape trial, the focal point of sexual harassment during the hearings expanded national consciousness regarding the demarcations of sexual transgression. The sexual assault which took place at the Tailhook Association of Navy Pilots annual convention in 1991 was well documented. At the time of this writing, events involving sexual harassment, sexual coercion, and acquaintance rape of female Army recruits at the Aberdeen Proving Grounds and other military training facilities are being investigated.
 
@@ -1384,33 +1398,6 @@ but the memory of this event, the photographer speculates, will last much longer
  </div> 
  </div>
  
-
-Desolate, alone, tearfully searching, suddenly blinded by a tall dark and dreadlocked beauty. She painted a perfect picture around a perfect face and frame. She didn't bother to learn about his past cause she's caught up in this moment of visual bliss.
-
-She took him in knowing fully well that she's not the only flower he's sippin nectar from. She's misguided by her mixed up illusions of love. Either she's watched too many fake ass love/drama movies, read too many romance novels, watched her parents in a disfunctional relationship spiraling down hill (thinking that's just how it is), or she just doesn't know what a real man is.
-
-When the two of them make love (have sex), her mind is blown into the clouds, she returns to Atlantis, her spirit uplifted. Ready she is to plan their future garden, ignoring the weeds mixed in with the seed.
-
-He drops hints of annoyance, never goes out of his way any more for her cause she's caught. Another fish in his sea. So she gives him space thinking absense makes the heart grow fonder. If you let someone go, and then they return, they belong to you, right?
-
-Late at night her fingers wonder over the buttons on the phone, dialing his number, wanting some of what she's been missing some of his good "love".
-
-He answers and quickly agrees at this late hour to come and give her a dosed of his medicine so that she may dream lovely dream. She no longer tossing and turning in bed. Twenty five minutes is all he needs and he will be there. Preperation begins. Mad dash to shower, shave (its winter so legs sometimes are forgotten with out the sun), light candles and incense, sheets fresh, madina oil dabed in all the right places, for this "her man" that is on his way.
-
-Confusion
-
-He KNOWS it's just sex, "we just kicking it, just chillin, connnecting even", he thinks in his head as he drives to her house. He imagines the hurting he's gonna put on her, giving her what she wants, right?
-
-On the other end she's confusing and equating the feeling she gets when he's inside of her, the movement his body makes in sync with her's, the sweet and soft kisses of passion (lust), the eagerness of his return to her temple, with L-O-V-E.
-
-Who is wrong in this situation, her assumptions or his free mind state? No boundaries were set, no plan. Many women fall into this catagory of believing love and sex go hand in hand. While Men, if not told directly what the intent is, will think nothing of having sex without commitment. The answer to all of this I believe is communication in the very begging, and waiting to explore the sexual realms of each other. Spirituallity should be the basis for all relationships, but as of right now 8 out of 10 times it's sex, in my researched, experienced opinion.
-
-Lets start listening as well as speaking our hearts, instead of painting false pictures of clear situations. Love yourself and your divine mate will apear before your eyes, with no searching involved. But you must me ready physically, mentally, culturally, and spiritually.
-
-just my view on thangs - Dehejia
-
-
- </div>
 
 <div class='some-page-wrapper'>
  <div class='row'>
@@ -2056,7 +2043,7 @@ https://i.pinimg.com/originals/b1/a5/31/b1a531387792bd946642e80ac2a1487d.jpg
 I found her near Venice beach California and my tattooist Kennie_Davis of ##Jolly_Roger_Tattoo in _Stockbridge#Georgia was not too far from the scene. Erika and I were not estranged when she disappeared as [ESSENCE_MAGAZiNE_STATED](https://www.essence.com/news/erika-kelly-missing-atlanta-georgia) we were coparenting. I was laid off from my IT job at [Ionic Security](https://www.linkedin.com/company/ionic-security) after my work was repeatedly sabotaged by my manager. I opened a case with ##Fulton_County_Family_Services two months before our eviction from our ##East_Atlanta_Home_at_631_Moreland_Ave_in_Atlanta_Georgia they failed to process us after repeated visits and calls. I took odd jobs and even scored a mural gig with [Mercedes_BenZ_Stadium](https://mercedesbenzstadium.com/) for the [Atlanta_Falcons](https://www.atlantafalcons.com/). They paid me $1500 for a 40ft graffiti mural on red canvas for former athlete ##Deion_Sanders. I was severely underpaid but it covered the rent for one more month. I moved in with Constancia and her daughter ##Akeeva, got Coral in school at [Chapel Hill Elementary](https://www.chapelhilles.dekalb.k12.ga.us) and worked hard to get a new 9-5.
  
 Constancia did not like me or Coral living with her and Akeeva so they undercut me with accusations of erratic behavior and started thier own dfacs case accusing me of schizophrenia. I had no income and was repeatedly denied foodstamps and welfare by a woman named ##DANIELLE_MASHONGA_and_her_colleage##MANESSA_WARNER... ##Coral would ask </p>
-<h2> ##Where_is_Mommy?!?</h2>
+<h2 class="neonText"> ## Where_is_Mommy?!?</h2>
 <p>I told her that Matt stole and raped her and she needs our help, so we have to keep looking. Constancia and Akeeva constantly defended Matt. He is a known pedophile and child and adult rapist in the Atlanta art community. I did not know this. We shopped at the same record store and he often offered me work. I loath rapist. I loath pedophilia. Once I learned of his ways I distanced myself. So ##Erikas_mother_and_sisters_DEFENDING_HIM, struck me as bizarre. "##Its_just_a_white_boy_joke##He_didnt_sell_her". [DFACS](https://dfcs.georgia.gov/) stalked me on Facebook and indirectly accused me of ##CHILD_MOLESTATION for a video where we were playing with a wand style muscle massager, it was innocent.  They [forcibly removed Coral](https://www.youtube.com/watch?v=AmYdIZhahrQ) saying that I was saying ["inappropriate things"](https://www.youtube.com/watch?v=9sCE3HhjSbY) and violating her by saying that her mom had been raped and kidnapped. I learned that telling Coral the ugly truth was the best way to keep a solid trust filled relationship with her.
  
 In the DFACS meeting, puzzled I told Mashonga the truth, I cant find work, my reputation was being sabotaged and I could not even get a job at ##Kroger the local grocery store. I told Mashonga I needed money for food, Constancia would not feed niether me or Coral. I asked Mashonga in [This_Family_Meeting](https://www.youtube.com/watch?v=Q8NXhT6_Tx8) if she cared about me dying on the street and she shook her head, no. I was never interviewed with Coral at all, I never got a psych eval until I got to a ##UCLA_Recoup_Center_in_PalmDale_California.
@@ -2068,7 +2055,7 @@ In early October I saw Coral, in Pasadena, ##California, with a grown man wearin
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/9sCE3HhjSbY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="400" src="https://www.youtube.com/embed/AmYdIZhahrQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-<h2>Her_Former_Life_With_Me</h2>
+<h2 class="neonText">Her_Former_Life_With_Me</h2>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/-oZuyrU764s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/CsM4jNSAm4A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 <iframe width="100%" height="315" src="https://www.youtube.com/embed/ydGxlS8l7Y0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -2084,9 +2071,10 @@ In early October I saw Coral, in Pasadena, ##California, with a grown man wearin
 <a href="https://youtu.be/R2rct18-iSM" target="_blank">
 <img src="https://m.media-amazon.com/images/I/51I6d3hyr0L._SX355_.jpg" alt="an image" title="The title of this image"/>
  </a>
+<span class="firstcharacter">
+	## Everything should be done in love.
+### - 1 Corinthians 16:14</span>
 
-## Everything should be done in love.
-### - 1 Corinthians 16:14
 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/795229738&color=%2300ff7c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
 <div class='twoPanelSpread'>
