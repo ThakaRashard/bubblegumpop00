@@ -601,8 +601,8 @@ Relative position for absolute caption
 <img src="https://3.bp.blogspot.com/-0zhGOWFFSkc/XEWmH1y360I/AAAAAAAAFxA/9ugKLf2Vod8tIlyHlX8iys2uhHX473MNwCLcBGAs/s640/arada-vol-2.jpg">
 [Teddy Yo & Gentle Man - Arada, Vol. 2 ##ETHiOPiA](http://ethio-pain-music.blogspot.com/2019/01/teddy-yo-gentle-man-arada-vol-2-2018.html)
 
-- [Bullfrog Battle Royale | The Mating Game | BBC Earth](https://youtu.be/rA4nIRKZ1m8) 
-- ##TheMatingGame 
+ [Bullfrog Battle Royale | The Mating Game | BBC Earth](https://youtu.be/rA4nIRKZ1m8) 
+ ## TheMatingGame 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/338480335&color=%2338385d&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/massappealrecs" title="Mass Appeal" target="_blank" style="color: #cccccc; text-decoration: none;">Mass Appeal</a> · <a href="https://soundcloud.com/massappealrecs/cuz-lightyear-pots-n-pans-feat-killer-mike" title="Cuz Lightyear - Pots N Pans feat. Killer Mike" target="_blank" style="color: #cccccc; text-decoration: none;">Cuz Lightyear - Pots N Pans feat. Killer Mike</a></div>
 <img src="https://1.bp.blogspot.com/-7vzHG6y1_9E/XIkDNaThsVI/AAAAAAAAGk0/xF-7mExGIfQewadJinCVSfCDZnqN5wNxgCLcBGAs/s1600/VA%2B%25E2%2580%2593%2BErnesto%2BChahoud%2Bpresents%2BTAITU%2BSoul-fuelled%2BStompers%2Bfrom%2B1960s-1970s%2BEthiopia%2B%25282018%2529.jpg">
 [Ernesto Chahoud presents TAITU - Soul-fuelled Stompers from 1960s-1970s ##Ethiopia](http://ethio-pain-music.blogspot.com/2019/03/va-ernesto-chahoud-presents-taitu-soul.html)
