@@ -353,8 +353,10 @@ font-family: "Lucida Console", Monaco,
 .twoPanelSpread {
   margin: 0px;
   padding: 0px;
+	/*
   background: url( https://i.giphy.com/media/ddZXIrimeaXY0xclfC/giphy.webp );
     background-size: cover;
+	*/
 }
 
 .row {
@@ -582,6 +584,8 @@ Relative position for absolute caption
 3 # ANOTHER###############################################
 4 # UNiVERSE##############################################
 ```
+##TheMatingGame
+[Bullfrog Battle Royale | The Mating Game | BBC Earth](https://youtu.be/rA4nIRKZ1m8) - 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/338480335&color=%2338385d&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/massappealrecs" title="Mass Appeal" target="_blank" style="color: #cccccc; text-decoration: none;">Mass Appeal</a> · <a href="https://soundcloud.com/massappealrecs/cuz-lightyear-pots-n-pans-feat-killer-mike" title="Cuz Lightyear - Pots N Pans feat. Killer Mike" target="_blank" style="color: #cccccc; text-decoration: none;">Cuz Lightyear - Pots N Pans feat. Killer Mike</a></div>
 <img src="https://1.bp.blogspot.com/-7vzHG6y1_9E/XIkDNaThsVI/AAAAAAAAGk0/xF-7mExGIfQewadJinCVSfCDZnqN5wNxgCLcBGAs/s1600/VA%2B%25E2%2580%2593%2BErnesto%2BChahoud%2Bpresents%2BTAITU%2BSoul-fuelled%2BStompers%2Bfrom%2B1960s-1970s%2BEthiopia%2B%25282018%2529.jpg">
 [Ernesto Chahoud presents TAITU - Soul-fuelled Stompers from 1960s-1970s ##Ethiopia](http://ethio-pain-music.blogspot.com/2019/03/va-ernesto-chahoud-presents-taitu-soul.html)
@@ -641,20 +645,6 @@ echo "An international research team develops a way to say “hello” with your
     <div class='panelColumn'>
       <div class='rightColumn'>
         <img src="https://m.media-amazon.com/images/I/91ypCer3xtL._SX466_.jpg" alt="Girl in a jacket" >
-      </div>
-    </div>
-  </div>
-</div>
-<div class='twoPanelSpread'>
-  <div class='row'>
-    <div class='panelColumn'>
-      <div class='leftColumn'>
-        <img src="https://m.media-amazon.com/images/I/81waprc9dJL._SS500_.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
-      </div>
-    </div>
-    <div class='panelColumn'>
-      <div class='rightColumn'>
-        <img src="https://images.genius.com/f38aa5d566b0eb090a622ab461fefeb7.468x468x1.jpg" alt="Girl in a jacket" >
       </div>
     </div>
   </div>
