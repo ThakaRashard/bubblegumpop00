@@ -150,18 +150,17 @@ background-size: cover;  */
 iframe {
   margin: 0px;
   padding: 0px;
-  background-image: url("https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/bd_type1_car.jpg");
+  background-image: url("https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/bd_type1_car_rzd.jpg");
   border: none;
 }
 
 p {
    padding: 15px;
-  /* border-bottom: 1px solid #4CAF50; */
   display: block;
 color: white;
   font-size: 1.5rem;
   background: rgba(0, 0, 0, 0.83);
-  font-family: "Lucida Console", Monaco, "Bitstream Vera Sans Mono", Terminal,
+  font-family:  Monaco, "Lucida Console", "Bitstream Vera Sans Mono", Terminal,
     monospace, "Helvetica Neue", sans-serif;
   letter-spacing: 1px;
   word-spacing: 1.5px;
@@ -169,7 +168,7 @@ color: white;
   font-style: normal;
   font-variant: normal;
   text-transform: none;
-  /* background-image: url("https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/halfscreen-black.gif"); */
+
 }
 	
 img {
