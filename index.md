@@ -586,6 +586,38 @@ Relative position for absolute caption
 3 # ANOTHER###############################################
 4 # UNiVERSE##############################################
 ```
+        <h1>Art Crimes: Los Angeles 33 - Saber</h1>
+        <p>This image and artwork &copy; copyright 1998 Saber.</p>
+        <p>Saber did this amazing piece on the LA River. It took him a year and a half to complete. It was done with rollers, and you can see it from the air. It is one of the two largest illegal roller pieces ever done (that we know of) and quite likely the graffiti masterpiece painted over the longest time period. (The other contender for biggest illegal roller painting was done in the 1980s by artists Tia &amp; Brendt on the now destroyed West Side highway in New York city. Theirs was 850 ft long by 80ft wide, painted at night over a period of six weeks. But they are not graffiti writers.)</p>
+        <p>Saber worked on it so long that one of his knees was injured from standing on the slanted surface of the LA riverbed. The photo was taken at great risk to the photographer as well, because this is such a dangerous area to be in. So if you go for your flix, definitely take the helicopter.</p>
+        <p>Can you find the artist in this picture? <a href="https://forum.12ozprophet.com/topic/58202-jaone-xtcrew/">See more Saber.</a>
+        </p>
+        <p align="center">
+            <a href="https://www.graffiti.org/la/saberlariver.jpg">
+                <img src="shttps://www.graffiti.org/la/saberlariver.jpg" border="0" >
+            </a>
+        </p>
+        <p>
+            <a href="https://thakarashard.github.io/homeschool/">NEXT PAGE</a>
+        </p>
+        <p>
+            <a href="https://thakarashard.github.io/holetoanotheruniverse">
+                <img src="https://www.graffiti.org/assets/images/buttonx.gif" align="middle" > City Walls </a>
+        </p>
+        <table cellspacing="0" cellpadding="0" width="100%">
+            <tr>
+                <td align="left">
+                    <p>
+                        <a href="../index.html">
+                            <img src="https://www.graffiti.org/assets/images/button3.gif" align="middle" > Art Crimes Front Page </a>
+                    </p>
+                </td>
+                <td align="right"></td>
+            </tr>
+            <tr>
+                <td align="center" colspan="2"></td>
+            </tr>
+        </table>
 ## GOOD_LUCK_##SABER
 <img scr="https://www.graffiti.org/la/saberlariver.jpg">
 <img scr="https://www.graffiti.org/la/yelohvckyard.jpg">
