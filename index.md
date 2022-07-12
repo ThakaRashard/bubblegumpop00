@@ -581,6 +581,7 @@ Relative position for absolute caption
 2 # TO####################################################
 3 # ANOTHER###############################################
 4 # UNiVERSE##############################################
+```
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/338480335&color=%2338385d&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/massappealrecs" title="Mass Appeal" target="_blank" style="color: #cccccc; text-decoration: none;">Mass Appeal</a> · <a href="https://soundcloud.com/massappealrecs/cuz-lightyear-pots-n-pans-feat-killer-mike" title="Cuz Lightyear - Pots N Pans feat. Killer Mike" target="_blank" style="color: #cccccc; text-decoration: none;">Cuz Lightyear - Pots N Pans feat. Killer Mike</a></div>
 <img src="https://1.bp.blogspot.com/-7vzHG6y1_9E/XIkDNaThsVI/AAAAAAAAGk0/xF-7mExGIfQewadJinCVSfCDZnqN5wNxgCLcBGAs/s1600/VA%2B%25E2%2580%2593%2BErnesto%2BChahoud%2Bpresents%2BTAITU%2BSoul-fuelled%2BStompers%2Bfrom%2B1960s-1970s%2BEthiopia%2B%25282018%2529.jpg">
 [Ernesto Chahoud presents TAITU - Soul-fuelled Stompers from 1960s-1970s ##Ethiopia](http://ethio-pain-music.blogspot.com/2019/03/va-ernesto-chahoud-presents-taitu-soul.html)
@@ -590,7 +591,7 @@ Relative position for absolute caption
   <img class="pinupImage" src="https://3.bp.blogspot.com/-bL5P29jUTk4/Tu8ilkhZOkI/AAAAAAAAAKo/L4yPmmTKEi8/s640/Ethiopian+Groove+Greatest+Hits.jpg" alt="">
   <img class="pinupImage" src="https://3.bp.blogspot.com/-bL5P29jUTk4/Tu8ilkhZOkI/AAAAAAAAAKo/L4yPmmTKEi8/s640/Ethiopian+Groove+Greatest+Hits.jpg" alt="">
 </div>
-```
+
 [... my passion for ethiopian music ...](http://ethio-pain-music.blogspot.com/)
 <img src="https://1.bp.blogspot.com/-ZrDobIRXCXA/XEhSBzIl0rI/AAAAAAAAFxw/xVfWAPpmtEEzVd7JVwQl3i3FpnlMsuCQgCLcBGAs/s640/%25E1%2589%25B3%25E1%258B%25B0%25E1%2588%25B0%2B%25E1%258B%2593%25E1%2588%2588%25E1%2588%2599%2B%2Bmissing%2Balbum.jpg">
 <img src="https://burodestruct.net/sites/default/files/bd_edding_hiphop_arte_teaser2.gif">
