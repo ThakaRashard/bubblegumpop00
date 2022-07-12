@@ -600,9 +600,8 @@ Relative position for absolute caption
 <img src="https://mir-s3-cdn-cf.behance.net/project_modules/max_1200/b0044674400667.5c2e83b770581.jpg">
 <img src="https://3.bp.blogspot.com/-0zhGOWFFSkc/XEWmH1y360I/AAAAAAAAFxA/9ugKLf2Vod8tIlyHlX8iys2uhHX473MNwCLcBGAs/s640/arada-vol-2.jpg">
 [Teddy Yo & Gentle Man - Arada, Vol. 2 ##ETHiOPiA](http://ethio-pain-music.blogspot.com/2019/01/teddy-yo-gentle-man-arada-vol-2-2018.html)
-
- [Bullfrog Battle Royale | The Mating Game | BBC Earth](https://youtu.be/rA4nIRKZ1m8) 
- ## TheMatingGame 
+[Bullfrog Battle Royale | The Mating Game | BBC Earth](https://youtu.be/rA4nIRKZ1m8) 
+         ## TheMatingGame 
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/338480335&color=%2338385d&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/massappealrecs" title="Mass Appeal" target="_blank" style="color: #cccccc; text-decoration: none;">Mass Appeal</a> · <a href="https://soundcloud.com/massappealrecs/cuz-lightyear-pots-n-pans-feat-killer-mike" title="Cuz Lightyear - Pots N Pans feat. Killer Mike" target="_blank" style="color: #cccccc; text-decoration: none;">Cuz Lightyear - Pots N Pans feat. Killer Mike</a></div>
 <img src="https://1.bp.blogspot.com/-7vzHG6y1_9E/XIkDNaThsVI/AAAAAAAAGk0/xF-7mExGIfQewadJinCVSfCDZnqN5wNxgCLcBGAs/s1600/VA%2B%25E2%2580%2593%2BErnesto%2BChahoud%2Bpresents%2BTAITU%2BSoul-fuelled%2BStompers%2Bfrom%2B1960s-1970s%2BEthiopia%2B%25282018%2529.jpg">
 [Ernesto Chahoud presents TAITU - Soul-fuelled Stompers from 1960s-1970s ##Ethiopia](http://ethio-pain-music.blogspot.com/2019/03/va-ernesto-chahoud-presents-taitu-soul.html)
@@ -710,8 +709,8 @@ echo "An international research team develops a way to say “hello” with your
 <iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/269925599&color=%236c6c5c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/tycho" title="Tycho" target="_blank" style="color: #cccccc; text-decoration: none;">Tycho</a> · <a href="https://soundcloud.com/tycho/edc-sunrise" title="EDC Sunrise 2016" target="_blank" style="color: #cccccc; text-decoration: none;">EDC Sunrise 2016</a></div>
 <div>
 
-GANG RAPE IN CONCERT LAW – PENAL CODE 264.1 PC
-California Penal Code 264.1 PC makes it a crime to act in concert with another person in the commission of a rape, commonly known as “gang rape.”
+## GANG RAPE IN CONCERT LAW – PENAL CODE 264.1 PC
+<p>California Penal Code 264.1 PC makes it a crime to act in concert with another person in the commission of a rape, commonly known as “gang rape.”
 
 This rape in concert statute applies when two or more people work together to engage in non-consensual sexual intercourse with a victim. PC 264.1 gang rape is a crime in itself, not a sentencing enhancement for other offenses.
 
@@ -801,17 +800,16 @@ Further, depending on the case, we might be able to negotiate with the prosecuto
 
 Eisner Gorin LLP is based in Los Angeles County, and we serve people across the state of California. You can reach us for an initial case review by calling (877) 781-1570 or filling out the contact form.	
 </div>	
-
+</div>
 <img src="https://images.squarespace-cdn.com/content/v1/62447dd4d881f678fe92e43a/ccffd19b-ea72-4639-a916-0df64dac9d59/3356412.jpg?format=750w">
 <img src="https://images.squarespace-cdn.com/content/v1/62447dd4d881f678fe92e43a/5195141b-4ea9-488a-b4f6-af819a8cbbc2/duro+cia+graffiti+sketch+26.jpg?format=750w">
 <img src="https://images.squarespace-cdn.com/content/v1/62447dd4d881f678fe92e43a/a3f800d8-f1ba-417e-8d90-0fea43fe2099/0492+Large2.jpg?format=1500w">
 <img src="https://images.squarespace-cdn.com/content/v1/62447dd4d881f678fe92e43a/da30794c-b30a-4b6e-8e7f-cb7f5fdb7798/duro+cia+graffiti+%2314.jpg">
 <img src="https://www.graffiti.org/trains/jek-train02.jpg">
-<div>
 <img src="https://m.media-amazon.com/images/I/91b3+jqIK4L._SS500_.jpg">
-</div>
+
 <div>
-Talking with Children About War
+## Talking with Children About War
 www.medicinenet.com
 
 In addition to the children whose lives have been directly impacted by the terrorist attacks and war, most children have seen terrifying images of destruction on television and the Internet. They are reading newspapers and they have heard stories on the radio that speak of grave losses of life. They will also take emotional cues from the adults in their lives who have been watching these events closely.
