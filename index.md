@@ -128,7 +128,8 @@ table {
   padding: 0;
 }
 	
-	
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">	
 body {
   color: white;
 	
@@ -154,7 +155,10 @@ iframe {
 }
 
 p {
-	color: white;
+   padding: 15px;
+  /* border-bottom: 1px solid #4CAF50; */
+  display: block;
+color: white;
   font-size: 1.5rem;
   background: rgba(0, 0, 0, 0.83);
   font-family: "Lucida Console", Monaco, "Bitstream Vera Sans Mono", Terminal,
