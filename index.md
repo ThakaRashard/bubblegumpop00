@@ -588,6 +588,27 @@ Relative position for absolute caption
 3 # ANOTHER###############################################
 4 # UNiVERSE##############################################
 ```
+
+<h1>This is heading 1</h1>
+<h2>This is heading 2</h2>
+<h3>This is heading 3</h3>
+<h4>This is heading 4</h4>
+<h5>This is heading 5</h5>
+<h6>This is heading 6</h6>
+
+<p><b>Tip:</b> Use h1 to h6 elements only for headings. Do not use them just to make text bold or big. Use other tags for that.</p>
+
+<h1>This is heading 1</h1>
+<h2>This is heading 2</h2>
+<h3>This is heading 3</h3>
+<h4>This is heading 4</h4>
+<h5>This is heading 5</h5>
+<h6>This is heading 6</h6>
+
+<p><b>Tip:</b> Use h1 to h6 elements only for headings. Do not use them just to make text bold or big. Use other tags for that.</p>
+
+
+
 <div class="pinupGallery">
   <img class="pinupImage" src="https://i.discogs.com/nUD4ynsYGd4iqFecboTrAiOR5eTEOY3yanspvS2e4yI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDg3/MDItMTMxODAxMTI2/MC5qcGVn.jpeg" alt="">
   <img class="pinupImage" src="https://i.discogs.com/nUD4ynsYGd4iqFecboTrAiOR5eTEOY3yanspvS2e4yI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNDg3/MDItMTMxODAxMTI2/MC5qcGVn.jpeg" alt="">
