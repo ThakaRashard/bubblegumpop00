@@ -582,6 +582,12 @@ Relative position for absolute caption
 3 # ANOTHER###############################################
 4 # UNiVERSE##############################################
 ```
+[Scientists Prove That Telepathic Communication Is Within Reach](https://www.smithsonianmag.com/innovation/scientists-prove-that-telepathic-communication-is-within-reach-180952868/)
+```
+echo "An international research team develops a way to say “hello” with your mind"
+```
+<img src="https://th-thumbnailer.cdn-si-edu.com/KOqDgBTTB_2AOlm4-YM0PEjJ0qM=/fit-in/1072x0/https://tf-cmsv2-smithsonianmag-media.s3.amazonaws.com/filer/dc/61/dc613b8d-1b02-4729-972e-eb7ff73c0e09/journalpone0105225g001.jpg">
+[DR. REVOLT](http://www.nytrash.com/Revolt.html)
 <div class='twoPanelSpread'>
   <div class='row'>
     <div class='panelColumn'>
