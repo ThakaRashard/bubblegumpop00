@@ -582,7 +582,7 @@ Relative position for absolute caption
 3 # ANOTHER###############################################
 4 # UNiVERSE##############################################
 ```
-
+<img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/video/NORMANiFAiRBG.gif">
 <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/Screenshot%202022-07-13%206.37.35%20AM.png">
 <img src="https://user-images.githubusercontent.com/93835618/178748448-e50c2f03-f7dc-4608-a4cd-683e714ad738.png">
 
