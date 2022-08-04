@@ -137,8 +137,7 @@ background: rgb(2,0,36);
 background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(9,9,121,1) 35%, rgba(0,212,255,1) 100%);
 /*	background: url(https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/bd_type1_citycrop.jpg);
 background-size: cover;  */
-  font-family: "Lucida Console", Monaco,
-    "Bitstream Vera Sans Mono", Terminal, monospace, "Helvetica Neue", sans-serif;
+
   line-height: 1.5;
    -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -159,8 +158,7 @@ p {
 color: white;
   font-size: 1.5rem;
   background: rgba(0, 0, 0, 0.83);
-  font-family:  Monaco, "Lucida Console", "Bitstream Vera Sans Mono", Terminal,
-    monospace, "Helvetica Neue", sans-serif;
+  font-family:-apple-system, Ubuntu, "Ariel Black", Verdana;
   letter-spacing: 1px;
   word-spacing: 1.5px;
   font-weight: 500;
@@ -185,7 +183,7 @@ h6 {
 background: rgb(131,58,180);
 background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(0,0,0,1) 0%, rgba(30,24,121,0.5127610208816705) 100%);
   color: white;
-   font-family: Monaco, "Helvetica Neue", "Bitstream Vera Sans Mono", sans-serif;
+   font-family: -apple-system, Ubuntu, "Ariel Black", Verdana;
   font-weight: 900;
   padding: 10px;
   margin: 0px;
@@ -199,8 +197,7 @@ background: linear-gradient(90deg, rgba(131,58,180,1) 0%, rgba(0,0,0,1) 0%, rgba
   color: #fff;
   text-shadow: 0 0 7px #fff, 0 0 10px #fff, 0 0 21px #fff, 0 0 42px #0fa,
     0 0 82px #0fa, 0 0 92px #0fa, 0 0 102px #0fa, 0 0 151px #0fa;
-font-family: "Lucida Console", Monaco,
-    "Bitstream Vera Sans Mono", Terminal, monospace, "Helvetica Neue", sans-serif;
+font-family: -apple-system, Ubuntu, "Ariel Black", Verdana;
   float: left;
   font-size: 75px;
   line-height: 60px;
@@ -213,8 +210,7 @@ font-family: "Lucida Console", Monaco,
   color: #fff;
   text-shadow: 0 0 7px #fff, 0 0 10px #fff, 0 0 21px #fff, 0 0 42px #0fa,
     0 0 82px #0fa, 0 0 92px #0fa, 0 0 102px #0fa, 0 0 151px #0fa;
-font-family: "Lucida Console", Monaco,
-    "Bitstream Vera Sans Mono", Terminal, monospace, "Helvetica Neue", sans-serif;
+font-family: -apple-system, Ubuntu, "Ariel Black", Verdana;
 }
 
 .storyBox {
@@ -412,8 +408,7 @@ a:hover {
   border-bottom: 0px dashed #c9ff23;
   font-size: 20px;
   color: white;
-font-family: "Lucida Console", Monaco,
-    "Bitstream Vera Sans Mono", Terminal, monospace, "Helvetica Neue", sans-serif;
+font-family: -apple-system, Ubuntu, "Ariel Black", Verdana;
 }
 
 .pdivAlbumReview {
@@ -595,7 +590,7 @@ Relative position for absolute caption
 <h5>This is heading 5</h5>
 <h6>This is heading 6</h6>
 
-<p><b>Tip:</b> Use h1 to h6 elements only for headings. Do not use them just to make text bold or big. Use other tags for that.</p>
+<p><b>Tip:</b> Use h1 to h6 elements only for headings. Do not use them just to make text bold or big. Use other tags for that. this is also common paragraph text or the p tag</p>
 
 <h1>This is heading 1</h1>
 <h2>This is heading 2</h2>
