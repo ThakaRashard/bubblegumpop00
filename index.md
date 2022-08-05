@@ -578,7 +578,1514 @@ Relative position for absolute caption
 4 # UNiVERSE##############################################
 ```
 
+
+
 [Dr Dre - The Roadium Mix Tape - Criminal](https://www.youtube.com/watch?v=8oeff7LxaP4)
+
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Dodge_charger_1970_ad.jpg">
+ <img src="https://thesource.com/wp-content/uploads/2022/02/AB3A9173-700x400.jpg" >
+ 
+
+
+
+
+
+
+
+
+## SPYiNG is why I lost everything and everybody
+<div class="flex3BorderedPaddedROW">
+  <div class="item1">
+    <a href="https://youtu.be/UE6zfOuYfVI"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/%C3%89douard-Henri_Avril_%284%29.jpg" alt="MONiCA_KNOWS_MUNA_AND_##WE_ALL_NEED_FREEDM_FROM_PROSTiTUTION"> </a>
+  </div>
+  <div class="item2">
+    <a href="https://youtu.be/UE6zfOuYfVI"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/%C3%89douard-Henri_Avril_%284%29.jpg" alt="MONiCA_KNOWS_MUNA_AND_##WE_ALL_NEED_FREEDM_FROM_PROSTiTUTION"> </a>
+  </div>
+  <div class="item3">
+    <a href="https://youtu.be/UE6zfOuYfVI"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f9/%C3%89douard-Henri_Avril_%284%29.jpg" alt="MONiCA_KNOWS_MUNA_AND_##WE_ALL_NEED_FREEDM_FROM_PROSTiTUTION"> </a>
+  </div>
+</div>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c9/Vrijend_paar_naast_kamerscherm-Rijksmuseum_RP-P-2006-272.jpeg">
+<h2><a href="https://www.youtube.com/watch?v=IiTE-Eyx18A">  <em> DJ_SHADOW::BUiLDiNG STEAM FROM A GRAiN_OF_SALT::ENTRODUCiNG ##BREAKBEAT_CLASSiKS</em> </a> </h2>
+<audio controls class="broken-width">
+  <source src="https://github.com/ThakaRashard/bubblegumpop/raw/gh-pages/audio/DJ_JOSH_SHADOW_CAN_WE_USE_THIS_ON_OUR_DEMO_FASHiON_BLOG_COMMERCiAL.mp3" />
+
+  Your browser does not support the <code>audio</code> element.
+</audio>
+<img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Michael_Zichy_-_Liebe.jpg">
+
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/Carracci_Achille_et_Briseis.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/Carracci_Achille_et_Briseis.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+  </div>
+ </div>
+
+<div class="flex3BorderedPaddedROW">
+  <div class="item1">
+    <a href="https://youtu.be/UE6zfOuYfVI"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Carracci05.jpg" alt="MONiCA_KNOWS_MUNA_AND_##WE_ALL_NEED_FREEDM_FROM_PROSTiTUTION"> </a>
+  </div>
+  <div class="item2">
+    <a href="https://youtu.be/UE6zfOuYfVI"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Carracci05.jpg" alt="MONiCA_KNOWS_MUNA_AND_##WE_ALL_NEED_FREEDM_FROM_PROSTiTUTION"> </a>
+  </div>
+  <div class="item3">
+    <a href="https://youtu.be/UE6zfOuYfVI"><img src="https://upload.wikimedia.org/wikipedia/commons/b/b2/Carracci05.jpg" alt="MONiCA_KNOWS_MUNA_AND_##WE_ALL_NEED_FREEDM_FROM_PROSTiTUTION"> </a>
+  </div>
+</div>
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/76/Katsushika_Hokusai_-_Fukujuso.jpg">
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/25/Carracci_Angelique_et_Medor.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/2/25/Carracci_Angelique_et_Medor.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+  </div>
+ </div>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/98/%C3%89douard-Henri_Avril_%285%29.jpg">
+
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/72/Le_livre_de_la_Marquise_33.jpeg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/72/Le_livre_de_la_Marquise_33.jpeg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+  </div>
+ </div>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/c/c5/Paul_Avril_-_Les_Sonnetts_Luxurieux_%281892%29_de_Pietro_Aretino%2C_5.jpg" >
+
+<div class="flex3BorderedPaddedROW">
+  <div class="item1">
+    <a href="https://youtu.be/UE6zfOuYfVI"><img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Ovid_and_Corine.jpg" alt="MONiCA_KNOWS_MUNA_AND_##WE_ALL_NEED_FREEDM_FROM_PROSTiTUTION"> </a>
+  </div>
+  <div class="item2">
+    <a href="https://youtu.be/UE6zfOuYfVI"><img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Ovid_and_Corine.jpg" alt="MONiCA_KNOWS_MUNA_AND_##WE_ALL_NEED_FREEDM_FROM_PROSTiTUTION"> </a>
+  </div>
+  <div class="item3">
+    <a href="https://youtu.be/UE6zfOuYfVI"><img src="https://upload.wikimedia.org/wikipedia/commons/6/69/Ovid_and_Corine.jpg" alt="MONiCA_KNOWS_MUNA_AND_##WE_ALL_NEED_FREEDM_FROM_PROSTiTUTION"> </a>
+  </div>
+</div>
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Zichy_depucelage.jpg">
+
+[Soundgarden - Black Hole Sun](https://www.youtube.com/watch?v=3mbBbFH9fAg)
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/06/Michael_Zichy-love1.jpg">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Satyr_en_nimf_bedrijven_de_liefde-Rijksmuseum_RP-P-2007-240.jpeg/1024px-Satyr_en_nimf_bedrijven_de_liefde-Rijksmuseum_RP-P-2007-240.jpeg">
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/%C3%89douard-Henri_Avril_%2810%29.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/7/7f/%C3%89douard-Henri_Avril_%2810%29.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+  </div>
+ </div>
+<div class="panel4-container">
+   
+  <div class="item1"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/PolyenosChrisis.jpg/800px-PolyenosChrisis.jpg"></div>
+  <div class="item2"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/PolyenosChrisis.jpg/800px-PolyenosChrisis.jpg"></div>
+  <div class="item3"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/PolyenosChrisis.jpg/800px-PolyenosChrisis.jpg"></div>
+  <div class="item4"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/31/PolyenosChrisis.jpg/800px-PolyenosChrisis.jpg"></div>
+
+</div>
+
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://i.pinimg.com/564x/cc/72/61/cc7261bf1160fe8cdfb95aaf88d4c8c1.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://i.pinimg.com/564x/cc/72/61/cc7261bf1160fe8cdfb95aaf88d4c8c1.jpg" alt="Girl in a jacket" >
+      </div>
+    </div>
+  </div>
+</div>
+
+[The Smashing Pumpkins - Bullet with Butterfly Wings (Official Music Video)](https://www.youtube.com/watch?v=8-r-V0uK4u0)
+[Smashing Pumpkins - 1979](https://www.youtube.com/watch?v=Lr58WHo2ndM)
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/3rd_or_4th_century_CE_Kamasutra%2C_Vatsyayana%2C_13th-century_Jayamangala_commentary_of_Yashodhara%2C_Bendall_purchase_1885CE_in_Nepal%2C_Sanskrit%2C_Devanagari%2C_verso_side_9th_folio.jpg/1024px-thumbnail.jpg">
+
+  <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/video/NORMANiFAiRBG.gif">
+<h2> Normani_my_WiFE featuring my wife_Cardi_B::WiLDSiDE </h2>
+
+  <video controls width="100%" loop >
+     <source src="https://github.com/ThakaRashard/bubblegumpop/raw/gh-pages/video/NormaniWildSideOfficialVideoftCardiB.mp4" type="video/mp4">
+
+   </video>
+<h2><a href="https://www.discogs.com/release/7597003-Time-Machine-Slow-Your-Roll">  <em> TiME_MACHiNE::THE_WAY_THiNGS_ARE ##SOUTHERN_CALi_CLASSiKS</em> </a> </h2>
+<audio controls class="broken-width">
+  <source src="https://github.com/ThakaRashard/bubblegumpop/raw/gh-pages/video/Time%20MachineTheWayThingsAre.mp3" type="audio/mp3" />
+
+  Your browser does not support the <code>audio</code> element.
+</audio>
+
+<h2><a href="https://www.discogs.com/release/650083-Krondon-The-Rules">  <em> Krondon: THE_RULES ##SOUTHERN_CALi_CLASSiKS</em> </a> </h2>
+<audio controls class="broken-width">
+  <source src="https://github.com/ThakaRashard/bubblegumpop/raw/gh-pages/video/Krondon_The%20Rules128kbpsMP3.mp3" type="audio/mp3" />
+
+  Your browser does not support the <code>audio</code> element.
+</audio>
+
+<h2> LiGHTSKiNKEiSHA_my_WiFE - FDH </h2>
+
+  <video controls width="100%" >
+     <source src="https://github.com/ThakaRashard/bubblegumpop/raw/gh-pages/video/FDH_LSK.mp4" type="video/mp4">
+
+   </video>
+
+<div class="panel4-container">
+   
+  <div class="item1"><img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/BUBBLEGUMPOP7192022/LiGHTSKiNKiESHA3.jpg"></div>
+  <div class="item2"><img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/BUBBLEGUMPOP7192022/LiGHTSKiNKiESHA3.jpg"></div>
+  <div class="item3"><img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/BUBBLEGUMPOP7192022/LiGHTSKiNKiESHA3.jpg"></div>
+  <div class="item4"><img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/BUBBLEGUMPOP7192022/LiGHTSKiNKiESHA3.jpg"></div>
+
+</div>
+<h2><a href="https://soundcloud.com/user-573853428">  <em> Mulatto Saweetie Trina - B-tch From Da Souf</em> </a> </h2>
+<audio controls class="broken-width">
+  <source src="https://github.com/ThakaRashard/bubblegumpop/raw/gh-pages/audio/MulattoSaweetieTrinaBtchFromDaSouf.mp3" type="audio/mp3" />
+
+  Your browser does not support the <code>audio</code> element.
+</audio>
+
+
+
+
+
+<!-- https://developer.mozilla.org/en-US/docs/Web/HTML/Element/audio#Basic_usage -->
+
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://upload.wikimedia.org/wikipedia/en/4/42/Mulatto_%22Bitch_from_Da_Souf%22.png" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://images.genius.com/e340ddf6971616a68049fecc163ec30c.1000x1000x1.png" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+  </div>
+ </div>
+ <div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/BUBBLEGUMPOP7192022/LiGHTSKiNKiESHA5.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/BUBBLEGUMPOP7192022/LiGHTSKiNKiESHA5.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+  </div>
+ </div>
+ <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/so_so_def_bass_all_stars__vol__2_album_insert_by_eppsart_dc0sps0-fullview.jpg" >
+<img style="float:right; width:100%; height:100%;" alt="Girl in a jacket" src="https://upload.wikimedia.org/wikipedia/commons/0/03/Emoji_u1f4af.svg">
+
+
+[Fixed gradient background with css](https://stackoverflow.com/questions/18094134/fixed-gradient-background-with-css)
+
+<iframe width="100%" height="120" src="https://www.mixcloud.com/widget/iframe/?hide_cover=1&feed=%2Fmrconcept%2Fdj-rectangle-vinyl-combat-vol1%2F" frameborder="0" ></iframe>
+<img src="https://i.pinimg.com/originals/03/e4/89/03e489323702c40bc9dcb3fa2e0f6e10.gif" alt="Avatar" class="image">
+<iframe width="100%" height="400" src="https://www.mixcloud.com/widget/iframe/?feed=%2Fmrconcept%2Fthe-world-famous-beat-junkies-vol1-dj-babu-1997%2F" frameborder="0" ></iframe>
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/8583021&color=%23b89c5c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+
+<div class="panel4-container">
+   
+  <div class="item1"><img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/SARTUZALAH_RESTORED_TO_NORMANi_ViA_SARTU_FORWARDS.gif"></div>
+  <div class="item2"><img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/SARTUZALAH_RESTORED_TO_NORMANi_ViA_SARTU_REVERSE.gif"></div>
+  <div class="item3"><img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/SARTUZALAH_RESTORED_TO_NORMANi_ViA_SARTU_REVERSE.gif"></div>
+  <div class="item4"><img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/SARTUZALAH_RESTORED_TO_NORMANi_ViA_SARTU_FORWARDS.gif"></div>
+
+</div>
+
+<img src="https://typedifferent.com/fonts/bd_geminis/bd_geminis_example3.jpg" >
+<img src="https://typedifferent.com/fonts/bd_geminis/bd_geminis_example2.jpg" >
+<img src="https://typedifferent.com/fonts/bd_geminis/bd_geminis_example1.jpg" >
+
+
+## ANiMAL_FARM##ANiMATED##1954 
+[Animal Farm 1954](https://www.youtube.com/watch?v=XXkicQRl6vg)
+
+
+<img src="https://nervousnyc.com/wp-content/uploads/2021/10/tote.jpg">
+
+
+[Nervous_Records classic mix](https://www.youtube.com/watch?v=h_MnOwMfDEQ)  
+[Kerri Chandler - BBC Radio 1 Dance Presents Nervous Records 11 09 2021](https://www.youtube.com/watch?v=BqpRYEk1fpA)
+[90 S OLD SCHOOL DEEP HOUSE MIX NERVOUS RECORDS FREE DOWNLOAD](https://www.youtube.com/watch?v=KSh1PQQL2sQ)
+[DJ Vex Presents Nervous Records 90's N.Y. House Jam (Part 1)](https://www.youtube.com/watch?v=oIbhyQKqdmk)
+[DJ Vex - Masters At Work: Old School NYC House Jam [1989/1993]](https://www.youtube.com/watch?v=lugSeWt50wY)
+[Frankski V103 FM Baltimore, Maryland, July 1987 (Highlights)](https://www.youtube.com/watch?v=NX7zS_GRX14)
+[Nervous_Records_NYC](https nervousnyc.com)
+[THE BEST FREESTYLE MIXMASTER MEGAMIX 2 {DJ PINOCHIO}](https://www.youtube.com/watch?v=65e1kqisNQw)
+
+
+[GROVERWASHiNTON_MASTERPEiCE](https://youtu.be/zbZwqGqSCS4)
+[SLAVE-WATCHiNG_YOU](https://youtu.be/xkI_yIhIk1c)
+[SLAVE-JUSTA_A_TOUCH_OF_LOVE](https://youtu.be/F1czSmdfcTk)
+[Tom Browne - Funkin' for Jamaica](https://youtu.be/XYclWyC4qQo)
+[Gladys Knight & The Pips - Save the Overtime Four_Me](https://youtu.be/Y36aBTuRr1o)
+[Brothers Johnson - StrawberryLetter23 1977](https://youtu.be/f0bdLdTJdKI)
+[LOOSE_ENDS HANGiN_ON_A_STRiNG](https://youtu.be/nP9zoP3km7g)
+[I Can't Go for That ](https://youtu.be/Ry04tCx4Bqw)
+[KASiF - I Just Gotta Have You](https://youtu.be/2hNxvL4vjqo)
+[KASiF - STONE_LOVE](https://youtu.be/IQGEn2qernc)
+[THE_SPiNNERS Could It Be I'm Falling in Love](https://youtu.be/NaMmX7OCyCA)
+[RONNiE_LAWS - FRiENDS_and_STRANGERS](https://youtu.be/nRCun0fCr_U)
+[RONNiE_LAWS - LiFE_iN_PARADiSE](https://youtu.be/gm32Ev5muTU)
+[RONNiE_LAWS - ALWAYS_THERE](https://youtu.be/w7jjO5QuesU)
+[RONNiE_LAWS - ALL_FOR_YOU](https://youtu.be/by2u7frqoeA)
+[RONNiE_LAWS - FLAME](https://youtu.be/-1K8rFKk7zc)
+[Surface - Only you can Make me Happy](https://youtu.be/tlaAMMaTs58)
+[CAMEO - Attack Me With Your Love](https://youtu.be/U4fkI6Wg06I)
+[Love Come Down (12" Version) (Remastered) · Evelyn "Champagne" King](https://youtu.be/TJdM9dazxQo)
+[James Brown - Mind Power - 1973](https://www.youtube.com/watch?v=yeTP6qsu0Bo)
+It takes MiND_POWER to DEAL_WiT_STARVATiON - <a href="https://en.wikipedia.org/wiki/James_Brown">James Brown</a>
+
+## GOOD_QUARANTiNE_MOViE
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://th.bing.com/th/id/OIP.mpEivFuUyhn_yUGzVm0megHaLF?pid=ImgDet&rs=1" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAYMacross - Do You Remember Love ?" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://th.bing.com/th/id/OIP.mpEivFuUyhn_yUGzVm0megHaLF?pid=ImgDet&rs=1" alt="Macross - Do You Remember Love ?" > 
+      </div>
+    </div>
+  </div>
+</div>
+<a href="https://youtu.be/5HkBxcJJ2cE">Grave of the fireflies ENGLiSH_DUB find it with subtitles in Japanese at somepoint the emotions are more on point... Great english dub tho! </a>
+<a href="https://www.youtube.com/watch?v=SQNWBxNSJ4w">The Tragic Innocence of Grave of The Fireflies | BONUS_FEATURE </a>
+
+<div class="pinupGallery">
+  <img class="pinupImage featured-pinupImage" src="https://i.pinimg.com/750x/9d/fd/e1/9dfde147d7a2b0f01c64d691c3d62e2f.jpg" alt="">
+  <img class="pinupImage" src="https://i.pinimg.com/750x/9d/fd/e1/9dfde147d7a2b0f01c64d691c3d62e2f.jpg" alt="">
+  <img class="pinupImage" src="https://i.pinimg.com/750x/9d/fd/e1/9dfde147d7a2b0f01c64d691c3d62e2f.jpg" alt="">
+  <img class="pinupImage" src="https://i.pinimg.com/750x/9d/fd/e1/9dfde147d7a2b0f01c64d691c3d62e2f.jpg" alt="">
+</div>
+
+[Mahmoud Ahmed With Roha Band (1986)](https://www.youtube.com/watch?v=1o-kDk-O1H8)
+
+## DEAR_SARTU ::PLEASE_LiSTEN_iLOVEYOU
+## EVERYTHiNG_REMAiNS_RAW
+## DEAR_CYNTHiA WORKABLE_LIST_FOR_FATHER_DAUGHTER_BONDiNG
+## DEAR_CORAL ##JUS_LiSTN
+
+[Beastie Boys - Alive](https://youtu.be/JkeE2O15RFs) [Beastie Boys - Root Down](https://youtu.be/Xf1YF_MH1xc) [Beastie Boys - Shake Your Rump](https://youtu.be/BptQHAW2T5M) [Busta Rhymes ‎- Woo-Hah!! Got You All In Check from the album "The Coming" (1996) ](https://youtu.be/EQzvQO2LcA4)
+[Beastie Boys - Body Movin::HELLO_NASTY::](https://www.youtube.com/watch?v=4ItdKOXH3qA) [Beastie Boys - So What'Cha Want](https://youtu.be/ru3gH27Fn6E) [DEAR_JABDU - ENJOY_THiS_TRACK_WiTH_CORAL Björk::Enjoy::Post](https://www.youtube.com/watch?v=RYmyfksGA74)
+[Tears For Fears - Sowing The Seeds Of Love](https://www.youtube.com/watch?v=VAtGOESO7W8) [Mr. Mister - Broken Wings](https://www.youtube.com/watch?v=nKhN1t_7PEY)[Nija - Not One Of Them](https://www.youtube.com/watch?v=1Xc4ZAWj06g) [Men At Work - Who Can It Be Now?](https://www.youtube.com/watch?v=SECVGN4Bsgg) [Artifacts - Wrong Side Of Da Tracks](https://www.youtube.com/watch?v=GM92f-BUoow) [M.I.A. - Go Off](https://www.youtube.com/watch?v=kGDhHxgY6uo) [Lorde - Team](https://www.youtube.com/watch?v=f2JuxM-snGc) [Grimes - World Princess Part II](https://www.youtube.com/watch?v=EOwhuTlxE54) [Lorde - Tennis Court](https://www.youtube.com/watch?v=D8Ymd-OCucs) [Lorde - Royals](https://www.youtube.com/watch?v=nlcIKh6sBtc) [a-ha - Take On Me](https://www.youtube.com/watch?v=djV11Xbc914) [Michael Jackson - Smooth Criminal](https://www.youtube.com/watch?v=h_D3VFfhvs4) [Janet Jackson - Empty / Full](https://www.youtube.com/watch?v=q37CHEMiXi4) &#128293; [M.I.A. - Matahdatah Scroll 01 "Broader Than A Border"](https://www.youtube.com/watch?v=SJuFdkMOP20) &#128293; [Disclosure - Magnets ft. Lorde](https://www.youtube.com/watch?v=b_KfnGBtVeA) [GRiMES - Realiti](https://www.youtube.com/watch?v=BOxFvfjlnno) 
+[The Jones Girls - Nights Over Egypt ](https://www.youtube.com/watch?v=pzxwZ6wjDAM) [Remind Me · Patrice Rushen ·Straight From The Heart](https://www.youtube.com/watch?v=SOPp6EgpDrg)
+[Yearning For Your Love::By::THE_GAP_BAND](https://www.youtube.com/watch?v=afqzUbvi7D8) [The Jones Girls::Who Can I Run To?::1979](https://www.youtube.com/watch?v=JRpKQb9J-nU) [Keke Wyatt::NOTHiNG_iN_THiS_WORLD](https://www.youtube.com/watch?v=diEV1qC34Og) [Stephanie Mills-Two Hearts Featuring Teddy Pendergrass](https://www.youtube.com/watch?v=uJ7HN1nNdbc)
+[NEW_EDiTiON::Cool It Now (Official Video)](https://www.youtube.com/watch?v=RZUq6N7Gx1c) [NEW_EDiTiON::Mr. Telephone Man](https://www.youtube.com/watch?v=GsWrlzjxbPY) [BOBBY_BROWN::Every Little Step](https://www.youtube.com/watch?v=muDCggSpqpE) &#128293; [A1 Warm It Up (LP Version)
+Producer – Jermaine Dupri](https://www.youtube.com/watch?v=fwXfhQaBRZI) &#128293; [TLC - What About Your Friends (Official Video)](https://www.youtube.com/watch?v=92gHq1s6G-c) [Another Bad Creation - Iesha (Official Music Video)](https://www.youtube.com/watch?v=ZDPIK7Fz_g4) [SWV – You're The One
+Genre:	Funk / Soul
+Style:	RnB/Swing, Hip Hop
+Year:	1996](https://www.youtube.com/watch?v=Ua4fg2FQ6w8) [BRANDY::Sittin' Up In My Room from Waiting to Exhale - Original SoundtracK](https://www.youtube.com/watch?v=DGgANpSjoas) [702 - Steelo feat. Missy Elliott::1996](https://www.youtube.com/watch?v=LdvRwHhla6Q) [DELiRiUM:BY::##ELLiE_GOULDING## ##FAV_TRACK## ## ](https://youtu.be/cLWv0f2Tt8E) 
+[DiSCOGS:##ENTRY](https://www.discogs.com/release/8118343-Ellie-Goulding-Delirium)
+[Björk::Human Behaviour](https://youtu.be/p0mRIhK9seg) [Björk : ARMY_OF_ME::video](https://www.youtube.com/watch?v=jPeheoBa2_Y) [Björk::Jóga](https://youtu.be/loB0kmz_0MM) [Dido - Thank You |Official Video|](https://youtu.be/1TO48Cnl66w) [Beastie Boys - Three MC's And One DJ](https://youtu.be/XflfiylNNXY) [Lorde - White Teeth Teens](https://www.youtube.com/watch?v=kNUWreGGxcc&list=PLvm6B0LWgqu-rHo4GAqYy5mC1O7pUxntS&index=9) 
+[Dido – My Lover's Gone](https://www.youtube.com/watch?v=Libbd7BCBHE) 
+[Beastie_Boys - Sure_Shot::iLL_COMMUNiCATiON](https://youtu.be/JhqyZeUlE8U) 
+[Dido - Honestly Ok](https://youtu.be/mCcNGt_eliM) [Dido - I'm No Angel ](https://youtu.be/i5JyWpyYVx4) [Eminem - Stan ft. Dido](https://youtu.be/gOMhN-hfMtY)  [WHOSAMPLED::EXPLORE_THE_STAN_SAMPLES](https://www.whosampled.com/Eminem/Stan/)
+[EVERYTHiNG_REMAiNS_RAW](https://youtu.be/fd_HkV9zz84) [BUSTA_RHYMES_RAMPAGE_FREESTYLE](https://www.youtube.com/watch?v=5CivybE0slA) [Notorious B.I.G. - Brooklyn Freestyle at the age of 17 (1989)](https://youtu.be/zSx03q1-1KA) [Wang Dang Doodle::Koko Taylor w Little Walter 1967](https://youtu.be/qyUHkY0K8HE) [Fugees murder the Apollo live 1996 ](https://youtu.be/LpA8qvLWF1Q) [Nas & Large Pro - Live at the Barbeque ](https://youtu.be/ta3srWr4sJQ) [MiNNiE_RiPERTON::Inside My Love](https://www.youtube.com/watch?v=jlgp-jjHzC0) [HiFi_SHiT = ROY_AYERS::Everybody Loves The Sunshine](https://www.youtube.com/watch?v=SSBWiFGzsyU) 
+[Björk : Isobel::HD_ViDEO](https://www.youtube.com/watch?v=VGPYO0mzmBQ) 
+["I Miss You" - Björk](https://www.youtube.com/watch?v=8A7TqgbHT3k)
+[Björk::Possibly_Maybe](https://youtu.be/iyqKy5P1Y0Q)
+[Mo Money Mo Problems by The Notorious B.I.G. feat. Puff Daddy, Mase and Faith_Evans](https://www.whosampled.com/The-Notorious-B.I.G./Mo-Money-Mo-Problems/)
+[Crush on You by Lil' Kim feat. Lil' Cease and The Notorious B.I.G.](https://www.whosampled.com/Lil%27-Kim/Crush-on-You/)	
+[Gettin' Money::The Get Money Remix](https://www.whosampled.com/Junior-M.A.F.I.A./Gettin%27-Money-(The-Get-Money-Remix)/)	
+[Jay-Z feat. Foxy Brown and Babyface(Always Be My) Sunshine](https://www.whosampled.com/sample/2209/Jay-Z-Foxy-Brown-Babyface-(Always-Be-My)-Sunshine-The-Fearless-Four-Rockin%27-It/)	
+[Sunny Day](https://www.youtube.com/watch?v=Nn1DQAmCQ4A)
+[The Smashing Pumpkins - Today DEAR_LALiBAELAH check out this ShreddeR](https://www.youtube.com/watch?v=xmUZ6nCFNoU)
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://nervousnyc.com/wp-content/uploads/2022/05/bigho.jpg" alt="SARTU_IM_SAD_THEY_ROBBED_YOU_I_RESPECT_YOU_AS_KASHDOLL_AS_WELL_THEY_DONT">
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://nervousnyc.com/wp-content/uploads/2022/05/bighob.jpg" alt="SARTU_IM_SAD_THEY_ROBBED_YOU_I_RESPECT_YOU_AS_KASHDOLL_AS_WELL_THEY_DONT"> 
+      </div>
+    </div>
+  </div>
+</div>
+
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/331709122&color=%235e4184&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe>
+<img src="https://th.bing.com/th/id/R.af44e470253784a97bcae1b97c571954?rik=80u2ZRCYDhk18Q&riu=http%3a%2f%2fwww.xhtmljunction.com%2fblog%2fwp-content%2fuploads%2f2018%2f02%2fhtml5-css3.png&ehk=k3fb7DfpkTK6ND8lS2w9AB3sdPc8Bp655RBs%2bK1EmC4%3d&risl=&pid=ImgRaw&r=0" >
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/439224009&color=%234c044c&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/voyage_music" title="Voyage" target="_blank" style="color: #cccccc; text-decoration: none;">Voyage</a> · <a href="https://soundcloud.com/voyage_music/dynamic" title="Dynamic" target="_blank" style="color: #cccccc; text-decoration: none;">Dynamic</a></div>
+
+["Burnin' for You" Blue Öyster Cult 1981 HQ](https://www.youtube.com/watch?v=KQSkjl6oOF0)
+[More Than a Feeling · Boston](https://www.youtube.com/watch?v=ufQUxoidxkM)
+"Keep On Loving You" is a soft rock power ballad written by Kevin Cronin and performed by American rock band REO Speedwagon. It features the lead guitar work of the late Gary Richrath. The song first appeared on REO Speedwagon's 1980 album Hi Infidelity. 
+
+The song was the first REO Speedwagon single to break the top 50 on the U.S. Billboard Hot 100, reaching the #1 spot for one week in March 1981. The single was certified Platinum for U.S. sales of over one million copies. It peaked at #7 on the UK Singles Chart.
+
+In 1981, the music video of the song was the 17th played on the first day of broadcast of MTV, on August 1. - Clay_CuLver
+
+[REO Speedwagon - Keep on Loving You (1980) HQ](https://www.youtube.com/watch?v=IkdLpSllRuw)
+[Steely Dan ~ Deacon Blues ~ Aja (Remastered) HQ Audio](https://www.youtube.com/watch?v=-hNeWDcf7so)
+[Rhiannon · Fleetwood Mac](https://www.youtube.com/watch?v=0xGPi-Al3zQ)
+[Phil Collins - Another Day In Paradise (Official Music Video)](https://www.youtube.com/watch?v=Qt2mbGP6vFI)
+[FLEETWOOD_MAC Dreams (2004 Remaster)](https://www.youtube.com/watch?v=swJOIjjW69U)
+[Bee Gees - How Deep Is Your Love (Official Video)](https://www.youtube.com/watch?v=XpqqjU7u5Yc)
+[Bee Gees - Stayin' Alive (Official Video)](https://www.youtube.com/watch?v=I_izvAbhExY)
+[Arthur Collins - In Ragtime Land 1912 Vintage Sheet Music Rag Time](https://www.youtube.com/watch?v=RYmgHp_6yu8) 
+[Guns N' Roses - Paradise City (Official Music Video)](https://www.youtube.com/watch?v=Rbm6GXllBiw)
+[Bon Jovi - Livin' On A Prayer](https://www.youtube.com/watch?v=lDK9QqIzhwk)
+[Bon Jovi - You Give Love A Bad Name (Official Music Video)](https://www.youtube.com/watch?v=KrZHPOeOxQQ)
+[No More Distractions | Joel Osteen](https://www.youtube.com/watch?v=_QcuQ-ztfhY)
+[How to Write PowerFULL Petitions- They DO Work!!!](https://www.youtube.com/watch?v=s5WDnZeL5Os)
+[Powerfull Ruqyah Syariah | Against Black Magic, Sihir, Jinns, Evil& Sleeping Problem](https://www.youtube.com/watch?v=KZ2fI9zCGLE)
+<img src="https://devhumor.com/content/uploads/images/September2014/programmermeme2.jpg">
+
+[Ridge Racer Revolution PS1 - Full Complete Soundtrack | OST](https://www.youtube.com/watch?v=HasppWQbXlQ)
+[McGruff's Guide To Personal Safety (1988 VHS)](https://www.youtube.com/watch?v=p3hu_wvgd1Y)
+[McGruff Don't talk to Strangers PSA 1984](https://www.youtube.com/watch?v=rxLD1uq94sE)
+[Blue Ribbon Panel: McGruff on Dangerous Strangers](https://www.youtube.com/watch?v=EkAwcNkagjU)
+[McGruff on Self-Protection: Preventing Child Abuse and Neglect (1993 VHS)](https://www.youtube.com/watch?v=61u1HAbmMwg)
+[(1986) McGruff's SMART KIDS Album [Cassette Rip]](https://www.youtube.com/watch?v=y4P4plYXKFE)
+
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--NsJ312FL--/c_imagga_scale,f_auto,fl_progressive,h_420,q_auto,w_1000/https://res.cloudinary.com/practicaldev/image/fetch/s---Xg28U2u--/c_imagga_scale%2Cf_auto%2Cfl_progressive%2Ch_420%2Cq_auto%2Cw_1000/https://dev-to-uploads.s3.amazonaws.com/i/q7uy4yxekcljpr70p2xk.png">
+
+
+
+<img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/Screenshot%202022-08-02%2011.45.22%20AM.png">
+
+[Justice, Integrity & Service The U.S. Marshals Service is the nation's oldest and most versatile federal law enforcement agency.](https://www.usmarshals.gov/)
+## My_WiFES_STALKERS
+[ALWAYS_FRAME_ME_FOR_STALKiNG_HER AND_GET_OUR ACCOUNTS_REMOVED or Struggle_with_reduced_functionality](https://www.pinterest.com/natejr45/black-beautiful-queen-100/), then I stumble across scary ass shit like this. While Sartu does work under [NiJA_CHARLES](https://www.revolt.tv/article/2022-02-01/150820/nija-dont-say-i-didnt-warn-you/) and [Normani](https://www.officialnormani.com/), she is also known as [KASH_DOLL](https://thesource.com/2022/08/02/kash-doll-signs-deal-with-mnrk-music-group-plans-2023-project/)
+
+Wikipedia alerted me to another name change [Arkeisha Antoinette Knight, known professionally as Kash Doll,](http://www.kashdoll.com/)and I discovered there is a population using the name Arkeisha. The [US_MARSHALL_SERViCE iS_ASSiSTiNG_US](https://www.usmarshals.gov/local-districts/central-district-of-california/courthouse-locations)
+
+## DEAR_US_MARSHALL_SERViCE
+Sartu and I are a healthy couple that can be verified within Savannah, Atlanta, Macon, Houston, and Los_Angeles_County telepath communities. Many people hold her in prostitution and claim we are not telepathic. Danielle_Mushonga is one of those people. She is telepathic, you can question_her, remotely
+#### That_Lady_might_bE_Russian because she can see through your eyes, the CiA_CALLs_iT [REMOTE_ViEWiNG](https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000200030025-7.pdf)
+[TOPiC4RESEARCH::Remote Viewing: The CIA Experiment That Was Too Successful](https://anomalien.com/remote-viewing-the-cia-experiment-that-was-too-successful/)
+[TOPiC4RESEARCH::Remote Viewing – The Most Unbelievable CIA Psychic Spy Program](https://tilln.com/season-4/remote-viewing-the-most-unbelievable-cia-psychic-spy-program/)
+[CiA_REMOTE_ViEWiNG_FORM for test candidates I think](https://www.cia.gov/readingroom/docs/CIA-RDP96-00791R000300040001-1.pdf)
+
+
+<div class="pinupGallery">
+  <img class="pinupImage" src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/5f8002d816354b31ae000001/vsco5f8002dae92b2.jpg" alt="">
+  <img class="pinupImage" src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/5f8002d816354b31ae000001/vsco5f8002dae92b2.jpg" alt="">
+  <img class="pinupImage" src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/5f8002d816354b31ae000001/vsco5f8002dae92b2.jpg" alt="">
+  <img class="pinupImage" src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/5f8002d816354b31ae000001/vsco5f8002dae92b2.jpg" alt="">
+   <img class="pinupImage featured-pinupImage " src="https://image-aws-us-west-2.vsco.co/12f8b0/56497/5f8002d816354b31ae000001/vsco5f8002dae92b2.jpg" alt="">
+</div>
+
+[DEAR_SARTU_JUST_KNOW...](https://www.youtube.com/watch?v=vC0URxrUy48) 
+### DANCE411_HOW_diD_WE_GET_HERE?
+<img src="https://www.monkeyuser.com/assets/images/2022/248-unit-tests.png" >
+
+
+<img src="https://d1dllhfo4523g0.cloudfront.net/87758_20201011-092933_1500x675.jpg" >
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://i.discogs.com/q7JEPdpNa6MhgtRZVF2Lm7q8iXPiiw0SlVp0EoVN8Gc/rs:fit/g:sm/q:90/h:501/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NTcy/MjMtMTQ4NzQ2OTU1/My0zNDk3LmpwZWc.jpeg" alt="SARTU_IM_SAD_THEY_ROBBED_YOU_I_RESPECT_YOU_AS_KASHDOLL_AS_WELL_THEY_DONT">
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://i.discogs.com/q7JEPdpNa6MhgtRZVF2Lm7q8iXPiiw0SlVp0EoVN8Gc/rs:fit/g:sm/q:90/h:501/w:500/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTk4NTcy/MjMtMTQ4NzQ2OTU1/My0zNDk3LmpwZWc.jpeg" alt="SARTU_IM_SAD_THEY_ROBBED_YOU_I_RESPECT_YOU_AS_KASHDOLL_AS_WELL_THEY_DONT"> 
+      </div>
+    </div>
+  </div>
+</div>
+
+[Heart - Barracuda](https://www.youtube.com/watch?v=VdOkQ6THDVw)
+[Bruce Springsteen - Dancing In the Dark](https://youtu.be/129kuDCQtHs)
+[Journey - Don't Stop Believin' (Official Audio)](https://youtu.be/1k8craCGpgs)
+[Starship - We Built This City](https://www.youtube.com/watch?v=IDI2WQJyE7I)
+[More Than a Feeling](https://www.youtube.com/watch?v=ufQUxoidxkM)
+[DEAR_ERiKA_MUNA_KELELA_LALiBELA_QUXUBE KAMPiRE JENNiFER, Heather, Sandy, Sartu_Lauren - LiSTEN_TO_Africa_BY_TOTO](https://www.youtube.com/watch?v=FTQbiNvZqaY)
+
+<h2>	(╯°□°)╯︵ ʞooqǝɔɐɟ </h2>
+
+
+#### HTAU_THEME_MUSiC_RN
+[Ridge Racer - Rare Hero](https://www.youtube.com/watch?v=l3bhNLtXvHA) &#128293;&#128293;&#128293;
+&#128293;&#128293;&#128293;&#128293;&#128293;
+## Dear_NiNE_JABDU_and_CoraL
+Here, this was my release day purchase after working hard to buy my Playstation1 cash. Its RAVE_RACER_iN_JAPAN and Ridge_Racer in tha states 
+
+[PlayStation history: From console neophyte to all-conquering veteran](https://www.androidauthority.com/playstation-history-1220628/)
+<iframe width="80%" height="315" src="https://www.youtube.com/embed/m8nsUcAwkj8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+[Jam On It](https://www.youtube.com/watch?v=apnh_MpXlTE)
+[When I Hear Music](https://www.youtube.com/watch?v=WRcLYanZrho)
+<img src="https://149455152.v2.pressablecdn.com/wp-content/uploads/2018/09/Goal-Zero-Sherpa-100AC.jpg">
+
+[GeekDad Review: Goal Zero Sherpa 100AC Portable Power Bank](https://geekdad.com/2018/09/geekdad-review-goal-zero-sherpa-100ac-portable-power-bank)
+
+If I had a healthy power bank and my search results were not filtered, Id rarely ever come to centtral... Why are there so many broken computers... Its really pathetic 
+
+[Lookout Weekend - DEBBiE_DEB](https://www.youtube.com/watch?v=5TXvP76l-V4)
+## DEAR_MUNA
+You know I rag you guys about being lame all the time but this is serious prostitution allegations or not... The condition Justin has is called [Bell's palsy](https://www.mayoclinic.org/diseases-conditions/bells-palsy/symptoms-causes/syc-20370028). And he connected with mad prostituted women. Those pimps and ##PSYCHO_JONS have nerve gas. You can ask Erika, Sartu, Coral or Quxube, Matt_Field_GNK_NPR_REM and possibly SEVER_MSK but I have to be right if I accuse [SEVER##AWR_MSK](https://www.graffiti.org/sever/index.html). I cant be wrong with that guy. He dont realize that when we were early teens we looked up to him. So him stealing Muna is like yo look at those little boys at the basketball court. That skinny flat chested [DoubleDucher](https://www.youtube.com/watch?v=Kh1rgPIkWKA) is gonna be mine and he will never share a meal with her again once my plan is complete. Ill dissolve any family he builds. ##PiMP_SHiT_MAH_NiGGAH -SiGNED ATLANTAS_MOST_AGGY_NYMPHO_HUMANTRAFFiKiNG_PiMP_THiNG...
+#### BACK_TO_JUSTiN
+I wish people would listen to the people outside about the chemical weapon problem in Los Angeles. I have been attacked alot and the poison make certain muscle groups contract violently to a freeze or you loose all control of the muscle group. Justin spend time outside... Yes I have been blackballed and being a roof dweller I dont have the disadvantage of closed in permanet housing, and that is uncirculated air. Drink lots of water comfortably and excercise moderately, break a sweat and that [keeps ya body clean, Ha.](https://www.youtube.com/watch?v=3yylD-wixT0) So despite my aversion to prostitution rap and its related fallout I do understand that alot of people are lonely for ##quarantine so the ##CORONA_BAE while it needs to be explained, we want you healthy... AGRESSiVELY_RESEARCH_NERVE_GAS they were using Sarin and Anthrax for a while [Nerve Gas Poisoning](https://www.drugs.com/cg/nerve-gas-poisoning.html) I just know because of the symptoms, like these super pusFilled blisters that I got from an attack on my ass at the central library while I was using the computer. I still have the scabs for samples if you know someone responsible in law enforcement that wants to takle it.  
+
+[JUSTIN BIEBER REVEALS SCARY DIAGNOSIS ...Has Caused Facial Paralysis](https://www.tmz.com/2022/06/10/justin-bieber-battling-virus-that-has-paralyzed-part-of-his-face/)
+[Cherrelle - Saturday Love - Lyrics](https://www.youtube.com/watch?v=efLcgUQmyT8) 
+
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://i926.photobucket.com/albums/ad105/ichiban619/various%20graffiti%20magazines/12OzProphetIssue61997-AEROHOLICS-26.jpg" alt="SARTU_IM_SAD_THEY_ROBBED_YOU_I_RESPECT_YOU_AS_KASHDOLL_AS_WELL_THEY_DONT">
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://i926.photobucket.com/albums/ad105/ichiban619/various%20graffiti%20magazines/12OzProphetIssue61997-AEROHOLICS-28.jpg" alt="SARTU_IM_SAD_THEY_ROBBED_YOU_I_RESPECT_YOU_AS_KASHDOLL_AS_WELL_THEY_DONT"> 
+      </div>
+    </div>
+  </div>
+</div>
+
+[IchiBan`s Street Scribers Yard](http://street-scribers-yard.blogspot.com/)
+[SAMURAi_SHOWDOWN](https://archive.org/details/arcade_samsho) 
+
+## LAPL, YOUR_SECURiTY_GAURDS_ARE_A_PESTiLENCE
+THE_FAT_BALD_ONE_ALWAYS_STALKS_AND_DiSTRACTS_ME_AT_CENTRAL
+If I cant breath in my fucking mask and I am more than 6 feet away from another person I should have the right to use the library with my mask off! Its so distracting!!! THEY_TiME_THE_SHiT because alot of them work extra shift for the pimps and shit, so its personal. 
+- I am an open source developer, please respect that I have been robbed and blackballed and the library is the place I get my shit together. Stop being so cruel, you guys kicked me out of the Octavia Center while I was filling out paperwork. Then I got denied acces because I am not doing anything creative and I am not permitted to download anything or browse the internet... [##TMZ_WHATS_WRONG_WiTH_THiS_LiBRARY](https://www.bing.com/search?q=porn+library+santa+monica&PC=U316&FORM=CHROMN) [AND_YOU_KNOW_MY_MiSSiNG_ASS_FAMiLY](https://www.cbsnews.com/losangeles/news/adult-film-shot-at-santa-monica-public-library-during-business-hours-sparks-outrage/) Appears in porn and I have been menaced in the library and on the train with guys flashing me porn of kidnapped dance411 members... "You'll never see your wives again" they say
+
+[Adult Film Shot At Santa Monica Public Library During Business Hours Sparks Outrage](https://www.cbsnews.com/losangeles/news/adult-film-shot-at-santa-monica-public-library-during-business-hours-sparks-outrage/)
+### SANTA MONICA (CBSLA) 
+ A porn stunt apparently done to get clicks is provoking outrage after news surfaced that an adult film was shot inside a local public library. The video is more than ten minutes in length and was shot on Santa Monica city streets and then inside the Santa Monica Public Library – Ocean Park Branch.
+
+The video – which shows a woman exposing herself – outside Santa Monica streets and even outside John Muir Elementary, then carrying out sex acts inside the library. "God forbid, a child walked in the library and walked right in on the middle of it. That's my biggest concern," said Janet McLaughlin, a neighbor. "Children don't need to be exposed to this. If you want to do porn, stick to the hotels." McLaughlin was so disgusted after another concerned parent sent her a link of the movie, that she took to social media to get the city's attention. In the clip, the woman in the video walks into the library, apparently during business hours and shoots the video while talking about not getting caught.
+
+But McLaughlin says city leaders are aware.
+"They say that it is a misdemeanor and unless they witness it themselves, there is nothing they can do about it," she said. The video was uploaded to a porn site that pays per click. The face of the man in the video is never shown. CBS Los Angeles has chosen to not release the identity of the female in the clip, but a search shows that she has appeared in other adult films.
+"We have to have laws to stop them from doing things that puts children in harm's way," said McLaughlin. [##TMZ_WHATS_WRONG_WiTH_THiS_LiBRARY](https://www.bing.com/search?q=porn+library+santa+monica&PC=U316&FORM=CHROMN) 
+
+## WHY_iYT_AiYNT_FiYXED?!?!
+## ITS_A_MISDEMENOR_BUT_WHAT_ABOUT_WHEN
+### She is denied food for a week and her first meal is semen as 
+[LUDACRiS_REVEALS_HiS_RAPE_SESSiON_WiTH_MY_WiFE_SARTU iN and ##UNORTHORiZED_REMiX](https://soundcloud.com/saintbeda/normani-wild-side-remix-ft-ludacris-lil-wayne-1?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing) Sartu, performs under Normani and Nija and a few other names Melisza McFierce... And in the porn world she is popular for authentic female ejaculation and people experiment on her. She is from a rare african tribe and people have treated us like [E.T and ELLiOT](https://www.youtube.com/watch?v=alt4NCNZqWI) all our lives and we wanna be together and with the rest of our ##DanceTribe with no one policing our sexuality... I cannot even search for sex positions on wikipedia its blocked! Im so torchured electronically and so is she. Its wrong and the library system of Los Angeles supports porn and there is no such thing as consensual porn. Its always fraud and coercion involved ant thats RAPE_IN_CALIFORNIA
+<img src="https://th.bing.com/th/id/R.1076edaa5851c4226d72903cd9d09833?rik=IqOwzX%2bHRdtBOw&riu=http%3a%2f%2fwww.thewrap.com%2fwp-content%2fuploads%2f2016%2f06%2fScreen-Shot-2016-06-09-at-3.26.48-PM.png&ehk=4sLNCMMF5hNOE%2bqlZjErGShn3Z9pzbRWITz3sIpujTU%3d&risl=&pid=ImgRaw&r=0">
+
+[E.T. the Extra-Terrestrial (1982) - 'Invading Elliot's House' scene [1080p]](https://www.youtube.com/watch?v=alt4NCNZqWI)
+<iframe scrolling="no" frameborder="0" allowfullscreen webkitallowfullscreen mozallowfullscreen allow="autoplay; fullscreen" src="https://w3.mp.lura.live/player/prod/v3/anvload.html?key=eyJtIjoiY2JzIiwidiI6IjQ0NDk0ODQiLCJhbnZhY2siOiI1VkQ2RXlkNmRqZXdiQ21Od0JGbnNKajE3WUF2R1J3bCIsInNoYXJlTGluayI6Imh0dHBzOi8vdzMubXAubHVyYS5saXZlL3BsYXllci9wcm9kL3YzL2FudmxvYWQuaHRtbD9rZXk9ZXlKaGJuWmhZMnNpT2lJMVZrUTJSWGxrTm1ScVpYZGlRMjFPZDBKR2JuTkthakUzV1VGMlIxSjNiQ0lzSW1WNGNHVmpkRkJ5WlhKdmJHd2lPblJ5ZFdVc0ltVjRjR1ZqZEZCeVpYSnZiR3hVYVcxbGIzVjBJam8xTENKb2RHMXNOU0k2ZEhKMVpTd2liU0k2SW1OaWN5SXNJbkJzZFdkcGJuTWlPbnNpWTI5dGMyTnZjbVVpT25zaVl6TWlPaUpEYUdsallXZHZMbU5pYzJ4dlkyRnNMbU52YlNJc0ltTnNhV1Z1ZEVsa0lqb2lNekF3TURBeU15SjlMQ0prWm5BaU9uc2lZMnhwWlc1MFUybGtaU0k2ZXlKaFpGUmhaMVZ5YkNJNkltaDBkSEE2THk5d2RXSmhaSE11Wnk1a2IzVmliR1ZqYkdsamF5NXVaWFF2WjJGdGNHRmtMMkZrY3o5emVqMHllREpjZFRBd01qWnBkVDB2TkRFeU9DOWpZbk11WTJocFhIVXdNREkyWTJsMVgzTjZjMXgxTURBeU5tbHRjR3c5YzF4MU1EQXlObWRrWm5CZmNtVnhQVEZjZFRBd01qWmxiblk5ZG5CY2RUQXdNalp2ZFhSd2RYUTllRzFzWDNaaGMzUXlYSFV3TURJMmRXNTJhV1YzWldSZmNHOXphWFJwYjI1ZmMzUmhjblE5TVZ4MU1EQXlOblZ5YkQxYmNtVm1aWEp5WlhKZmRYSnNYVngxTURBeU5tUmxjMk55YVhCMGFXOXVYM1Z5YkQxYlpHVnpZM0pwY0hScGIyNWZkWEpzWFZ4MU1EQXlObU52Y25KbGJHRjBiM0k5VzNScGJXVnpkR0Z0Y0YwaUxDSnJaWGxXWVd4MVpYTWlPbnNpWTJGMFpXZHZjbWxsY3lJNklsdGJRMEZVUlVkUFVrbEZVMTFkSWl3aWNISnZaM0poYlNJNklsdGJVRkpQUjFKQlRWOU9RVTFGWFYwaUxDSnphWFJsVTJWamRHbHZiaUk2SW5acFpHVnZMV1Y0Y0dWeWFXVnVZMlVpZlgxOUxDSm9aV0Z5ZEdKbFlYUkNaWFJoSWpwN0ltRmpZMjkxYm5RaU9pSmpZbk5zYjJOaGJDMW5iRzlpWVd3dGRXNXBabWxsWkNJc0ltTm9ZWEIwWlhKVWNtRmphMmx1WnlJNlptRnNjMlVzSW1OMWMzUnZiVTFsZEdGa1lYUmhJanA3SW5acFpHVnZJanA3SW1OaWMxOXRZWEpyWlhRaU9pSmphR2xqWVdkdkxtTmljMnh2WTJGc0xtTnZiU0lzSW1OaWMxOXdiR0YwWm05eWJTSTZJbVJsYzJ0MGIzQWlmWDBzSW1OMWMzUnZiVlJ5WVdOcmFXNW5VMlZ5ZG1WeUlqb2lZMkp6WkdsbmFYUmhiRzFsWkdsaExtUXhMbk5qTG05dGRISmtZeTV1WlhRaUxDSmpkWE4wYjIxVWNtRmphMmx1WjFObGNuWmxjbE5sWTNWeVpTSTZJbU5pYzJScFoybDBZV3h0WldScFlTNWtNUzV6WXk1dmJYUnlaR011Ym1WMElpd2lhbTlpU1dRaU9pSnpZMTkyWVNJc0ltMWhjbXRsZEdsdVowTnNiM1ZrU1dRaU9pSTRNak5DUVRBek16VTFOamMwT1RkR04wWXdNREF4TURGQVFXUnZZbVZQY21jaUxDSndTVzV6ZEdGdVkyVWlPaUp3TUNJc0luQmhjbVZ1ZEZCaFoyVlZVa3dpT2lKb2RIUndjem92TDJOb2FXTmhaMjh1WTJKemJHOWpZV3d1WTI5dEwzWnBaR1Z2THpZeU1EVTRNREF0YzJGcGJuUXRibWxqYUc5c1lYTXRkV3R5WVdsdWFXRnVMV05oZEdodmJHbGpMV05oZEdobFpISmhiQzEzYVd4c0xXaHZiR1F0Y0hKaGVXVnljeTFtYjNJdGNHVmhZMlV0YVc0dGRXdHlZV2x1WlM4aUxDSndZWEpsYm5SVWFYUnNaU0k2SWxOaGFXNTBJRTVwWTJodmJHRnpJRlZyY21GcGJtbGhiaUJEWVhSb2IyeHBZeUJEWVhSb1pXUnlZV3dnVjJsc2JDQkliMnhrSUZCeVlYbGxjbk1nUm05eUlGQmxZV05sSUVsdUlGVnJjbUZwYm1VZzRvQ1RJRU5DVXlBeU9pQk9aWGR6TENCWFpXRjBhR1Z5TENCVGNHOXlkSE1nVDI0Z1FXeHNJRkJzWVhSbWIzSnRjeUlzSW5CeWIyWnBiR1VpT2lKalluTWlMQ0p3ZFdKc2FYTm9aWEpKWkNJNkltTmljMnh2WTJGc0lpd2lkSEpoWTJ0cGJtZFRaWEoyWlhJaU9pSmpZbk5rYVdkcGRHRnNiV1ZrYVdFdWFHSXViMjEwY21SakxtNWxkQ0lzSW5abGNuTnBiMjRpT2lJeExqVWlmU3dpYlc5aGRDSTZleUpqYkdsbGJuUlRhV1JsSWpwN0luQmhjblJ1WlhKRGIyUmxJam9pWTJKemJHOWpZV3hoYm5aaGRHOTJhV1JsYnpFNE1UY3pNall3T1RRek1TSjlmWDBzSW5SdmEyVnVJam9pWkdWbVlYVnNkQ0lzSW5ZaU9pSTBORFE1TkRnMEluMCIsInBsdWdpbnMiOnsiY29tc2NvcmUiOnsiYzMiOiJDaGljYWdvLmNic2xvY2FsLmNvbSIsImNsaWVudElkIjoiMzAwMDAyMyJ9LCJkZnAiOnsiY2xpZW50U2lkZSI6eyJhZFRhZ1VybCI6Imh0dHA6Ly9wdWJhZHMuZy5kb3VibGVjbGljay5uZXQvZ2FtcGFkL2Fkcz9zej0yeDImaXU9LzQxMjgvY2JzLmNoaSZjaXVfc3pzJmltcGw9cyZnZGZwX3JlcT0xJmVudj12cCZvdXRwdXQ9eG1sX3Zhc3QyJnVudmlld2VkX3Bvc2l0aW9uX3N0YXJ0PTEmdXJsPVtyZWZlcnJlcl91cmxdJmRlc2NyaXB0aW9uX3VybD1bZGVzY3JpcHRpb25fdXJsXSZjb3JyZWxhdG9yPVt0aW1lc3RhbXBdIiwia2V5VmFsdWVzIjp7ImNhdGVnb3JpZXMiOiJbW0NBVEVHT1JJRVNdXSIsInByb2dyYW0iOiJbW1BST0dSQU1fTkFNRV1dIiwic2l0ZVNlY3Rpb24iOiJ2aWRlby1leHBlcmllbmNlIn19fSwiaGVhcnRiZWF0QmV0YSI6eyJhY2NvdW50IjoiY2JzbG9jYWwtZ2xvYmFsLXVuaWZpZWQiLCJjaGFwdGVyVHJhY2tpbmciOmZhbHNlLCJjdXN0b21NZXRhZGF0YSI6eyJ2aWRlbyI6eyJjYnNfbWFya2V0IjoiY2hpY2Fnby5jYnNsb2NhbC5jb20iLCJjYnNfcGxhdGZvcm0iOiJkZXNrdG9wIn19LCJjdXN0b21UcmFja2luZ1NlcnZlciI6ImNic2RpZ2l0YWxtZWRpYS5kMS5zYy5vbXRyZGMubmV0IiwiY3VzdG9tVHJhY2tpbmdTZXJ2ZXJTZWN1cmUiOiJjYnNkaWdpdGFsbWVkaWEuZDEuc2Mub210cmRjLm5ldCIsImpvYklkIjoic2NfdmEiLCJtYXJrZXRpbmdDbG91ZElkIjoiODIzQkEwMzM1NTY3NDk3RjdGMDAwMTAxQEFkb2JlT3JnIiwicHJvZmlsZSI6ImNicyIsInB1Ymxpc2hlcklkIjoiY2JzbG9jYWwiLCJ0cmFja2luZ1NlcnZlciI6ImNic2RpZ2l0YWxtZWRpYS5oYi5vbXRyZGMubmV0IiwidmVyc2lvbiI6IjEuNSJ9LCJtb2F0Ijp7ImNsaWVudFNpZGUiOnsicGFydG5lckNvZGUiOiJjYnNsb2NhbGFudmF0b3ZpZGVvMTgxNzMyNjA5NDMxIn19fSwiaHRtbDUiOnRydWUsInRva2VuIjoiZGVmYXVsdCJ9"  width ="90%" height="360"></iframe>
+
+## Dear_Behati
+Sorry about pinterest... Ill get into some metaphysical stuff later with you. I dont have a flow. [The_DR_STANKENSTEiN_ACCOUNT](https://www.pinterest.at/drstankenstein/) is really old and has a lot of info related to our families exodus from [Jehovahs_WiTnesses](https://en.wikipedia.org/wiki/Jehovah%27s_Witnesses). [The Symptoms of Telepathy_or##TELECATiON](http://askingangels.com/articles/spiritual/twin-flame-telepathy.php#:~:text=Signs%20%26%20Symptoms%20Of%20Twin%20Flame%20Telepathy%201,Some%20Of%20The%20Same%20Faults.%20Please%20Share%21%20) as many on the west coast are calling it...
+[They Don't Know](https://www.youtube.com/watch?v=U6Xs-dh83i4) what they are doing by separating me from Sartu for she can verify my relationship with Muni and Muni can get me to Erika and Coral and Jabdu and Meyu and I can get my name cleared from child molestation and get a pension of social security or something, I got denied foodstamps, cellphone access and my social security was stolen. Im on the street man, so the telepathy thing is huge bu im not doing any research its like the number sequences 111,222,333 etc, the syncronicity and so forth, its just a part of regular life at this point. 
+
+## Disabled Public Libray computers
+Its so disappointing when [Billy_Jean](https://www.archdaily.com/953006/billie-jean-king-main-library-skidmore-owings-and-merrill) Branch in Long beach is closed. While the computers are timed, they do not disable you from saving files, although they will not allow you to run .exe files. So I cant play [SAMURAi_SHOWDOWN](https://archive.org/details/arcade_samsho) at the correct framerate. I like making animated gifs out of my wifes videos so they can use them for social media when they have downtime from prostitution. Now that I say that the phones will be taken away... They not releasing music as often and Im not seeing new dance videos. The organization that manages the librarys computers block thier songs from my youtube account and my wife Muna from my google results. RANDO_XTC and LOST_SFK took me and Coral to the funeral, the whole family was therer including SARTU! She was laid to rest here and my life fell apart... 
+[Next thing I know she is performing on Jimmy_Kimmel and appearing at the source awards](https://www.youtube.com/watch?v=da-h2Kdunbg)
+[We Could Watch Muni Long Perform For Hrs & Hrs | BET Awards '22](https://www.youtube.com/watch?v=da-h2Kdunbg)
+<img src="https://i.ytimg.com/vi/ddNppeY520o/maxresdefault.jpg">
+```
+My heart is cold like Russia/
+Got Jerked at the SOURCE_AWARDS/
+NEXT_YEAR,200_NiGGAS comin' wit swords
+- iRON_MAN_TONY_STARKS ##THE_GHOSTFACE_KiLLER 
+from POiSONOUS_DARTS
+```
+
+[Ghostface Killah - Poisonous Darts (Official Audio)](https://www.youtube.com/watch?v=oo26-NdzqbE)
+[Ghostface Killah · Box In Hand](https://www.youtube.com/watch?v=oiG-DJ37wXQ)
+<img src="https://cdn.f1connect.net/compress/photo/location/8fb167dad21040dbadabd1bc8ce0d9a6/c3a51d6c-4551-4b80-bd77-22b519c6d928.png">
+
+[SARTU_WEARiNG_MY_BROTHER MEMORiAL_STYLE](https://www.pinterest.com/pin/476114991866603327)
+[SARTU_iN_AFRO_WiG The ##HUMAN_TRAFFiCKeRs MADE_HER_CUT_HER_MANE_OFF](https://www.pinterest.com/pin/476114991867389020)
+[Y2K baddie Outfit inspo | Look is in my bio ❤️](https://www.pinterest.com/pin/476114991868686622/?mt=login)
+
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://longbeach.gov/globalassets/city-news/media-library/images/libraryconstruction_12-17-18_012.jpg" alt="SARTU_IM_SAD_THEY_ROBBED_YOU_I_RESPECT_YOU_AS_KASHDOLL_AS_WELL_THEY_DONT">
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://longbeach.gov/globalassets/city-news/media-library/images/libraryconstruction_12-17-18_012.jpg" alt="SARTU_IM_SAD_THEY_ROBBED_YOU_I_RESPECT_YOU_AS_KASHDOLL_AS_WELL_THEY_DONT"> 
+      </div>
+    </div>
+  </div>
+</div>
+<img src="https://cdn.worldvectorlogo.com/logos/crime-bite.svg" alt="MCGRUFF = ##TAKE_A_BITE_OUTTA_CRIME">
+
+
+[1981 McGruff The Crime Dog "Detroit" TV Commercial](https://www.youtube.com/watch?v=ta05yW8WWrs)
+[McGruff's Guide To Personal Safety (1988 VHS)](https://www.youtube.com/watch?v=p3hu_wvgd1Y)
+[McGruff Don't talk to Strangers PSA 1984](https://www.youtube.com/watch?v=rxLD1uq94sE)
+[Blue Ribbon Panel: McGruff on Dangerous Strangers](https://www.youtube.com/watch?v=EkAwcNkagjU)
+[McGruff on Self-Protection: Preventing Child Abuse and Neglect (1993 VHS)](https://www.youtube.com/watch?v=61u1HAbmMwg)
+[(1986) McGruff's SMART KIDS Album [Cassette Rip]](https://www.youtube.com/watch?v=y4P4plYXKFE)
+[Peppa Pig Jumps in Muddy Puddles and Goes to the Beach 🐷 | Peppa Pig Official Family Kids Cartoon](https://www.youtube.com/watch?v=092T6-AJELs)
+[Teen Assault](https://www.youtube.com/watch?v=Isw_ipGAQ24)
+[Vintage Television Advertisements from the 60's and 70's](https://www.youtube.com/watch?v=0yDccwZiuIA)
+## DEAR_SARTU 
+Here are some tracks you can prep Travis' disillusioned fans to... BurningMan_LA
+[The·Crystal·Method ▶ ·Vegas·(Full Album)](https://www.youtube.com/watch?v=6qh5iA9wnvs)
+[The Chemical Brothers - Dig Your Own Hole (Full Album)](https://www.youtube.com/watch?v=2UafeQIkj5c)
+[The Chemical Brothers 1995 Exit Planet Dust](https://www.youtube.com/watch?v=gdGAGDMxQTg)
+[Chemical Brothers - BBC Radio1 Essential Mix - April 13, 2019](https://www.youtube.com/watch?v=EvfhVKHf1pA)
+[The Chemical Brothers - Live @ Glastonbury 2007 [4k]](https://www.youtube.com/watch?v=rMn0t72BvBc)
+<img src="https://www.seekpng.com/png/detail/373-3730168_the-chemical-brothers-brotherhood-chemical-brothers-png.png">
+
+[The Tibetan Book of Living and Dying. Malditasweet](https://www.youtube.com/watch?v=pPKbxpT7Z0c)
+[RiRi::YOU_KNOE_PEEBs_IN_DIS_ViDEOh_Prepare Your Heart For The Trials Ahead - 2013 Drama JW](https://www.youtube.com/watch?v=0wtqiK30O4k)
+[Old School Church Songs That's Going To Take You Back!](https://www.youtube.com/watch?v=hOOMTjiO5tk)
+[The Followers](https://www.youtube.com/watch?v=OvQ0G7I_HGE)
+[Pennsylvania, Northampton JW Assembly 1967](https://www.youtube.com/watch?v=4R8o4Hq7O9I)
+[Something About the Name Jesus](https://www.youtube.com/watch?v=AYm_NBsZ8P8)
+[The Best In Me](https://www.youtube.com/watch?v=CQt4xBGwaI4)
+[Never Would Have Made It](https://www.youtube.com/watch?v=nqPLhgy4yLc)
+[Man killed by same bullet he used to shoot woman in the neck::A Texas man was fatally injured by a ricocheting bullet he had fired into a woman.](https://www.msn.com/en-us/news/crime/man-killed-by-same-bullet-he-used-to-shoot-woman-in-the-neck/ar-AA10aNLr)
+[Kirk Franklin - I Smile (Official Video) ##DEAR_MUWAH_LUNA__THiS_LiGHTiNG_is_iN_YOUR_GRASP STAGE_STROBE_ON_LINEN_WITH_COLOR_GELS A_RING_LIGHT_UP_TOP_AND_IN_FRONT YOU_CAN_GET_VID_LIKE_THIS_ON_AN_iPHONE](https://www.youtube.com/watch?v=Z8SPwT3nQZ8)
+
+[Telling the Truth - Mary J. Blige](https://www.youtube.com/watch?v=Va3yc7okXQ4)
+
+<img src="https://installmd.com/upload/images/20210703/16253198381381.jpg">
+[How to use the curl command in Linux command line tool and library for transferring data with URLs](https://installmd.com/i/cli/curl)
+[Baltimora - Tarzan Boy (extended original)](https://www.youtube.com/watch?v=gSQ_iJ7aXKQ)
+<img src="https://ductam.info/wp-content/uploads/2018/10/good_curl_logo-2048x783.png">
+<img src="https://i.discogs.com/Gs984BCV01TFnS053AcmBpf7a1v3kkV8jFUTMjhuUVE/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMDA0/MjMtMTQxNTkyOTk3/Ny0yMzYwLmpwZWc.jpeg" alt="SARTU_IM_SAD_THEY_ROBBED_YOU_I_RESPECT_YOU_AS_KASHDOLL_AS_WELL_THEY_DONT">
+[Pink Floyd Another Brick in the Wall parts 1, 2 and 3 :: We don't need no education
+We don't need no thought control
+No dark sarcasm in the classroom
+Teacher, leave them kids alone
+Hey, teacher, leave them kids alone
+All in all it's just another brick in the wall
+All in all you're just another brick in the wall](https://www.youtube.com/watch?v=pRw0Y6SzOtI)
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://i.discogs.com/Gs984BCV01TFnS053AcmBpf7a1v3kkV8jFUTMjhuUVE/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMDA0/MjMtMTQxNTkyOTk3/Ny0yMzYwLmpwZWc.jpeg" alt="SARTU_IM_SAD_THEY_ROBBED_YOU_I_RESPECT_YOU_AS_KASHDOLL_AS_WELL_THEY_DONT">
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://i.discogs.com/Gs984BCV01TFnS053AcmBpf7a1v3kkV8jFUTMjhuUVE/rs:fit/g:sm/q:90/h:601/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTYzMDA0/MjMtMTQxNTkyOTk3/Ny0yMzYwLmpwZWc.jpeg" alt="SARTU_IM_SAD_THEY_ROBBED_YOU_I_RESPECT_YOU_AS_KASHDOLL_AS_WELL_THEY_DONT"> 
+      </div>
+    </div>
+  </div>
+</div>
+
+[Tainted Love / Where Did Our Love Go (Extended Version / Medley)](https://www.youtube.com/watch?v=q84psZX6MbA)
+[Bennie And The Jets (Remastered 2014) ELTON_JOHN](https://www.youtube.com/watch?v=ZBUW433Porw)
+[This Is for the Lover in You](https://www.youtube.com/watch?v=Sn_mS9cZUss)
+[Forever My Lady](https://www.youtube.com/watch?v=OVNPFylUzJQ)
+[Come & Talk To Me](https://www.youtube.com/watch?v=8adNpJoiUA4)
+
+
+## devhumor_dOt_cOm being harrased as well
+<img src="https://i.ytimg.com/vi/2XqyvHMR8Ms/maxresdefault.jpg">
+<img src="https://www.monkeyuser.com/assets/images/2022/244-clutch-save.png">
+<img src="https://devhumor.com/content/uploads/images/October2021/first_day.png">
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://devhumor.com/content/uploads/images/February2022/developer_curse.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://devhumor.com/content/uploads/images/February2022/developer_curse.jpg" alt="Girl in a jacket" >
+      </div>
+    </div>
+  </div>
+</div>
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://devhumor.com/content/uploads/images/February2022/projects.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://devhumor.com/content/uploads/images/February2022/projects.jpg" alt="Girl in a jacket" >
+      </div>
+    </div>
+  </div>
+</div>
+
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://devhumor.com/content/uploads/images/March2022/repetitive_task.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://devhumor.com/content/uploads/images/March2022/repetitive_task.jpg" alt="Girl in a jacket" >
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://devhumor.com/content/uploads/images/March2022/tech_support.png" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://devhumor.com/content/uploads/images/March2022/tech_support.png" alt="Girl in a jacket" >
+      </div>
+    </div>
+  </div>
+</div>
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://devhumor.com/content/uploads/images/March2022/junior_dev.png" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://devhumor.com/content/uploads/images/March2022/junior_dev.png" alt="Girl in a jacket" >
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://devhumor.com/content/uploads/images/June2022/learning_programming.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://devhumor.com/content/uploads/images/June2022/learning_programming.jpg" alt="Girl in a jacket" >
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+<img src="https://th.bing.com/th/id/R.e59ea229277c9f11793bbced0b4abbfc?rik=FrD4RPXsa6jhTQ&pid=ImgRaw&r=0">
+<img src="https://devhumor.com/content/uploads/images/June2022/linkedin.jpg">
+
+
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://media.tenor.com/images/1d3ad62a94e3e2a1aebed86d18f1df76/tenor.gif" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://media.tenor.com/images/1d3ad62a94e3e2a1aebed86d18f1df76/tenor.gif" alt="Girl in a jacket" >
+      </div>
+    </div>
+  </div>
+</div>
+<img src="https://th.bing.com/th/id/R.e59ea229277c9f11793bbced0b4abbfc?rik=FrD4RPXsa6jhTQ&pid=ImgRaw&r=0" >
+
+https://youtu.be/61u1HAbmMwg
+https://youtu.be/QD9aNjDU9Ho
+https://youtu.be/LaVM2XG4wvE
+https://youtu.be/7HpCJov3Uj0
+https://youtu.be/fU5BwlTz8Ws
+https://youtu.be/obzDfVZ2kmk
+https://youtu.be/6duZhHezK6A
+https://youtu.be/8ergwYfOiJI
+https://youtu.be/o8oghQgLJgY
+
+[LiL_FERG::RANGE_ROVER::ALPHAREACiA_CLASSiCK](https://soundcloud.com/user-557982797/lil-ferg-range-rover?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
+[SoundCloud Integrations](https://slashdot.org/software/p/SoundCloud/integrations)
+## Hi Sartu RE:ONLiNE_ViDEOS
+Well I got PiP picture in picture working just like youtube on [MiCROSOFT_EDGE](https://www.microsoft.com/en-us/edge/features). Just wait, at this point we are not going to be held back by youtube, and soundcloud is soundcloud, so lets do this. Its interesting to me the way your group uses soundcloud as like a versioning system like git where people are collaborating and leaving evidence, 
+- This is where i am in my life
+- This is who I am working with
+- This is where I know I am going to be
+A lot of affirmation style posting even among the guys. Im an early soundcloud adopter from my days at Georgia_Tech_Research_iNSTiTUTE. I liked scrobbling on [Last.fm](https://www.last.fm/) so that got most of my attention because I could influence my radio plays by what was in my library by simply using [RhythmBox on Linux](http://www.rhythmbox.org/) and hitting a like type button. It gave me a lot of music I cant imagine ever have gotten. Here on soundcloud Im just making playlists and flirting
+
+[Rhythmbox - A Complete Guide - LinuxForDevices](https://www.linuxfordevices.com/tutorials/linux/rhythmbox)
+```
+Rhythmbox is a great application, especially for beginners, you can link most if not all of your online music accounts, stream directly from your SoundCloud server, listen to podcasts, and well, local media playback is already there. Settings and menus are easy to use and understand. Hopefully, you will find this application useful.
+```
+
+<img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/screenshots/Screenshot%202022-08-01%206.38.41%20PM.png">
+
+
+#### I wonder if this was connected to the prostitution takeover of Social_Media? Other than Muni's faked cancer death that left me victim to predator Danielle_Mushonga it was actually hard all of a sudden to get a job, and Sartu got kidnapped following Erika.
+[##SLASHDOT::2017::SoundCloud Lays Off Nearly Half Its Staff, Closes Two Offices](https://entertainment.slashdot.org/story/17/07/06/2222252/soundcloud-lays-off-nearly-half-its-staff-closes-two-offices)
+<img src="https://i.ytimg.com/vi/mmkdRG7MQm4/maxresdefault.jpg">
+
+[Ultimate WipEout Mix [All songs]](https://soundcloud.com/insightsaudioartgallery/ultimate-wipeout?utm_source=clipboard&utm_medium=text&utm_campaign=social_sharing)
+[Wipeout 2097 - Original Soundtrack (1996)](https://youtu.be/mmkdRG7MQm4)
+<a href="https://www.kickstarter.com/projects/1400947701/drumpants-an-entire-band-in-your-pocket/description">DrumPants: An Entire Band in your Pocket :: KiCKSTARTER </a>
+
+[HEALTHY_PROGRAMMiNG_MUSiC NIGHT DRIVE - [synthwave - chillwave - retrowave mix]](https://www.youtube.com/watch?v=QAhvvQQurw4) 
+
+[Animal Farm: The Graphic Novel by Odyr (Adaptor, Illustrator), George Orwell](https://www.goodreads.com/book/show/43261020-animal-farm)
+
+<h2> Normani_my_WiFE featuring my wife_Cardi_B::WiLDSiDE </h2>
+
+  <video controls width="100%" >
+     <source src="https://github.com/ThakaRashard/bubblegumpop/raw/gh-pages/video/NormaniWildSideOfficialVideoftCardiB.mp4" type="video/mp4">
+
+   </video>
+  
+
+
+<img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/BUBBLEGUMPOP7192022/WiLDSiDE_BEHiND_THE_SCENES.PNG" > 
+<a href="https://www.youtube.com/watch?v=FOm8LqH5lz8&t=205s" alt="WHY_THE_SEAMSTRESS_FEELiNG_ON_MY_WIFE_BREAST">Cardi B x Megan Thee Stallion - Inside the WAP (BTS) [Part 1] </a>
+<img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/BUBBLEGUMPOP7192022/DEAR_KASH_DOLL_MAYBE_WE_SHOULD_LET_OLD_PEOPLE_WITHOUT_GENITAL_CONTACT_DJ.PNG" >
+<a href="https://youtu.be/DAc1MXEOLgY" alt="WHY_THE_SEAMSTRESS_FEELiNG_ON_MY_WIFE_BREAST">DEAR_KASH_DOLL_MAYBE_WE_SHOULD_LET_OLD_PEOPLE_WITHOUT_GENITAL_CONTACT_DJ,HOUR_WEDDiNG </a>
+<a href="https://youtu.be/DAc1MXEOLgY" alt="WHY_THE_SEAMSTRESS_FEELiNG_ON_MY_WIFE_BREAST">SarTu, like Kool DJ Red Alert check him out on<span class="neonText"> 98.7 Kiss-FM </span> (12-4-88) </a>
+
+
+<a href="https://www.thejacobsonfirmpc.com/" alt="WHY_THE_SEAMSTRESS_FEELiNG_ON_MY_WIFE_BREAST"><span class="neonText"> Dear Jacobson Firm </span> </a>
+<p>My wife Sartu was kidnapped from Alpharetta Georgia January of 2021 and was prostituted across country by a child molestation ring/regime led by Matt Field of the prostitution crews GNK/REM_aka_GRAB_NEW_KNiCKERS&amp;RED_EYE_MOB_aka_RABBiT_EYE_MOVEMENT. Sever of MSK is also involved and from my understanding Swiss beats. Whom by the way I saw Alicia Keys in prostitution in Hollywood on the walk of fame... they have a flamboyant characature look that the people from Atlanta know from <a href="https://www.imdb.com/title/tt0118663/?ref_=nm_flmg_act_43" alt="WHY_THE_SEAMSTRESS_FEELiNG_ON_MY_WIFE_BREAST"><span class="neonText">Halle_Berry's B*A*P*S</span> </a>
+You know prostitution clans often send the sex slaves out with themes like maids, police etc... Villiage People type shit. You are in the recording industry, she was a fellow instructor at Dance411 on moreland ave. You got a lot of LaFace records on your wall I know you know someone that can get me to my family. Muna was supposed to be dead but she Erika, and my 10 year old Coral are in prostitution. You may have heard about the RnB_Molestors of yester year calling her LaRoc. I just know you know something that can reunite us, because Muna singing as Muni Long on Jimmy Kimmel and her friends who sold her into prostitution took me to a staged funeral where they had duped the whole family into attending, That was my last free conversation with Sartu, now shes some hairy bastards prostitute and I have had to defend myself from Organ Harvesting, particularly the penis choppers. Riad and Travis Scott would menace me about Organ harvesting both of us in front of our clan, children and all AM57, that what we call ourselves. You guys never skate or paint graffiti so you dont get that we are the continuation of a legendary Atlanta Art Collective AM7 and we need protection to create art and now we are into Web Development. I am a polygamist, ask Ella Mai, verify me and help us stop their sex trafficking... HUMAN_TRAFFiCKiNG_iS_HiGHLY_iLLEGAL
+</p>
+<img src="https://www.thejacobsonfirmpc.com/wp-content/uploads/2016/12/kash-logo-reg.jpg">
+
+[WHOSAMPLED::MiSSYs_SAMPLES_FOR_MY_STRUGGLES](https://www.whosampled.com/Missy-Elliott/My-Struggles/)	
+[DEAR_CORAL_MEYU_JABDU_NiNE_CYNTHiA_WONDERFUL_YODA ya aunt gonna have a baby in some time and I want you guys to practice being alert to each others needs and reporting to your mothers](https://www.msn.com/en-us/lifestyle/family/big-brother-warns-mom-about-baby/vi-AAZZKKQ?ocid=msedgntp&cvid=65ab8bc11ab0406f856d2ccf79bede7b&category=foryou)
+
+[The Original HTAU_BLOG](https://thakarashard.github.io/holetoanotheruniverse/)
+[News about Akihabara Mass Murderer Execution](https://www.bing.com/search?q=Akihabara+mass+murderer+execution&efirst=0&ecount=50&filters=tnTID%3a%226D9DC016-9522-461b-A44D-BA47553D22AB%22+tnVersion%3a%224680267%22+Segment%3a%22popularnow.carousel%22+tnCol%3a%221%22+tnOrder%3a%229fd365cb-dcf8-4241-8eab-ca8d94400258%22&form=HPNN01)
+[THE_CROWN_PROSECUTION_SERVICE](https://www.cps.gov.uk/)	
+[THE LAND OF NO MEN: Kenya's Women-Only Village](https://www.youtube.com/watch?v=-QY8FALExGA)
+<span class="neonText">አዳምም አለ። ይህች አጥንት ከአጥንቴ ናት፥ ሥጋም ከሥጋዬ ናት፤ እርስዋ ከወንድ ተገኝታለችና ሴት ትባል።</span>
+<p> Dear Sartu, since California has a climate very similar to ##ETHiOPiA_as_WE_KNOWiT. Coffee might be a good crop in addition to cannabis. Tobacco maybe? I spent time with our family in  
+
+[REiDsViLLE](https://en.wikipedia.org/wiki/Reidsville,_Georgia)
+where my family friend Coalas and Fred jr grew at an eary pre-Watchtower point Tobacco, and later to sqaush, melons, and leafygreens. I did not know that tobacco bit, however Vickye used to always spout off details about the family members of their Georgia settlement as it was described to me. So anyway after getting aquainted with "Brother" Benny Willams I always looked forward to a trip to hear on of his sermons. After the Kingdom hall there was a dinner at a local familys house to give the speaker of the "talk" as we called them some <span class="neonText">HOSPiTALiTY</span>. One one occasion they took Vickye and I to pick some squash from their still attatched to the vine squash farm lushilusly grown on thier small southern family commercial farm near Claxton where Colas worked. There wwas a cake factory that made mostly holiday fruitcake year around for the winter christian holiday Christmas. Them things dont tast that good but they last a long ass time. In this time of need Muna will not even bring me fruitcake... Just another Erika... But, since technology has ousted me at the money earning level from child molestation allegations, I think pursuing farming is an option I want to explore for my slice of caring for this family's needs
+	</p>
+
+[SEEDS OF GOLD: A faster way to grow coffee and earn from it](https://www.youtube.com/watch?v=PfGXrOuOeMU)
+[African Village Life, Visiting Cows On A Farm, Drinking Raw Milk.](https://www.youtube.com/watch?v=VjXpM3A-lhY)
+[FARM CLINIC: The 19th edition of Seeds of Gold](https://www.youtube.com/watch?v=y1anIIH2eUU)
+[DEAR_MUWAH_HERE_iS_MY_AGRiCULTURE_AUNTiE_TALK_TO_IMAN for DETAiL](https://www.youtube.com/watch?v=caNk4U6rO70)	
+[DEAR_MUNi__aaaaHem_MUNA if i could find your make up vids id like to make some gifs... I made some for Sartu](https://codepen.io/thakarashard/pen/JjLJOzZ)
+[Most practical method for a secret demographic to get its news?](https://worldbuilding.stackexchange.com/questions/233206/most-practical-method-for-a-secret-demographic-to-get-its-news) 
+[Census 2021 Prosecutions22 July 2021|Legal Guidance](https://www.cps.gov.uk/legal-guidance/census-2021-prosecutions)
+[THE UK's CROWN_PROSECUTION_SERVICE SEXUAL_OFFENSE GUiDE](https://www.cps.gov.uk/crime-info/sexual-offences)
+[DEAR_LOS_ANGELES_HOW_DO_WE_PROSECUTE CYBER_BULLYiNG?!?!?](https://www.cps.gov.uk/crime-info/cyber-online-crime)
+
+ <video width="100%" controls>
+  <source src="https://videos.ctfassets.net/8cd2csgvqd3m/2lJPxUH5XqdTxFjyQi5peI/c9c2125c9aa081cd5ac7be7e4d5ec03e/Sound_And_Vision_For_Your_Home_Beolab_28___Beovision_Harmony_0003_Loop.mp4" type="video/mp4">
+  
+  Your browser does not support HTML video.
+</video>
+
+<h2>I need to get my daughter out of a molesters hands (・о・) </h2>
+<h2 class="neonText"> Its been 757 days since I have seen our daughter ##CORAL_IRIS_KELLY. </h2> 
+
+Her mother mother Erika Renee Kelly was kidnapped on Feb 2,2020. A local Atlanta Matt Field bragged about it on Facebook stating "I_SOLD_HER. I found her near Venice beach California and my tattooist Kennie_Davis of ##Jolly_Roger_Tattoo in _Stockbridge#Georgia was not too far from the scene. Erika and I were not estranged when she disappeared as 
+[ESSENCE_MAGAZiNE_STATED](https://www.essence.com/news/erika-kelly-missing-atlanta-georgia/) we were coparenting. I was laid off from my IT job at [Ionic Security](https://www.linkedin.com/company/ionic-security) after my work was repeatedly sabotaged by my manager. I opened a case with ##Fulton_County_Family_Services two months before our eviction from our ##East_Atlanta_Home_at_631_Moreland_Ave_in_Atlanta_Georgia they failed to process us after repeated visits and calls. I took odd jobs and even scored a mural gig with 
+[Mercedes_BenZ_Stadium](https://mercedesbenzstadium.com/) for the 
+[Atlanta_Falcons](https://www.atlantafalcons.com/). They paid me $1500 for a 40ft graffiti mural on red canvas for former athlete ##Deion_Sanders. I was severely underpaid but it covered the rent for one more month. I moved in with Constancia and her daughter ##Akeeva, got Coral in school at 
+[Chapel Hill Elementary](https://www.chapelhilles.dekalb.k12.ga.us/) and worked hard to get a new 9-5. Constancia did not like me or Coral living with her and Akeeva so they undercut me with accusations of erratic behavior and started thier own dfacs case accusing me of schizophrenia. I had no income and was repeatedly denied foodstamps and welfare by a woman named ##DANIELLE_MASHONGA_and_her_colleage##MANESSA_WARNER... ##Coral would ask
+<h2> Where_is_mommy?!?</h2>
+
+I told her that Matt stole and raped her and she needs our help, so we have to keep looking. Constancia and Akeeva constantly defended Matt. He is a known pedophile and child and adult rapist in the Atlanta art community. I did not know this. We shopped at the same record store and he often offered me work. I loath rapist. I loath pedophilia. Once I learned of his ways I distanced myself. So ##Erikas_mother_and_sisters_DEFENDING_HIM, struck me as bizarre. "##Its_just_a_white_boy_joke##He_didnt_sell_her". 
+[DFACS](https://dfcs.georgia.gov/) stalked me on Facebook and indirectly accused me of ##CHILD_MOLESTATION for a video where we were playing with a wand style muscle massager, it was innocent. They 
+[forcibly removed Coral](https://www.youtube.com/watch?v=AmYdIZhahrQ) saying that I was saying 
+["inappropriate things"](https://www.youtube.com/watch?v=9sCE3HhjSbY) and violating her by saying that her mom had been raped and kidnapped. I learned that telling Coral the ugly truth was the best way to keep a solid trust filled relationship with her. In the DFACS meeting, puzzled I told Mashonga the truth, I cant find work, my reputation was being sabotaged and I could not even get a job at ##Kroger the local grocery store. I told Mashonga I needed money for food, Constancia would not feed niether me or Coral. I asked Mashonga in 
+[This_Family_Meeting](https://www.youtube.com/watch?v=Q8NXhT6_Tx8) if she cared about me dying on the street and she shook her head, no. I was never interviewed with Coral at all, I never got a psych eval until I got to a ##UCLA_Recoup_Center_in_PalmDale_California. In early October I saw Coral, in Pasadena, ##California, with a grown man wearing fishnet stockings... Shes 9. I was shot with a poison dart one day later, my skateboard stolen and my foot began to swell larger that a shoe could fit... I was rushed to the emergency room and ##UCLA ##Cut_my_foot_to_the_bone_to_drain_the_infection... I cant run as well any more and am now handicapped 
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/Q8NXhT6_Tx8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/9sCE3HhjSbY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<iframe width="100%" height="400" src="https://www.youtube.com/embed/AmYdIZhahrQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<h2>Her_Former_Life_With_Me</h2>
+
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/-oZuyrU764s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/CsM4jNSAm4A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/ydGxlS8l7Y0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<span class="neonText"> Dear Danielle_MAshonga, DFACS, DPSS
+	WHERE_IS_CORAL?!?!?</span>	
+<p>
+<img src="https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/img-0281-1513267146.jpeg?crop=1xw:1xh;center,top&resize=768:*">	
+<code>THANK_YOU_COSMOPOLiTAN for this article that highlights this device as one used in sports medicine</code>
+Sex educator and artist Betty Dodson had been teaching her famous Bodysex workshops in New York City since the late 60s. These women-only workshops focused on teaching women how to masturbate. Dodson was a pioneer and advocate for the use of vibrators, ever since her lover in the late 1960s introduced her to an electric vibrator originally used for scalp massages. While Dodson <a href="http://www.dodsonandross.com/blogs/betty-dodson/2010/06/having-sex-machines-return-electric-vibrator" href="http://www.dodsonandross.com/blogs/betty-dodson/2010/06/having-sex-machines-return-electric-vibrator" target="_blank" data-vars-ga-outbound-link="http://www.dodsonandross.com/blogs/betty-dodson/2010/06/having-sex-machines-return-electric-vibrator">originally</a> While Dodson is widely credited with popularizing the Magic Wand, she received no compensation for her endorsement of the toy. Dodson added, "it's really shitty of [Hitachi] to not acknowledge my efforts and give me a percentage." || WRiTTEN_BY :: CARiNA_HSiEH 
+	<a href="https://twitter.com/carinahsieh"> Carina's TWiTTER</a>
+	<a href="https://www.linkedin.com/in/carina-hsieh-a8802458"> CARiNA_HSiEH's LiNKEDiN</a>
+	<h3>THAKAS_THOUGHTS</h3>
+	<a href="https://www.linkedin.com/in/danielle-mushonga-msw-26262132">DANiELLE_MUSHONGA's LiNKEDiN_PROFiLE (KiDNAPPiNG_SPECiALiST) </a>
+	
+	</p>
+
+<iframe width="500" height="315" src="https://www.youtube.com/embed/UmGMZLs5NCw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+	
+![NELLY_FOLKLORE](http://1.bp.blogspot.com/_UXXtJmb1kNs/Swsc7CGXUDI/AAAAAAAAEfw/e8t3BTnTl_M/s1600/FolkloreCassetteIndonesia2003.jpg)
+<span class="neonText">
+<a href="https://www.youtube.com/watch?v=Hj2mA1ZNPFA">Luther Vandross, Gregory Hines - There's Nothing Better Than Love</a> <a href="https://www.youtube.com/watch?v=m3-hY-hlhBg">Whitney Houston - How Will I Know (Official Video)</a> 
+<a href="https://www.youtube.com/watch?v=hmHWiUv4wyM">Yolanda Adams - I'm Gonna Be Ready
+</a> 
+<a href="https://www.youtube.com/watch?v=Ptiz0KtR16E">Monica - Before You Walk Out Of My Life (Official HD Video)</a> 
+<a href="https://www.youtube.com/watch?v=wa3tfVjGCQ8">Whitney Houston - Where Do Broken Hearts Go (Official Video)</a> 
+<a href="https://www.youtube.com/watch?v=5ixh1csw2Mk">Count On Me (from "Waiting to Exhale" - Original Soundtrack)</a> 
+<a href="https://www.youtube.com/watch?v=RSP-9SebVpY"> Tamia - Stranger in My House</a> 
+<a href="https://www.youtube.com/watch?v=Xkj1An6Wnec"> Brandy - Have You Ever (Official Video) </a> 
+<a href="https://www.youtube.com/watch?v=lSd1ll37xQU">Missing You - Brandy, Tamia, Gladys Knight and Chaka Khan [Set It Off Soundtrack] (Official Video)</a> 
+<a href="https://www.youtube.com/watch?v=H947PtHmh0Y">Deborah Cox - Nobody's Supposed To Be Here (Official Video)</a> 
+<a href="https://www.youtube.com/watch?v=Y36aBTuRr1o">Gladys Knight & The Pips - Save the Overtime (For Me)</a> 
+<a href="https://www.youtube.com/watch?v=XYclWyC4qQo">Tom Browne - Funkin' for Jamaica</a> 
+<a href="https://www.youtube.com/watch?v=pNj9bXKGOiI">Luther Vandross - Never Too Much (Official HD Video)</a> 
+<a href="https://www.youtube.com/watch?v=XYclWyC4qQo">Tom Browne - Funkin' for Jamaica</a>
+<a href="https://www.youtube.com/watch?v=Hj2mA1ZNPFA">Luther Vandross, Gregory Hines - There's Nothing Better Than Love</a>
+አዳምም አለ። ይህች አጥንት ከአጥንቴ ናት፥ ሥጋም ከሥጋዬ ናት፤ እርስዋ ከወንድ ተገኝታለችና ሴት ትባል።</span>
+<img src="https://images.squarespace-cdn.com/content/v1/58c35a0e579fb3281396b7f0/1536723653240-5XGYW66WX97I4YODRJPE/silver+embrace+FB_FB2048.jpg?format=750w">
+<p><a href="https://www.brightfunds.org/funds/diversity-in-tech"> Dear Diversity in Tech</a> I am currently serving as a federal volunteer to get my family out of sex trafficking and I am robbed of opportunities to use the internet. The library system in Los Angeles has been very unsupportive, hovever Long Beach has givin me tools to maintain my webpresence here on ##GiTHUB but I am restricted to time limits and hand out computers with custom excluded search results. The social media companies locked me out so the could help the prostitution community molest my family. The prostitution community of Los Angeles is verified telepathic, and if you are a family member of a kidnapped sex slave used on <a href="https://exoduscry.com/watch/#traffickinghub-video"> ThePornoWeb</a> the mob steals your electronics and bans you from the library in little ways, like I got put out for "body odor" by a guy who purchased my wife at a brothel in ##LiTTLE_TOKYO... They call it blackballing, its highly illegal</p>
+
+<a href="https://www.w3.org/Style/LieBos3e/em.en.html"> How To Style Text Elements with Font, Size, and Color in CSS </a>
+<a href="https://www.w3.org/Style/LieBos3e/em.en.html">The amazing em unit and other best practices </a>
+<a href="https://clagnut.com/blog/348/"> How to size text using ems </a>
+<span class="neonText">አዳምም አለ። ይህች አጥንት ከአጥንቴ ናት፥ ሥጋም ከሥጋዬ ናት፤ እርስዋ ከወንድ ተገኝታለችና ሴት ትባል።</span>
+
+[THiS_iS_NOT_HOW_HEALTHY_AFRiCA##OPERATES](https://www.youtube.com/watch?v=EPoXBbigVeo) 
+[Sexuality: A Graphic Guide | Launch Event](https://youtu.be/jOIbOMWBHHM) 
+[The Freeze Response and Sexual Assault: PTSD and Trauma Recovery](https://www.youtube.com/watch?v=pes7H4ECTdw) 
+[6 Hidden Signs of Complex PTSD cPTSD](https://www.youtube.com/watch?v=44hqDT7NNHU) 
+[What It’s Like to Break Up with a Narcissist](https://www.youtube.com/watch?v=CtllLbN1IAo) 
+[Intimacy After Trauma | Kat Smith | TEDxMountainViewCollege](https://youtu.be/VB9-4kELT2k) 
+[Relationships After Rape | Shelby St. Pierre | TEDxHamlineUniversity](https://www.youtube.com/watch?v=UC05PVN621k) 
+[Men Need To Talk About Their Sexual Abuse | Seth Shelley | TEDxUNBC](https://www.youtube.com/watch?v=r4CIop1zlVM) 
+[Men Can Be Sexually Assaulted, Too | CJ Krainock | TEDxRexburg](https://www.youtube.com/watch?v=PnoRVCqeM6U)
+	
+<video style="max-width: 100%;" poster="/wordpress/wp-content/uploads/2022/01/unparalleled-extensibility-anim-opening2.jpg" autoplay="autoplay" loop="loop" muted="muted" width="1280" height="100%"><source src="https://ultimatehackingkeyboard.com/wordpress/wp-content/uploads/2022/01/unparalleled_extensibility-v3-60FPS-compressed-v2.mp4" type="video/mp4"></video>
+
+<img src="https://cdn.shopify.com/s/files/1/0105/4542/products/wildstyle-downbythe-7inch-1_1000x1000.jpg?v=1651068862">
+<a href="https://www.kickstarter.com/projects/1400947701/drumpants-an-entire-band-in-your-pocket/description">DrumPants: An Entire Band in your Pocket :: KiCKSTARTER </a>
+
+[Compiz-like effects in Enlightenment 17](https://www.youtube.com/watch?v=TQPsCDJUti0) 
+I want a Macintosh for a lot of SHIT!! BUT I think we will do better as 
+[PODCASTERS_USiNG_LiNUX](https://rss.com/podcasts/bubblegumpop/)
+. Download [UBUNTU_STUDiO](https://ubuntustudio.org/)
+ if you have [access_to_a_computer](https://www.openglobalrights.org/covid-19-exposes-why-access-to-internet-is-human-right/)
+ and 
+ [INSTALL_TO_USB_SO_YOU_CAN_KEEP_YOUR_DATA_AND_THE_BUSiNESS_PORTABLE](h://help.uttpsbuntu.com/community/Ubuntu%20Studio%20Installation)
+
+   I_PRAY_YOUR_PiMP_DOES_NOT_CHECK your orfices for [USB_STiCKS](https://m.media-amazon.com/images/S/vse-vms-transcoding-artifact-us-east-1-prod/v2/78cc6b05-96fb-5cb0-b97c-1517ec410e89/ShortForm-Generic-480p-16-9-1409173089793-rpcbe5.mp4). When I can save up enough change Im gonna get a thinkpad replacement and run [ENLiGHTENMENT](https://www.elivecd.org/). I cant make a clear argument here but I want you to keep your head productive [,WATCH_THiS there are not many videos on this platform](https://www.youtube.com/watch?v=aCH18F4OtXQ). Those pimps are not smart and I pray they dont kill you. The rapes are bade enough. Remember the Chair rapes in VENiCE, and those sidewalk rapes. THIS_PLACE... We going to be ok, I will wait for you forever ok. You are not alone. I am still your husband, and only my penis can heal you. I miss our old webseries on iNSTAGRAM that moved to Facebook, then LiNKEDiN, then Facebook... They all hid your prostitution fueled [gangrapes](https://www.hindustantimes.com/videos/world-news/us-influencer-gangraped-in-pakistan-by-3-men-netizens-condemn-shameful-act-101658467051066.html) since their employees were buying you from sex traffickers. Its happening in a lot of places, I remember the johns of Venice laughed at you not remembering that they hit it as they menaced me on the boardwalk [U.O.E.N.O TYPESHiT](https://www.youtube.com/watch?v=cMJrfSTI0Xg).
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+     <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"><img src="https://pbs.twimg.com/media/FN_BTKZXsAQRoHj?format=jpg&name=large" alt=""> </a>
+        
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+
+           <a href="https://www.youtube.com/watch?v=CGib6okEeZ4"> <img src="https://pbs.twimg.com/media/FN_BTKZXsAQRoHj?format=jpg&name=large" alt=""> </a>
+        
+      </div>
+    </div>
+  </div>
+</div>
+
+[DEAR_ERiKA__LOOK_WHAT_I_CAN_DO_WITH_YOUR_OLD_SHITTY_ACER_RODRiCK_BROKE](https://www.youtube.com/watch?v=cH9WLrcsrx8) 
+[KOOL & THE GANG - SUMMER MADNESS Relaxing Jazz Music Sunset Views](https://www.youtube.com/watch?v=xk8Vn0fjFdg)
+[::COMPiZ_FUSiON_ON_UBuNTu_LiNUX:: DEAR_MAMA_IMAN__THiS_iS_HOW_MY_DESKTOP_LOOK_12years_AGO_ASK_HEATHER](https://www.youtube.com/watch?v=USedxVrU2Ko) [3D Rotating and Wobbly Window Effects in Kali | How to Install Compiz Fusion in Kali 2020.4 | Ethica](https://youtu.be/IwcwIAsqEgU)
+
+<h1>TWiTTER_LiKE_PiNTEREST_AND_FACEBOOK & LiNKEDiN
+##SUPRESSED_SARTU's
+##MiSSiNG_PERSONS_CASE </h1>
+
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://www.2600.com/sites/default/files/covers/37-1_Cover.jpg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://www.2600.com/sites/default/files/covers/37-1_Cover.jpg" alt="Girl in a jacket" >
+      </div>
+    </div>
+  </div>
+</div>	
+<img src="https://pbs.twimg.com/media/DkDUjOeUYAEbikR.jpg" alt="thanks_MASE">
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://i.discogs.com/Y1pzcWA-kPrMw9NLQV6R4-dYsnZVQPGi2j_fBfCgQPk/rs:fit/g:sm/q:90/h:597/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyODQ0/Ni0xNTU5OTgwNDc2/LTYwODUuanBlZw.jpeg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://i.discogs.com/T-L2xTARIsrx8rzvUEDDrYD098FtRE0NE7ht7eKJMdc/rs:fit/g:sm/q:90/h:594/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcyODQ0/Ni0xNTU5OTgwNDY5/LTkzMDYuanBlZw.jpeg" alt="Girl in a jacket" >
+      </div>
+    </div>
+  </div>
+</div>
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://i.discogs.com/OVr4kl4u3jj0AT9f37sr9mVWYYQ_wgjFWZT5evQKKfI/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzY0/NC0xNDc2MjUzNjI5/LTk1NzEuanBlZw.jpeg" alt="##BUBBLEGUM_POP##IS_HERE_TO_STAY" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://i.discogs.com/5n7JtROk8V3nX0naL4kKY2ZFKAyPJrp7NIAJGiOI5jA/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTMxNzY0/NC0xNDc2MjUzNjI5/LTIxMDAuanBlZw.jpeg" alt="Girl in a jacket" >
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div class="flex-container-rounded">
+   
+   <div class="item1">                        <img src="https://lastfm.freetls.fastly.net/i/u/770x0/5e5870bb74a869c07600542752b1b2ad.jpg#5e5870bb74a869c07600542752b1b2ad" /></div>
+    <div class="item2">                        <img src="https://lastfm.freetls.fastly.net/i/u/770x0/ebdd35113f4be57737d6946c0593a343.jpg#ebdd35113f4be57737d6946c0593a343" /></div>
+    <div class="item3">                        <img src="https://lastfm.freetls.fastly.net/i/u/770x0/ac7851d7e2670c57465e115936512a06.jpg#ac7851d7e2670c57465e115936512a06" /></div>
+</div>
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">My friend got married and i was a brides maid! <a href="https://t.co/vWMQ8OGNBK">pic.twitter.com/vWMQ8OGNBK</a></p>&mdash; 3:14 (@kashdoll) <a href="https://twitter.com/kashdoll/status/1547989813575331840?ref_src=twsrc%5Etfw">July 15, 2022</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<blockquote class="twitter-tweet"><p lang="zxx" dir="ltr"><a href="https://t.co/1NrDkE6sLZ">https://t.co/1NrDkE6sLZ</a> <a href="https://t.co/M6n5LV1kdq">pic.twitter.com/M6n5LV1kdq</a></p>&mdash; 3:14 (@kashdoll) <a href="https://twitter.com/kashdoll/status/1463400922684571653?ref_src=twsrc%5Etfw">November 24, 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+<img src="https://www.visitkingsland.com/index_htm_files/119934@2x.png" >	
+<h2>BOOMBOX_VOL1</h2>
+<div class="flex-container">
+    <div class="item1">                        <img src="https://i.discogs.com/Dsk24e8GIPuc5dwhLmy_QMG4fJfUr1RGEdjZFJ8oxos/rs:fit/g:sm/q:90/h:593/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NTkw/ODItMTQ2NDAyNTYy/Ni0yMzY3LmpwZWc.jpeg" /></div>
+    <div class="item2">                        <img src="https://media2.giphy.com/media/3o6Zt8esE7mxFelmdG/giphy.gif?cid=ecf05e477pe98kmyaoxqb9029v0zhfgs0u5ix5c59xe07ux9&rid=giphy.gif&ct=g" /></div>
+    <div class="item3">                        <img src="https://i.discogs.com/Of600keNLtQPGnRCgnw3EitVFxy0k3oqlUJqfEa8x_Y/rs:fit/g:sm/q:90/h:528/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg1NTkw/ODItMTQ3MjMyNDI5/MS0xMjA2LmpwZWc.jpeg" /></div>
+</div>
+
+```
+Boombox 1 (Early Independent Hip Hop, Electro And Disco Rap 1979-82)
+Label:	Soul Jazz Records – SJR CD334
+Series:	Boombox (4) – 1
+Format:	
+2 x CD, Compilation
+Country:	UK
+Released:	May 20, 2016
+Genre:	Hip Hop, Funk / Soul
+Style:	Disco
+```
+<h2>Since i couldn’t remove all my tattoos I’m getting them covered</h2>
+
+[https://twitter.com/kashdoll/status/1129563640259121153/photo/1](https://twitter.com/kashdoll/status/1129563640259121153/photo/1)
+
+<div class="sixpanel">
+  <div class="item1"> <img src="https://pbs.twimg.com/media/D60EAyRU8AA6HPZ?format=jpg" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
+  <div class="item2"> <img src="https://pbs.twimg.com/media/D60EAyRU8AA6HPZ?format=jpg" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
+  <div class="item3"> <img src="https://pbs.twimg.com/media/D60EAyRU8AA6HPZ?format=jpg" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
+</div>
+
+<h2>TRYiNG_SOME_BOX_POST_LAYOUTS_OWT</h2>
+
+<div class="flex-container">
+
+  <div class="item1">                        <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/DEAR_SARTU_IM_READY_FOR_FALL_FEELINGS.gif" /></div>
+    <div class="item2">                        <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/DEAR_SARTU_IM_READY_FOR_FALL_FEELINGS.gif" /></div>
+    <div class="item3">                        <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/DEAR_SARTU_IM_READY_FOR_FALL_FEELINGS.gif" /></div>
+</div>
+
+<div class="flex-container">
+
+  <div class="item1">                        <img src="https://pbs.twimg.com/media/FOZKA0UWQAEe0GL?format=jpg&name=small" /></div>
+    <div class="item2">                        <img src="https://pbs.twimg.com/media/FOZKA0UWQAEe0GL?format=jpg&name=small" /></div>
+    <div class="item3">                        <img src="https://pbs.twimg.com/media/FOZKA0UWQAEe0GL?format=jpg&name=small" /></div>
+</div>
+
+
+<div class="panel4-container">
+ 
+  <div class="item1"><img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/BUBBLEGUMPOP7192022/ezgif.com-gif-maker%20(2).gif"></div>
+    <div class="item2"><img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/BUBBLEGUMPOP7192022/ezgif.com-gif-maker%20(2).gif"></div>
+    <div class="item3"><img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/BUBBLEGUMPOP7192022/ezgif.com-gif-maker%20(2).gif"></div>
+    <div class="item4"><img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/BUBBLEGUMPOP7192022/ezgif.com-gif-maker%20(2).gif"></div>
+
+</div>
+
+
+<iframe width="80%" height="315" src="https://www.youtube.com/embed/I1aoRQhqM1k" title="Elive Linux 3.0 Stable Designs" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>	
+<img src="https://lastfm.freetls.fastly.net/i/u/770x0/18db0c622371cacc1d60a57e90f642da.jpg#18db0c622371cacc1d60a57e90f642da">
+
+[Top 5 Best Lightweight Linux distros for Speed and Performance](https://www.youtube.com/watch?v=CnFPCTi5h5c)
+
+[::RESEARCH_PAPER::Audience's behavior and attitudes towards lifestyle video blogs on Youtube Ellina Mironova](https://www.diva-portal.org/smash/get/diva2:1481546/FULLTEXT01.pdf)
+
+[::RESEARCH_PAPER::Information superhighways Research Paper 94/133 22 December 1994](https://ntouk.files.wordpress.com/2015/06/1994-information-superhighway.pdf)
+
+<img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/Screenshot%202022-07-24%208.23.07%20PM.png" >
+
+<h2>
+## UK_PARLiMENT
+## Responds to Home Affairs Committee report
+## on the investigation and prosecution of RAPE 
+</h2>
+<p> 
+<h1>Government responds to Home Affairs Committee report on investigation and prosecution of rape</h1>
+    <h3>25 July 2022</h3>
+    
+        <img aria-hidden="true"
+                 alt="Image representing news article"
+                 class="width-70 with-reflection-effect"
+                 src="https://www.parliament.uk/contentassets/1d8be4299eb24cb593f59647b14ad8fb/pc-pch-committee-room-1-standard-1.jpg" />
+        <h2>The Home Affairs Committee publishes the Government&rsquo;s response to its report into the investigation and prosecution of RAPE</h2>
+                 
+<a href="https://publications.parliament.uk/pa/cm5803/cmselect/cmhaff/507/report.html">Read the full report (HTML)</a></li>
+<a href="https://committees.parliament.uk/publications/23242/documents/169628/default/">Read the full report (PDF)</a></li>
+<a href="https://committees.parliament.uk/work/1160/investigation-and-prosecution-of-rape/publications/">Find all publications related to this inquiry, including oral and written evidence</a>
+
+<p>The report found that the collapse in prosecutions for rape and sexual offences over the last five years could not be reversed without strong reforms to the criminal justice system. While it welcomed efforts to initiate change in the CPS, policing and the court system, it warned that such reforms were localised or in development and would require significant funding and effective leadership to make an impact at national level. It also warned that the current target of returning the volumes of rape cases being dealt with to 2016 levels lacked ambition, given that, even in 2016, criminal justice outcomes for rape were viewed as poor. The Committee expressed concern that confidence in the system&rsquo;s ability to even reach 2016 levels in the timeframe the Government has set out is low.
+<p>The report called for a focus on the experience of victims attempting to navigate the justice system. Lengthy delays in cases reaching court, difficulties in accessing support services and seemingly unnecessary and excessive requests for victims&rsquo; personal data from the police and the CPS needed to be addressed. It also found that dedicated rape teams and specialist training for officers made a real impact but such teams were yet to be set up in many forces.</p>
+<p>The Government has now responded to these recommendations
+<h2>Further information</h2>
+<a href="https://committees.parliament.uk/work/1160/investigation-and-prosecution-of-rape/">Inquiry:: Investigation and prosecution of rape</a>
+<a href="https://committees.parliament.uk/committee/83/home-affairs-committee/">Home Affairs Committee</a>
+<a href="https://www.parliament.uk/about/how/committees/select/">About Parliament: Select committees</a>
+<a href="https://www.parliament.uk/visiting/visiting-and-tours/watch-committees-and-debates/committees/">Visiting Parliament: Watch committees</a><
+<em>Image: Parliamentary copyright</em>
+</p>
+	
+<h2> DEAR_SARTU::///////_I_AM_READY_FOR_MY_VOWS</h2>
+<div class="sixpanel">
+<div class="item1"> <img src="https://lastfm.freetls.fastly.net/i/u/770x0/9d6d3b16944b6ee2bab5f04b20c445a8.jpg" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
+  <div class="item2"> <img src="https://lastfm.freetls.fastly.net/i/u/770x0/9d6d3b16944b6ee2bab5f04b20c445a8.jpg" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
+  <div class="item3"> <img src="https://lastfm.freetls.fastly.net/i/u/770x0/9d6d3b16944b6ee2bab5f04b20c445a8.jpg" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
+</div>
+	
+<div class="sixpanel">
+ <div class="item1"> <img src="https://i.pinimg.com/736x/c4/09/c3/c409c3ab371521c0abfa7466ff9d2976.jpg" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
+  <div class="item2"> <img src="https://i.pinimg.com/736x/c4/09/c3/c409c3ab371521c0abfa7466ff9d2976.jpg" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
+  <div class="item3"> <img src="https://i.pinimg.com/736x/c4/09/c3/c409c3ab371521c0abfa7466ff9d2976.jpg" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
+</div>
+
+<div class="sixpanel">
+  <div class="item1"> <img src="https://lastfm.freetls.fastly.net/i/u/770x0/574e8d8380f296deb01bf129fe3052fd.jpg#574e8d8380f296deb01bf129fe3052fd" /></div>
+  <div class="item2"> <img src="https://lastfm.freetls.fastly.net/i/u/770x0/574e8d8380f296deb01bf129fe3052fd.jpg#574e8d8380f296deb01bf129fe3052fd" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
+  <div class="item3"> <img src="https://lastfm.freetls.fastly.net/i/u/770x0/574e8d8380f296deb01bf129fe3052fd.jpg#574e8d8380f296deb01bf129fe3052fd" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
+</div>
+
+<img src="https://assets.catawiki.nl/assets/2018/12/3/9/a/2/9a263ccf-3c79-49e7-a7fb-cf9bb0fb350e.jpg" >
+<img src="https://i0.wp.com/wemissmusic.com/wp-content/uploads/2018/07/dexdlmwxuaawpod1.jpg?fit=864%2C393&ssl=1">	
+
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://i.discogs.com/kdwQw1UT7Vc69KdJ1PxNVHMvtFCzxIuEMNYn-PIboEY/rs:fit/g:sm/q:90/h:585/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTgyNDg4/MjQtMTQ5NTAxNTgx/MC05NDg3LmpwZWc.jpeg" alt="SARTU_IM_SAD_THEY_ROBBED_YOU_I_RESPECT_YOU_AS_KASHDOLL_AS_WELL_THEY_DONT">
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://th.bing.com/th/id/R.e06536c1ec6efef97081522f2a76d43b?rik=BuBzf4Xg2uYZBg&riu=http%3a%2f%2fimage.iheart.com%2fbell-ingestion-pipeline-production-umg%2ffull%2f00602567295594_20201217024811397%2f17UM1IM41552_T1_cvrart.jpg&ehk=dghvoDahI4fnpNEl0P1TTuK17kq%2b3vlShRdYkQpNbb4%3d&risl=1&pid=ImgRaw&r=0" alt="SARTU_IM_SAD_THEY_ROBBED_YOU_I_RESPECT_YOU_AS_KASHDOLL_AS_WELL_THEY_DONT"> 
+      </div>
+    </div>
+  </div>
+</div>
+
+[Armageddon It · Def Leppard](https://www.youtube.com/watch?v=GgUnqQbNzoE)
+
+
+# SARTUs_PROPOSAL_PLAYER
+Dear_SARTU
+Im working on this embeddable player. Hint, Hint, chuckles... iN_BED_ABLE. I need you bad, im so lonely. You have been run through my playlist confirms its time for you to heal and recover. Here, im working on it but its not working on the page. I just dont know the answer so Im studying JavaScript. Its the prerequisite for [Node.js Competency](https://nodejs.org/en/)<p class="codepen" data-height="300" data-default-tab="html,result" data-slug-hash="PoREzyQ" data-user="thakarashard" style="height: 300px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid; margin: 1em 0; padding: 1em;">
+  <span>See the Pen <a href="https://codepen.io/thakarashard/pen/PoREzyQ">
+  HTML Audio Player</a> by ThakaRashard (<a href="https://codepen.io/thakarashard">@thakarashard</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://cpwebassets.codepen.io/assets/embed/ei.js"></script>
+
+#### HEATWAVE = VENiCe_HOLLYWiERD_JON_CULTURE
+### A_PiMP = A_HUSBANDS_DELiQUENT_JON
+
+[Gangsters of the Groove · Heatwave](https://www.youtube.com/watch?v=AyHhzwEhygQ)
+[Posin' Til Closin' (UK 12" Version) · Heatwave](https://www.youtube.com/watch?v=2L6aw0Pba-M)
+[DEAR_PROSTiTUTiON - You Give Love A Bad Name](https://youtu.be/KrZHPOeOxQQ)
+[Hollywood Boulevard Walking Tour - Los Angeles, California](https://www.youtube.com/watch?v=WBhhOjwVeKw)
+<h2>	(╯°□°)╯︵ ʞooqǝɔɐɟ </h2>
+
+[Ai No Corrida - QUINCY JONES '1981](https://www.youtube.com/watch?v=fXmmWBzS-_o)
+[Stomp! · The Brothers Johnson](https://www.youtube.com/watch?v=TFY1_zZ5Nc4)
+[DEAR_MONALEO, GROOVY_YOUTUBE_FiND ~> M.i.c.h.a.e.l * J.a.c.k.s.o.n - Off The Wall (1979)](https://www.youtube.com/watch?v=aDH1EPqyMb4)
+[Strawberry Letter 23 · The Brothers Johnson](https://www.youtube.com/watch?v=rquygdjf0d8)
+[Footsteps in the Dark, Pts. 1 & 2](https://www.youtube.com/watch?v=Dyq9zlYMw9g)
+[Voyage to Atlantis](https://www.youtube.com/watch?v=BQ4jWVon4iE)
+[DEAR_QUXUBE ThiS_iS_2015_JPL_COMMUTE_JAMS_LALiBELA_KNOW_EVERYTHiNG L.T.D. Jeffery Osborne](https://www.youtube.com/watch?v=nXePgT3JiH0)
+[SWV - Rain (Official Video)](https://www.youtube.com/watch?v=QQyXHfOy1UU)
+[SWV - Use Your Heart](https://www.youtube.com/watch?v=0N5hZvXi51c)
+[Encore (Extended Version)](https://www.youtube.com/watch?v=ABX0PQjkaLk)
+[Jones Girls Who Can I Run To 1979)(240p H 264 AAC)](https://www.youtube.com/watch?v=JRpKQb9J-nU)
+[The Jones Girls - Children of the Night (Official Soul Train Video)](https://www.youtube.com/watch?v=9mCuHtX0Lao)
+[The Jones Girls - Nights Over Egypt](https://www.youtube.com/watch?v=pzxwZ6wjDAM)
+[52nd Street - Tell Me](https://www.youtube.com/watch?v=3Ck25PGjlLc)
+[The S.O.S. Band ‎– No One's Gonna Love You 1984](https://www.youtube.com/watch?v=3DDeZVnK2E0)
+[S.O.S. Band- Even When You Sleep](https://www.youtube.com/watch?v=aX0wGKIgSZU)
+[WEEKEND GIRL (Original Full-Length Album Version) - SOS Band](https://www.youtube.com/watch?v=8BvuSzxcE5o)
+[The S.O.S. Band - Tell Me If You Still Care](https://www.youtube.com/watch?v=GSsTyAVP5j0)
+<img src="https://api.time.com/wp-content/uploads/2012/11/41-2012-11-28t080803z_49263854.jpg">
+
+[Driving Downtown - Los Angeles 4K - USA 4yearsAgo](https://www.youtube.com/watch?v=Cw0d-nqSNE8)
+
+Home to the world’s 3rd largest economic area, after Tokyo and New York ($866 Billion in 2015), Los Angeles is the second-most populous city in the United States after New York City. With 4 Million residents and almost 19 Million in the surrounding area, Los Angeles is the largest and most populous city in the state of California and the cultural, financial, and commercial center of Southern California.
+
+The economy of Los Angeles is driven by international trade, entertainment (television, motion pictures, video games, music recording, and production), aerospace, technology, petroleum, fashion, apparel, and tourism. Other significant industries include finance, telecommunications, law, healthcare, and transportation. In the 2017 Global Financial Centres Index, Los Angeles was ranked as having the 19th most competitive financial center in the world, and sixth most competitive in United States (after New York City, San Francisco, Chicago, Boston, and Washington, D.C.).
+
+Los Angeles is located in a large basin bounded by the Pacific Ocean on one side and by mountains as high as 10,000 feet (3,000 m) on the others. The city proper, which covers about 469 square miles (1,210 km2), is the seat of Los Angeles County, the most populated county in the country. 
+
+Los Angeles is the center of the Los Angeles metropolitan area, with 13.1 million residents the second largest in the United States after New York City. It is part of Los Angeles-Long Beach combined statistical area, also the second most populous in the nation with a 2015 estimated population of 18.7 million.
+
+Historically home to the Chumash and Tongva, Los Angeles was claimed by Juan Rodríguez Cabrillo for Spain in 1542 along with the rest of what would become Alta California. The city was officially founded on September 4, 1781, by Spanish governor Felipe de Neve. It became a part of Mexico in 1821 following the Mexican War of Independence. In 1848, at the end of the Mexican–American War, Los Angeles and the rest of California were purchased as part of the Treaty of Guadalupe Hidalgo, becoming part of the United States. Los Angeles was incorporated as a municipality on April 4, 1850, five months before California achieved statehood. The discovery of oil in the 1890s brought rapid growth to the city. The completion of the Los Angeles Aqueduct in 1913, delivering water from Eastern California, later assured the city's continued rapid growth.
+
+Nicknamed the "City of Angels" partly because of its name's Spanish meaning, Los Angeles is known for its Mediterranean climate, ethnic diversity, and sprawling metropolis. The city is also one of the most substantial economic engines within the nation, with a diverse economy in a broad range of professional and cultural fields. Los Angeles is also famous as the home of Hollywood, a major center of the world entertainment industry. A global city, it has been ranked 6th in the Global Cities Index and 9th in the Global Economic Power Index. The Los Angeles combined statistical area also has a gross metropolitan product of $831 billion (as of 2008), making it the third-largest in the world, after the Greater Tokyo and New York metropolitan areas. Los Angeles hosted the 1932 and 1984 Summer Olympics and will host the event for a third time in 2028.
+
+<img src="https://static0.thetravelimages.com/wordpress/wp-content/uploads/2018/09/HawaiiVolcano.jpg">
+
+[The Very Best Of Soul - Teddy Pendergrass, The O'Jays, Isley Brothers, Luther Vandross, Marvin Gaye](https://www.youtube.com/watch?v=VzBvDChOvrU)
+<img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/scans/2.jpg">
+<img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/scans/1.jpg">
+<img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/scans/3.jpg">
+<img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/scans/4.jpg">
+<img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/scans/5.jpg">
+<img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/DEAR_SARTU_IM_READY_FOR_FALL_FEELINGS.gif" >
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/scans/6.jpg" alt="SARTU_IM_SAD_THEY_ROBBED_YOU_I_RESPECT_YOU_AS_KASHDOLL_AS_WELL_THEY_DONT">
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/scans/6.jpg" alt="SARTU_IM_SAD_THEY_ROBBED_YOU_I_RESPECT_YOU_AS_KASHDOLL_AS_WELL_THEY_DONT"> 
+      </div>
+    </div>
+  </div>
+</div>
+<img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/NO_SO_CHOOSY_SAUTUZEE.gif">
+<img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/scans/7.jpg">
+<img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/scans/8.jpg">
+<img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/scans/9.jpg">
+<img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/scans/10.jpg">
+<img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/scans/11.jpg">
+<img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/scans/12.jpg">
+
+## Dear_Muna___MuwaH___MuNi
+### whatever it is these days
+Please share this book with the kids, ERika Id like Coral and Nine to link together someday. Id love to read this to them at the #BiLLY_JEAN_LiBRARY, if I get approved for some work with kids shit by the community. [The Read Aloud Cloud: An Innocent's Guide to the Tech Inside](https://onlinelibrary.wiley.com/doi/book/10.1002/9781119677635) Is a huge gift from the older dudes of our iNFORMATiON_TECHNOLOGY era. I wanna share it with the family family study style so we can all be hip to how to treat <i>THE_CLOUD</i> and stay safe from these kidnappers and treasonist human traffickers that have used social media to frame, blackball, and torture your husband. 
+
+#### EXCERPT_CHAPTER_SUMMARY
+```
+Summary
+This chapter illustrates how to foil a cloud heist through cartoons. The cloud is not less secure than a personal hard drive. However, because cloud systems centralize large amounts of data, the actions of a single hacker can be devastating. Like the 2013 Yahoo breach that exposed more than one billion user accounts, or Dropbox's 68-million-user barf that ended up with hackers selling the stolen accounts on the dark web for bitcoin. Even if the hackers cannot break into cloud systems, they can still take them down using an attack called a distributed denial of service. There are two ways to encrypt cloud data: at rest, meaning while the data is being stored somewhere, like in a database, and in transit, meaning while the data is flying through the Internet in little packets. Both are necessary to protect important data.
+```
+
+I want Heather, Lauren, Kelela, all the ladies you dont speak to and visit [LALiBELA in ##LiTTLE_ETHiOPiA](https://www.lalibelala.com/) with the children so you can ground them in habesha culture. Take Erika and Sartu and be brave I got a special person, I did not know I had... And she wanna make it real publicly. Lets get this cleaned up, these women need answers and its not fair for you to be held up by those gay ass pimps. Its affecting other peoples SEX_LiVES
+[By the way this song dont work in our relationship, it sho sound good tho! ~> The S.O.S. Band - Just Be Good To Me](https://www.youtube.com/watch?v=UWVWVMIconI)
+<img src="https://i5.walmartimages.com/asr/041f899d-197e-418f-a2e3-02c9f5ee833b.075d79e1b7053a276ac59192ac0f5a3d.jpeg">
+
+[Cutie Pie](https://www.youtube.com/watch?v=hEpIQ9kX0tc)
+[When I Hear Music](https://youtu.be/RNSuX4KoWWQ)
+[Using em vs. rem in CSS by Lawrence Eagles](https://blog.logrocket.com/using-em-vs-rem-css/#:~:text=As%20mentioned%20before%2C%20em%20values%20are%20relative%20to,relative%20to%20the%20browser%E2%80%99s%20default%20font-size%20of%2016px.)
+[Let the Music Play (12 Inch Version) - SHANNON::TOMMY_BOY FREESTYLE MUSiC](https://www.youtube.com/watch?v=NCSHF1rm3Y4)
+[NuSHOOZ - I_CANT_WAIT](https://youtu.be/iNngC1Ea2rA)
+[GOOGLE_WEB_FONTS](https://fonts.google.com/)
+<img src="https://www.graffiti.org/oc/owie_aub.jpg">
+<img src="https://www.graffiti.org/fresno/sleep-bed.jpg"> 
+<img src="https://www.graffiti.org/fresno/sj014.jpg">
+<img src="https://www.graffiti.org/fresno/sleepwall.jpg">
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://www.graffiti.org/fresno/sleepwall2.jpg" alt="SARTU_IM_SAD_THEY_ROBBED_YOU_I_RESPECT_YOU_AS_KASHDOLL_AS_WELL_THEY_DONT">
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://www.graffiti.org/fresno/sleepwall3.jpg" alt="SARTU_IM_SAD_THEY_ROBBED_YOU_I_RESPECT_YOU_AS_KASHDOLL_AS_WELL_THEY_DONT"> 
+      </div>
+    </div>
+  </div>
+</div>
+<h2>	(╯°□°)╯︵ ʞooqǝɔɐɟ </h2>
+<p>  <span class="firstcharacter">PiNTEREST LocksOutFATHERS"</span> 
+It has been over two weeks since I have logged in. I found Sartu, my kidnapped wife from Ethiopia via ##ALPHARETTA. The previous time I found her she exclaimed "That's My Husband!!", and the captors refused to let her go. Im at a point in my life where I have gathered my life partners. The truth is that is too much power. I went to ##DANCE411 in Atlanta for sometime between parenting, working as a ##DevOps_ENGiNEER, and ##JiUJiTSU. A group of women that are blowing up the RnB Chitlin_Circuit of today chose me as thier dance husband... My from my understanding 4th cousin Muna and 8th cousin Sartu from ##ETHiO_SOMOLiA and about 10 other women decided we would start a business to support our artistic endevors and care for our children. They were all kidnapped with our children and sold into a ##PROSTiTUTION_MARKET_in_SOUTHERN_CALiFORNiA... We have relationships outdoors, but the pimps rape them systematically for use in a global ##SEX_TOURiSM_TRADE. The Human traffickers stole and steal everything I reaccquire to get on the internet. And when I travel to use computers at local librays in #LOS_ANGELES_COUNTY, I am severely stalked, attacked, poisoned with chemical weapons and randomly aharrassed. I was using pinterest to serve up internet content for our large families spiritual needs. Those of us from Africa are Muslims, and we had a semi-healthy stint with Jehovahs Witnesses. So we are a very spiritually minded family. However many of the pimps are anti god that we are dealing with... People on the late night show and everything are involved. Long story short.. Pinterest was our watering hole. I could post content bulletin board #style, and interact with my wives and children in passing as we wait for my old job JPL to step in   the CIA/FBi/US_MARSHALLS and other services in law enforcement has helped us contact since Erikas dissapearance was taken in by the ##DEKALB_COUNTY_SHRIFFs office and they told me to post constantly to stay visible... People dissapear when the dont post in this era of ##ECONOMIC_ASSASINATION_of_FATHERS_FOR_THE_PURPOSE_OF_PROSTITUTITUING_HEALTHY_FAMiLiES
+</p>
+<img src="https://www.graffiti.org/fresno/sleepwall7.jpg">
+
+[Billy Ocean - Get Outta My Dreams, Get Into My Car (Official Video)](https://www.youtube.com/watch?v=zNgcYGgtf8M)
+[BiLLY_OCEAN::Caribbean Queen (No More Love On the Run)](https://www.youtube.com/watch?v=VOiZC020nl0)
+[fontsquirrel](https://www.fontsquirrel.com/)
+[Change - The Glow Of Love [HQ]](https://www.youtube.com/watch?v=UMOJvKD_26I)
+[It Never Rains (In Southern California) - Tony! Toni! Toné!](https://youtu.be/Yp_5pQGTAtI)
+[Tony! Toni! Toné! - ANNiVERSARY](https://www.youtube.com/watch?v=UviG2rGwi9A)
+<img src="https://www.graffiti.org/fresno/hash1.jpg">
+<img src="https://www.graffiti.org/fresno/werk2.jpg">
+
+## WHO_WOULD?
+### ROB_SARTU_OF_ALL_HER_EXOTiC_JEWELERY_FROM_THE_MiDDLE_EAST?
+### ROB_HER_HUSBAND_OF_ALL_COMMUNiCATiON_DEViCES
+### CONSPiRE_WiTH_MATT_FiELDS_ETHNiC_CLENSiNG
+#### thats illegal
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://cdn.vox-cdn.com/thumbor/kCEW4Rfbc-eRrBAfJklXosGKOzc=/0x0:1157x656/1200x800/filters:focal(528x183:712x367)/cdn.vox-cdn.com/uploads/chorus_image/image/66512814/gettyimages_917140754_2048x2048.0.jpg" alt="SARTU_IM_SAD_THEY_ROBBED_YOU_I_RESPECT_YOU_AS_KASHDOLL_AS_WELL_THEY_DONT">
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://cdn.vox-cdn.com/thumbor/kCEW4Rfbc-eRrBAfJklXosGKOzc=/0x0:1157x656/1200x800/filters:focal(528x183:712x367)/cdn.vox-cdn.com/uploads/chorus_image/image/66512814/gettyimages_917140754_2048x2048.0.jpg" alt="SARTU_IM_SAD_THEY_ROBBED_YOU_I_RESPECT_YOU_AS_KASHDOLL_AS_WELL_THEY_DONT"> 
+      </div>
+    </div>
+  </div>
+</div>
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://images.fineartamerica.com/images-medium-large-5/usa-nevada-black-rock-desert-jaynes-gallery.jpg" alt="SARTU_IM_SAD_THEY_ROBBED_YOU_I_RESPECT_YOU_AS_KASHDOLL_AS_WELL_THEY_DONT">
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://images.fineartamerica.com/images-medium-large-5/usa-nevada-black-rock-desert-jaynes-gallery.jpg" alt="SARTU_IM_SAD_THEY_ROBBED_YOU_I_RESPECT_YOU_AS_KASHDOLL_AS_WELL_THEY_DONT"> 
+      </div>
+    </div>
+  </div>
+</div>
+
+### SUBURBAN_WIFEY_NiGHTMARE
+[KASHDOLL ROBBED IN LA!!!](https://www.youtube.com/watch?v=6s4slL3_jtI)
+
+## I saw Quxube on this hair channel once
+[How To: Install U Part Wig | Natural Wig || Ft. Nadula Hair](https://www.youtube.com/channel/UCn2JXG1R8JPdae0egLPYJsw)
+## i210_2015_commute
+<iframe width="100%" height="300" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/137559595&color=%23222222&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true&visual=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/anthonyn98" title="Sneakyyy" target="_blank" style="color: #cccccc; text-decoration: none;">Sneakyyy</a> · <a href="https://soundcloud.com/anthonyn98/barbed-wire-feat-ash-riser" title="Barbed Wire (feat. Ash Riser)" target="_blank" style="color: #cccccc; text-decoration: none;">Barbed Wire (feat. Ash Riser)</a></div>
+
+<h1>DEAR_ERiKA_RENEE_JOHNSON_KELLY(selassie_if_Lauren_is_right)</h1>
+[PLEASE_LiSTEN__iMiSSiNG_YOU_BEiNG_THAT_YOU_SO_FAR_AWAY](https://youtu.be/zRwLMC2wP0g)
+<iframe width="95%" height="315" src="https://www.youtube.com/embed/FIwhUiwWb-s" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Dear THOMAS_KHELETi_YOUTUBE_iS_SCRAMBLiNG
+## MY_RESULTS_SO_I_CANT_TALK_TO_QUXUBE
+<img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/QUXUBE_IS_SCRAMBLED.png " >
+
+[DEAR_QUXUBE::CLASSiCK_BuSTA_RHYMES::Busta Rhymes - Put Your Hands Where My Eyes Could See](https://youtu.be/GSoQDaXh144)
+[Tweet feat. Missy Elliott ‎– Oops (Oh My)](https://youtu.be/P5rqNyulfsQ)
+[Slick Partna](https://youtu.be/Jd_pmCI74NY)
+[That's Right by DJ Taz](https://youtu.be/xHLh0tZJfR0)
+[So So Def Bass Allstars-Apple Pie](https://youtu.be/ycPFLmxM-BI)
+[Kilo Ali- Freak How You Want It](https://youtu.be/9Ow--8nd2P4)
+[Pressha - Splackavellie](https://youtu.be/XzbkF_msWk0)
+[Playa - Cheers 2 U](https://youtu.be/0yvSkYpVZ_I)
+[Faith Evans - Soon As I Get Home](https://youtu.be/ylB0BIVS20U)
+[SWV - Weak](https://youtu.be/976b8TPPFJU)
+[Xscape - Just Kickin' It (Official Video)](https://www.youtube.com/watch?v=w_BTEFAVwjU)
+[Xscape - My Little Secret](https://youtu.be/iDHggk9NlN8)
+[Xscape - Who Can I Run To](https://youtu.be/xLjyPBQk_Os)
+[Xscape - The Arms of the One Who Loves You](https://youtu.be/5auQz0cWzbw)
+[Dru Hill - These Are The Times](https://youtu.be/6wPkC3DO_7Y)
+[Musiq Soulchild - So Beautiful](https://youtu.be/LgPpowVNEfE)
+
+
+<i>QUXUBE, PLEASE PLAY_COMFORTABLY_LOUD</i>
+## DEAR_MUNA::PLEASE_SHARE_WiTH_JABDU
+His uncle, one of your brother in laws is in FXcrew... MSK_SEVER should not be there when he watches 
+
+[‘FX CREW’ (Graffiti Writers Crew) New York, 1998 [RARE full graff art VHS documentary archive]](https://youtu.be/Jv7ECeiD1p4)
+<img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/fxPaint.PNG">
+
+## Beyonce::THeSe_SONGS_FOREVER_HEALiNG_ME
+[Beyoncé - Me, Myself and I (Video Version)](https://youtu.be/4S37SGxZSMc)
+<img src="https://i.discogs.com/KIHimth04lcZOjvotk_-0XFVWzRcEDseWe-HBLj7JvE/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTcwMzcz/NjEtMTQ2Nzc0MDgw/Mi0yMTMzLmpwZWc.jpeg">
+
+[Cara Delevingne Opens up About Those Weird Megan Thee Stallion Pics](https://www.pride.com/celebrities/2022/7/29/cara-delevingne-opens-about-those-weird-megan-thee-stallion-pics) [Cara, Have You Ever ft. BRANDY_KiDNAPPED_BY_SOME_PERVERT_NORWOOD](https://youtu.be/Xkj1An6Wnec) been accused of something awkward and did not get the chance to clear it up?! Id love to share our story for the ladies of Dance411 to verify so I can get my brides and children returned.
+
+[Destiny's Child - Emotion](https://youtu.be/xWKdMmH0B-E)
+[Destiny's Child - Cater 2 U](https://youtu.be/juqws1LIH-I)
+[Destiny's Child - Girl](https://youtu.be/ZIszesDaK9U)
+
+<div class="flex3BorderedPaddedROW">
+  <div class="item1">
+    <a href="https://youtu.be/UE6zfOuYfVI"><img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/monica.PNG" alt="MONiCA_KNOWS_MUNA_AND_##WE_ALL_NEED_FREEDM_FROM_PROSTiTUTION"> </a>
+  </div>
+  <div class="item2">
+    <a href="https://youtu.be/UE6zfOuYfVI"><img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/monica1.PNG" alt="MONiCA_KNOWS_MUNA_AND_##WE_ALL_NEED_FREEDM_FROM_PROSTiTUTION"> </a>
+  </div>
+  <div class="item3">
+    <a href="https://youtu.be/UE6zfOuYfVI"><img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/monica3.PNG" alt="MONiCA_KNOWS_MUNA_AND_##WE_ALL_NEED_FREEDM_FROM_PROSTiTUTION"> </a>
+  </div>
+</div>
+
+[Monica - So Gone (Official Video)](https://youtu.be/UE6zfOuYfVI)
+<h2>The general definition of abandonment is:</h2>
+<ol>
+  <li>Giving up or withdrawal of support from something or someone</li>
+  <li>The act of leaving or deserting a person or property.</li>
+</ol>
+<h2>What is husband abandonment syndrome?</h2>
+
+Spousal Abandonment Syndrome is when one of the spouses leaves the marriage without any warning, and—usually–without having shown any signs of unhappiness with the relationship. With spousal abandonment, there is often no outward sign that one of the spouses is frustrated or considering leaving the marriage.
+
+<h2>Marital desertion (abandonment)</h2> 
+
+Refers to a situation in which one spouse severs ties with the family, forsaking his or her responsibilities and duties to the family. Simply moving out of the family home in an attempt to create a temporary or permanent separation is not considered abandonment. The difference is often seen in the person’s refusal to provide necessary support... 
+[ReadMore](https://www.midlifedivorcerecovery.com/spousal-abandonment-syndrome/#:~:text=Spousal%20Abandonment%20Syndrome%20is%20when,or%20considering%20leaving%20the%20marriage.)
+
+<img src="https://raw.githubusercontent.com/ThakaRashard/film1/master/assets/images/DEAR_MEGAN_iiAM_WORKiNG_ON_EVERYONES_PUBLiC_PERCEPTION_THE_PORN_HAS_MESSED_US_ALL_UP_aND_WE_ALL_INNOCENT.png" >
+<h2>	(╯°□°)╯︵ ʞooqǝɔɐɟ </h2>
+
+[DEAR_MUNA::PLEASE_LiSTEN ~> Monica - Before You Walk Out Of My Life](https://youtu.be/Ptiz0KtR16E)
+[Musiq - Halfcrazy](https://youtu.be/IP4V3TTC3fw)
+[RKELLY::Trapped In the Closet (Chapters 1-5)::HiPHOP_RnB_OPERA](https://youtu.be/TVQv8Bh-RFY)
+[Fantasia - Truth Is](https://www.youtube.com/watch?v=e265_NvKvRQ)
+[TOKiMONSTA (feat. Yuna) - Don't Call Me (Official Video)](https://youtu.be/KMpED8Iy7L8)
+[Toni Braxton - Just Be A Man About It ](https://youtu.be/wpaR3wzTlvo)
+[Kelly Price - Friend Of Mine ft. Ronald Isley, R. Kelly, and SEVER_MSK](https://youtu.be/swP0h-K_Tss)
+[The Isley Brothers - Contagious](https://youtu.be/-qnSz6Lh5pY)
+[The Isley Brothers - Busted ft. JS ](https://youtu.be/PDKGDPSq03A)
+[CHANGiNG_FACES - Foolin' Around](https://youtu.be/S3R5D8EW90U)
+[702 - Get It Together](https://youtu.be/HxGNLsz9V5c)
+[Cherish - Unappreciated](https://youtu.be/tbPqVMbT34Q)
+[CHANGiNG_FACES - G.H.E.T.T.O.U.T., Pt. II](https://youtu.be/qeUSpB_bG7k)
+[Changing Faces - G. H. E. T. T. O. U. T. ](https://youtu.be/sJgI6sRFkP0)
+[Mary J. Blige - Not Gon' Cry ](https://youtu.be/WiM3bGcXYxk)
+[Vivian Green - Emotional Rollercoaster](https://youtu.be/63TudFk9-u8)
+[Mary J. Blige - MrS. Wrong ft. Drake](https://youtu.be/eS-y2R9cmnQ)
+[Donell Jones - Where I Wanna Be](https://youtu.be/PhfCgSA6DeQ)
+[AVANT - SEPARATED](https://youtu.be/yBhkqCOTW9I)
+[Erykah Badu - Tyrone___all4u_MUNA](https://youtu.be/YY2-mrsXgMM)
+[DEAR_MUNA_THE_MORE_YOU_TALK_THE_MORE_THiNGS_SounD_THE_SAME ~>  My Lovin' (You're Never Gonna Get It) ](https://youtu.be/JIuYQ_4TcXg)
+[Lauryn Hill - Ex-Factor](https://www.youtube.com/watch?v=cE-bnWqLqxE)
+[Keyshia Cole - I Should Have Cheated (BET Version) (Official Music Video)](https://youtu.be/29qvbeDA0iU)
+[MUNA_YOUR_ALLURE_HAS_FALTERED::iM_ALL_CRiED_OWT](https://youtu.be/D2_A3Ia-69U)
+[Uncle Sam - I Don't Ever Want TO See You Again](https://youtu.be/OWasrUYMHgo)
+[Dru Hill - Never Make A Promise](https://youtu.be/JAnA6c7Jql4)
+[Dru Hill - We're Not Making Love No More](https://youtu.be/V1O726-a0UI)
+[SEVER_MSK_IS_MESSiN_WiT_MY_HEAD_iN_MY_BED::Dru Hill - In My Bed](https://youtu.be/_Ixip0K2r10)
+[DEAR_MUNA - We Can't Be Friends_ft_Deborah Cox](https://youtu.be/01yPbUXnJZk)
+[Tamia - Stranger In My House](https://youtu.be/Bjq4wg2tzCU)
+[Sunshine Anderson "Heard It All Before"](https://youtu.be/NGMInHRR2Fo)
+
+
+<img src="https://static.hiphopdx.com/2022/01/B6B54A45-621E-4D03-98A1-B17B88E4ECCD-e1642796934275.jpeg">
+<div class="flex3BorderedPaddedROW">
+   
+    <div class="item1">                        
+<a href="https://www.youtube.com/watch?v=2HlOo0wwGQo" ><img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/SartUBreast_inTOXiCATE_Me.gif" > </a></div>
+    <div class="item2">                        
+<a href="https://www.youtube.com/watch?v=2HlOo0wwGQo" ><img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/SartUBreast_inTOXiCATE_Me.gif" > </a></div>
+    <div class="item3">                        <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/SartUBreast_inTOXiCATE_Me.gif" /></div>
+</div>
+
+[SARTU Nobody's Supposed To Be Here ft. Deborah Cox -](https://youtu.be/H947PtHmh0Y)
+[BUT_YOU_GOT_MY__Understanding and hand in marriage ༼ つ ◕_◕ ༽つ ft. Xscape - (Official Video)](https://youtu.be/HR5J5jUDcnA)
+[Whitney Houston - I Have Nothing ─=≡Σ((( つ◕ل͜◕)つ](https://youtu.be/FxYw0XPEoKE)
+[Nija - Love Like This (Official Audio)](https://youtu.be/zekfQq8AI4A)
+[Monica - Why I Love You So Much](https://youtu.be/qFRCPLAvxnM) <h2>ʕ♥ᴥ♥ʔ</h2> 
+[CASE - Happily Ever After](https://youtu.be/SRIdaMBKgk8)
+[Faith Evans - Soon As I Get Home](https://youtu.be/ylB0BIVS20U)
+[Floetry - Say Yes](https://youtu.be/PCCGIXME164)
+[Daley - Alone Together ft. Marsha Ambrosius](https://youtu.be/uV2kWGSFYXM)
+
+
+<h2>HORROR_CHOLO_FONT OpenTYPE_FONT</h2>
+Dear Lauren, 
+Muna and Sartu may or may not know about the shirt, however im sure CORAL_DOES! I made a   
+
+[StrangerThings](https://www.imdb.com/title/tt4574334/) inspired shirt, "ZOMBiE_BOY" based on WiLL_BYERS character, but applied to our Chicano demographic with a graffiti_font, the original was done using [ITC_BENGUiAT](https://en.wikipedia.org/wiki/ITC_Benguiat).  With the SOCiAL_MEDiA_Prostitution_War waging it has felt like the upside down for a while. All our design work from the ATLANTA_CHAPTER of our business is stuck in the [PRiNTFULS_DESiGN_RESOURCES_SECTiON](https://printful.com) of my account. I have been locked out like everything else and I still have no access to rashard@gmail or ymail.com so Im kinda stuck... [HANDSELECTA_HAS_THE_FONT](https://www.handselecta.com/fonts-commercial) . Graffiti fonts are really hard to make because the rhythms are not regulated in most handstyles for the entire alphabet. [MiKE_GiANT_DiD_THE_WORK](https://www.mikegiant.com/) and they are amazing! Perhaps you can [find fonts for your project](https://www.handselecta.com/store-1/digital-goods)
+<img src="https://images.squarespace-cdn.com/content/v1/5e8a7126d84c050678c7fd75/1646157743484-Y4YTY1FQUZD8A5CJBM31/Giant+Horror+-+Shop%402x.png">
+<img src="https://images.squarespace-cdn.com/content/v1/5e8a7126d84c050678c7fd75/1645998890554-55XT6J3LVGZ9SWFJ0TH6/Giant_Diamond_A.gif">
+<img src="https://cdn0.vox-cdn.com/uploads/chorus_asset/file/6630545/strangerthingsgif.0.gif">
+[ITC Benguiat is a decorative serif typeface designed by Ed Benguiat and released by the International Typeface Corporation (ITC) in 1977.](https://www.linotype.com/576/itc-benguiat-family.html) The face is loosely based upon typefaces of the Art Nouveau period but is not considered an academic revival. The face follows ITC's design formulary of an extremely high x-height, combined with multiple widths and weights. The original version of 1977 contained numerous nonstandard ligatures (such as AB, AE, AH, AK, AR, LA, SS, TT) and alternate shapes for some letters which were not carried into the digital version. 
+- TAKEN_FRON_WiKiPEDiA
+
+<h2>FLEXBOX FROGGY</h2>
+
+Dear_Sartu:LAUREN_asWELL, I found a game that helps you learn CSS [FLEXBOX](https://css-tricks.com/snippets/css/a-guide-to-flexbox/) from a post on DEV_dOt_cOm.
+[TRY_FLEXBOX_FROGGY](http://flexboxfroggy.com/)
+[SEE_ORiGiNAL_POST::BY_](https://dev.to/santiagocodes/the-3gs-of-css-flexbox-edition-4b64)
+[ALiST_APART_CSS_GRiDS](https://alistapart.com/article/practical-grid/)
+[Designing for the Unexpected by Cathy DuttonJuly 15, 2021](https://alistapart.com/article/designing-for-the-unexpected/)
+[Making Room for Variation by Yesenia Perez-Cruz](https://alistapart.com/article/making-room-for-variation/)
+[KULER___NOW_KNOWN_AS_ADOBE_COLOR](https://color.adobe.com/create/color-wheel)<i>DEAR_MUNA, Sartu has been tutoring me in Color_Theory</i>
+<div class="sixpanel">
+
+  <div class="item1"> <img src="https://i.pinimg.com/736x/c4/09/c3/c409c3ab371521c0abfa7466ff9d2976.jpg" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
+  <div class="item2"> <img src="https://i.pinimg.com/736x/c4/09/c3/c409c3ab371521c0abfa7466ff9d2976.jpg" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
+  <div class="item3"> <img src="https://i.pinimg.com/736x/c4/09/c3/c409c3ab371521c0abfa7466ff9d2976.jpg" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
+
+  <div class="item1"> <img src="https://i.pinimg.com/736x/c4/09/c3/c409c3ab371521c0abfa7466ff9d2976.jpg" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
+  <div class="item2"> <img src="https://i.pinimg.com/736x/c4/09/c3/c409c3ab371521c0abfa7466ff9d2976.jpg" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
+  <div class="item3"> <img src="https://i.pinimg.com/736x/c4/09/c3/c409c3ab371521c0abfa7466ff9d2976.jpg" alt="##I_SARTU_ALi_SELASSiE_AM_THAKA_RASHARD_IMAN_SELASSiES_WiFE" /></div>
+</div>
+<div class='twoPanelSpread'>
+  <div class='row'>
+    <div class='panelColumn'>
+      <div class='leftColumn'>
+        <img src="https://i.discogs.com/RgpKhe80R8baMRPaZCVtKjDEV0zmG5v-t7yyjInu9UM/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTg2MjA3/MzktMTU3MDE2NzIy/OC01NzU5LmpwZWc.jpeg" >
+      </div>
+    </div>
+    <div class='panelColumn'>
+      <div class='rightColumn'>
+        <img src="https://i.discogs.com/NuITW4p70CVKbyxR_EjjENq-f_XltexmzRAOgy-A_jo/rs:fit/g:sm/q:90/h:460/w:480/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTQ0NTEy/NTgtMTM2NTI1MTg3/MS02NDU3LmpwZWc.jpeg" > 
+      </div>
+    </div>
+  </div>
+</div>
+
+[Superwoman (Where Were You When I Needed You)](https://www.youtube.com/watch?v=oYpcCMxQXaE)
+<img src="https://i.discogs.com/YzhtLts7LkthVlFHqcaq5ZNZ59GEwslZA9KCw556CSc/rs:fit/g:sm/q:90/h:600/w:600/czM6Ly9kaXNjb2dz/LWRhdGFiYXNlLWlt/YWdlcy9SLTM1NTIz/My0xNDI2MTY2MTc0/LTkwODYuanBlZw.jpeg">
+
+
 
 <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/video/NORMANiFAiRBG.gif">
 <img src="https://raw.githubusercontent.com/ThakaRashard/bubblegumpop/gh-pages/img/Screenshot%202022-07-13%206.37.35%20AM.png">
