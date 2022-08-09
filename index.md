@@ -579,10 +579,12 @@ Relative position for absolute caption
 ```
 
 
-
+[Rob Swift - Dope On Plastic](https://www.youtube.com/watch?v=Doki3ACqzC8)
 [Dr Dre - The Roadium Mix Tape - Criminal](https://www.youtube.com/watch?v=8oeff7LxaP4)
 
 
+<img src="https://mksd.jp/honeyF.gif">
+<img src="https://mksd.jp/mdstencil_996.jpg">
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/30/Dodge_charger_1970_ad.jpg">
  <img src="https://thesource.com/wp-content/uploads/2022/02/AB3A9173-700x400.jpg" >
  
