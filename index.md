@@ -582,7 +582,7 @@ Relative position for absolute caption
 [Xecutioners - Mad Flava (Album: X-Pressions)](https://www.youtube.com/watch?v=P9E_p538Slc)
 [Rob Swift - Dope On Plastic](https://www.youtube.com/watch?v=Doki3ACqzC8)
 [Dr Dre - The Roadium Mix Tape - Criminal](https://www.youtube.com/watch?v=8oeff7LxaP4)
-
+<img src="https://typedifferent.com/fonts/bd_destination/bd_destination_example1.jpg" >
 
 <img src="https://mksd.jp/honeyF.gif">
 <img src="https://mksd.jp/mdstencil_996.jpg">
