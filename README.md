@@ -1,12 +1,12 @@
 # The Hacker theme
 
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-hacker.svg)](https://badge.fury.io/rb/jekyll-theme-hacker)
+![Screenshot 2025-06-13 12 28 54 PM](https://github.com/user-attachments/assets/b9c1e36c-221c-43f9-b7e7-44c1d5bde37e)
+![Screenshot 2025-06-13 12 28 46 PM](https://github.com/user-attachments/assets/f7848e80-a074-4ba8-b188-450b5607ebf2)
 
-*Hacker is a Jekyll theme for GitHub Pages. You can [preview the theme to see what it looks like](http://pages-themes.github.io/hacker), or even [use it today](#usage).*
-
-![Thumbnail of Hacker](thumbnail.png)
-
-## Usage
+![Screenshot 2025-06-13 12 28 54 PM](https://github.com/user-attachments/assets/4b54e950-fd01-48e8-ac75-573c65b5c71d)
+![Screenshot 2025-06-13 10 22 23 AM](https://github.com/user-attachments/assets/d84353c8-e7d2-4991-bde2-42481abb5ca8)
+![Screenshot 2025-06-13 10 33 22 AM](https://github.com/user-attachments/assets/1b0d0839-e658-4734-9cc9-879403fc7a59)
 
 To use the Hacker theme:
 
