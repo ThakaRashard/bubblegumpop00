@@ -758,6 +758,8 @@ LA_RiOTS:LiVE_NEWS:DEMO
 
 </div>
 
+![image](https://github.com/user-attachments/assets/74d624e1-4fb1-4c79-879b-c742947331a6)
+
 # LIVE: ABCNewsLive
 [![Twitter Follow](https://img.shields.io/badge/Social-@ABCNewsLive__-blue?style=social&logo=X)](https://twitter.com/@ABCNewsLive)
 <iframe width="640" height="360" src="https://abcnews.go.com/video/embed?id=abc_live11" allowfullscreen frameborder="0"></iframe>
@@ -827,7 +829,6 @@ The original Constitution for California was adopted at the California Constitut
 ![emit @nasa](https://www.psi.edu/wp-content/uploads/UPPER-emit-tetracorder-lake-mead-v1-1-copy-2.jpg)
 >This EMIT scene shows Lake Mead in Arizona-Nevada, United States. A) Tetracorder analysis for ferric and ferrous iron bearing minerals. Hematite (iron rust) and goethite (iron oxyhydroxide) are the two main minerals when abundant in dust can result in warming the atmosphere, and the Tetracorder analysis also derives the particle sizes from space. Hematite and goethite are two of the 10 minerals of concern for climate modelers, B) Visible color. C) Tetracorder analysis for the other eight EMIT minerals of concern. Note the intricate complexity of the mineral distributions in both panels A and B.
 Credit: Roger Clark/PSI/EMIT Team/JPL/NASA.
-{% include_relative current.md %}
 
 
 
