@@ -1,5 +1,6 @@
-# The Hacker theme
+<img  alt="image" src="https://github.com/user-attachments/assets/d2597459-0312-482e-becd-6c5109840ae4" />
 
+[link](https://bitbucket.org/rashard-podaac/bubblegumpop/src/master/)
 [![.github/workflows/ci.yaml](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml/badge.svg)](https://github.com/pages-themes/hacker/actions/workflows/ci.yaml) [![Gem Version](https://badge.fury.io/rb/jekyll-theme-hacker.svg)](https://badge.fury.io/rb/jekyll-theme-hacker)
 ![Screenshot 2025-06-13 12 28 54 PM](https://github.com/user-attachments/assets/b9c1e36c-221c-43f9-b7e7-44c1d5bde37e)
 ![Screenshot 2025-06-13 12 28 46 PM](https://github.com/user-attachments/assets/f7848e80-a074-4ba8-b188-450b5607ebf2)
